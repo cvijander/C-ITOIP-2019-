@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\ITOIP Relja\\1nedelja\\MojBroj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67BBE1C7-D2D7-4C44-9BC7-1684F47EDC95}|MojBroj\\MojBroj.csproj|k:\\itoip relja\\1nedelja\\mojbroj\\mojbroj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BBE1C7-D2D7-4C44-9BC7-1684F47EDC95}|MojBroj\\MojBroj.csproj|solutionrelative:mojbroj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "K:\\ITOIP Relja\\1nedelja\\MojBroj\\MojBroj\\Program.cs",
+              "RelativeDocumentMoniker": "MojBroj\\Program.cs",
+              "ToolTip": "K:\\ITOIP Relja\\1nedelja\\MojBroj\\MojBroj\\Program.cs",
+              "RelativeToolTip": "MojBroj\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T13:38:33.139Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

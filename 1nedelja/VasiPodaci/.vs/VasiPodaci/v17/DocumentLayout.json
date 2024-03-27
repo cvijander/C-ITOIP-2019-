@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\ITOIP Relja\\1nedelja\\VasiPodaci\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6601F879-3E85-454B-AA9B-51D5C84484CD}|VasiPodaci\\VasiPodaci.csproj|k:\\itoip relja\\1nedelja\\vasipodaci\\vasipodaci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6601F879-3E85-454B-AA9B-51D5C84484CD}|VasiPodaci\\VasiPodaci.csproj|solutionrelative:vasipodaci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "K:\\ITOIP Relja\\1nedelja\\VasiPodaci\\VasiPodaci\\Program.cs",
+              "RelativeDocumentMoniker": "VasiPodaci\\Program.cs",
+              "ToolTip": "K:\\ITOIP Relja\\1nedelja\\VasiPodaci\\VasiPodaci\\Program.cs",
+              "RelativeToolTip": "VasiPodaci\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T13:39:55.953Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

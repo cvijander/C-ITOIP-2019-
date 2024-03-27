@@ -1,0 +1,14 @@
+K:\ITOIP Relja\1nedelja\MojBroj\MojBroj\bin\Debug\net8.0\MojBroj.exe
+K:\ITOIP Relja\1nedelja\MojBroj\MojBroj\bin\Debug\net8.0\MojBroj.deps.json
+K:\ITOIP Relja\1nedelja\MojBroj\MojBroj\bin\Debug\net8.0\MojBroj.runtimeconfig.json
+K:\ITOIP Relja\1nedelja\MojBroj\MojBroj\bin\Debug\net8.0\MojBroj.dll
+K:\ITOIP Relja\1nedelja\MojBroj\MojBroj\bin\Debug\net8.0\MojBroj.pdb
+K:\ITOIP Relja\1nedelja\MojBroj\MojBroj\obj\Debug\net8.0\MojBroj.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\1nedelja\MojBroj\MojBroj\obj\Debug\net8.0\MojBroj.AssemblyInfoInputs.cache
+K:\ITOIP Relja\1nedelja\MojBroj\MojBroj\obj\Debug\net8.0\MojBroj.AssemblyInfo.cs
+K:\ITOIP Relja\1nedelja\MojBroj\MojBroj\obj\Debug\net8.0\MojBroj.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\1nedelja\MojBroj\MojBroj\obj\Debug\net8.0\MojBroj.dll
+K:\ITOIP Relja\1nedelja\MojBroj\MojBroj\obj\Debug\net8.0\refint\MojBroj.dll
+K:\ITOIP Relja\1nedelja\MojBroj\MojBroj\obj\Debug\net8.0\MojBroj.pdb
+K:\ITOIP Relja\1nedelja\MojBroj\MojBroj\obj\Debug\net8.0\MojBroj.genruntimeconfig.cache
+K:\ITOIP Relja\1nedelja\MojBroj\MojBroj\obj\Debug\net8.0\ref\MojBroj.dll

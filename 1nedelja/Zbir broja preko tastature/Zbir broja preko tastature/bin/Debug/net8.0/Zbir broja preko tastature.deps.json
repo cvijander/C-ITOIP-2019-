@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Zbir broja preko tastature/1.0.0": {
+        "runtime": {
+          "Zbir broja preko tastature.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zbir broja preko tastature/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

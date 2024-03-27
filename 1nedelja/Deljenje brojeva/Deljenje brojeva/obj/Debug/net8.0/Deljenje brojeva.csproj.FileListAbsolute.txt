@@ -1,0 +1,14 @@
+K:\ITOIP Relja\1nedelja\Deljenje brojeva\Deljenje brojeva\bin\Debug\net8.0\Deljenje brojeva.exe
+K:\ITOIP Relja\1nedelja\Deljenje brojeva\Deljenje brojeva\bin\Debug\net8.0\Deljenje brojeva.deps.json
+K:\ITOIP Relja\1nedelja\Deljenje brojeva\Deljenje brojeva\bin\Debug\net8.0\Deljenje brojeva.runtimeconfig.json
+K:\ITOIP Relja\1nedelja\Deljenje brojeva\Deljenje brojeva\bin\Debug\net8.0\Deljenje brojeva.dll
+K:\ITOIP Relja\1nedelja\Deljenje brojeva\Deljenje brojeva\bin\Debug\net8.0\Deljenje brojeva.pdb
+K:\ITOIP Relja\1nedelja\Deljenje brojeva\Deljenje brojeva\obj\Debug\net8.0\Deljenje brojeva.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\1nedelja\Deljenje brojeva\Deljenje brojeva\obj\Debug\net8.0\Deljenje brojeva.AssemblyInfoInputs.cache
+K:\ITOIP Relja\1nedelja\Deljenje brojeva\Deljenje brojeva\obj\Debug\net8.0\Deljenje brojeva.AssemblyInfo.cs
+K:\ITOIP Relja\1nedelja\Deljenje brojeva\Deljenje brojeva\obj\Debug\net8.0\Deljenje brojeva.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\1nedelja\Deljenje brojeva\Deljenje brojeva\obj\Debug\net8.0\Deljenje brojeva.dll
+K:\ITOIP Relja\1nedelja\Deljenje brojeva\Deljenje brojeva\obj\Debug\net8.0\refint\Deljenje brojeva.dll
+K:\ITOIP Relja\1nedelja\Deljenje brojeva\Deljenje brojeva\obj\Debug\net8.0\Deljenje brojeva.pdb
+K:\ITOIP Relja\1nedelja\Deljenje brojeva\Deljenje brojeva\obj\Debug\net8.0\Deljenje brojeva.genruntimeconfig.cache
+K:\ITOIP Relja\1nedelja\Deljenje brojeva\Deljenje brojeva\obj\Debug\net8.0\ref\Deljenje brojeva.dll

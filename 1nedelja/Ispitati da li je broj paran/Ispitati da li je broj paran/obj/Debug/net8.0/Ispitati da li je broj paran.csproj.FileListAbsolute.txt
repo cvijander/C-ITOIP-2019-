@@ -1,0 +1,14 @@
+K:\ITOIP Relja\1nedelja\Ispitati da li je broj paran\Ispitati da li je broj paran\bin\Debug\net8.0\Ispitati da li je broj paran.exe
+K:\ITOIP Relja\1nedelja\Ispitati da li je broj paran\Ispitati da li je broj paran\bin\Debug\net8.0\Ispitati da li je broj paran.deps.json
+K:\ITOIP Relja\1nedelja\Ispitati da li je broj paran\Ispitati da li je broj paran\bin\Debug\net8.0\Ispitati da li je broj paran.runtimeconfig.json
+K:\ITOIP Relja\1nedelja\Ispitati da li je broj paran\Ispitati da li je broj paran\bin\Debug\net8.0\Ispitati da li je broj paran.dll
+K:\ITOIP Relja\1nedelja\Ispitati da li je broj paran\Ispitati da li je broj paran\bin\Debug\net8.0\Ispitati da li je broj paran.pdb
+K:\ITOIP Relja\1nedelja\Ispitati da li je broj paran\Ispitati da li je broj paran\obj\Debug\net8.0\Ispitati da li je broj paran.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\1nedelja\Ispitati da li je broj paran\Ispitati da li je broj paran\obj\Debug\net8.0\Ispitati da li je broj paran.AssemblyInfoInputs.cache
+K:\ITOIP Relja\1nedelja\Ispitati da li je broj paran\Ispitati da li je broj paran\obj\Debug\net8.0\Ispitati da li je broj paran.AssemblyInfo.cs
+K:\ITOIP Relja\1nedelja\Ispitati da li je broj paran\Ispitati da li je broj paran\obj\Debug\net8.0\Ispitati da li je broj paran.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\1nedelja\Ispitati da li je broj paran\Ispitati da li je broj paran\obj\Debug\net8.0\Ispitati da li je broj paran.dll
+K:\ITOIP Relja\1nedelja\Ispitati da li je broj paran\Ispitati da li je broj paran\obj\Debug\net8.0\refint\Ispitati da li je broj paran.dll
+K:\ITOIP Relja\1nedelja\Ispitati da li je broj paran\Ispitati da li je broj paran\obj\Debug\net8.0\Ispitati da li je broj paran.pdb
+K:\ITOIP Relja\1nedelja\Ispitati da li je broj paran\Ispitati da li je broj paran\obj\Debug\net8.0\Ispitati da li je broj paran.genruntimeconfig.cache
+K:\ITOIP Relja\1nedelja\Ispitati da li je broj paran\Ispitati da li je broj paran\obj\Debug\net8.0\ref\Ispitati da li je broj paran.dll

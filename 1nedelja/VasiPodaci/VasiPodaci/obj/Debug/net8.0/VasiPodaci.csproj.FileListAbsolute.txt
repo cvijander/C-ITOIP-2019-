@@ -1,0 +1,14 @@
+K:\ITOIP Relja\1nedelja\VasiPodaci\VasiPodaci\bin\Debug\net8.0\VasiPodaci.exe
+K:\ITOIP Relja\1nedelja\VasiPodaci\VasiPodaci\bin\Debug\net8.0\VasiPodaci.deps.json
+K:\ITOIP Relja\1nedelja\VasiPodaci\VasiPodaci\bin\Debug\net8.0\VasiPodaci.runtimeconfig.json
+K:\ITOIP Relja\1nedelja\VasiPodaci\VasiPodaci\bin\Debug\net8.0\VasiPodaci.dll
+K:\ITOIP Relja\1nedelja\VasiPodaci\VasiPodaci\bin\Debug\net8.0\VasiPodaci.pdb
+K:\ITOIP Relja\1nedelja\VasiPodaci\VasiPodaci\obj\Debug\net8.0\VasiPodaci.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\1nedelja\VasiPodaci\VasiPodaci\obj\Debug\net8.0\VasiPodaci.AssemblyInfoInputs.cache
+K:\ITOIP Relja\1nedelja\VasiPodaci\VasiPodaci\obj\Debug\net8.0\VasiPodaci.AssemblyInfo.cs
+K:\ITOIP Relja\1nedelja\VasiPodaci\VasiPodaci\obj\Debug\net8.0\VasiPodaci.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\1nedelja\VasiPodaci\VasiPodaci\obj\Debug\net8.0\VasiPodaci.dll
+K:\ITOIP Relja\1nedelja\VasiPodaci\VasiPodaci\obj\Debug\net8.0\refint\VasiPodaci.dll
+K:\ITOIP Relja\1nedelja\VasiPodaci\VasiPodaci\obj\Debug\net8.0\VasiPodaci.pdb
+K:\ITOIP Relja\1nedelja\VasiPodaci\VasiPodaci\obj\Debug\net8.0\VasiPodaci.genruntimeconfig.cache
+K:\ITOIP Relja\1nedelja\VasiPodaci\VasiPodaci\obj\Debug\net8.0\ref\VasiPodaci.dll

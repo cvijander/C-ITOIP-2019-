@@ -1,0 +1,14 @@
+K:\ITOIP Relja\1nedelja\Zbir broja preko tastature\Zbir broja preko tastature\bin\Debug\net8.0\Zbir broja preko tastature.exe
+K:\ITOIP Relja\1nedelja\Zbir broja preko tastature\Zbir broja preko tastature\bin\Debug\net8.0\Zbir broja preko tastature.deps.json
+K:\ITOIP Relja\1nedelja\Zbir broja preko tastature\Zbir broja preko tastature\bin\Debug\net8.0\Zbir broja preko tastature.runtimeconfig.json
+K:\ITOIP Relja\1nedelja\Zbir broja preko tastature\Zbir broja preko tastature\bin\Debug\net8.0\Zbir broja preko tastature.dll
+K:\ITOIP Relja\1nedelja\Zbir broja preko tastature\Zbir broja preko tastature\bin\Debug\net8.0\Zbir broja preko tastature.pdb
+K:\ITOIP Relja\1nedelja\Zbir broja preko tastature\Zbir broja preko tastature\obj\Debug\net8.0\Zbir broja preko tastature.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\1nedelja\Zbir broja preko tastature\Zbir broja preko tastature\obj\Debug\net8.0\Zbir broja preko tastature.AssemblyInfoInputs.cache
+K:\ITOIP Relja\1nedelja\Zbir broja preko tastature\Zbir broja preko tastature\obj\Debug\net8.0\Zbir broja preko tastature.AssemblyInfo.cs
+K:\ITOIP Relja\1nedelja\Zbir broja preko tastature\Zbir broja preko tastature\obj\Debug\net8.0\Zbir broja preko tastature.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\1nedelja\Zbir broja preko tastature\Zbir broja preko tastature\obj\Debug\net8.0\Zbir broja preko tastature.dll
+K:\ITOIP Relja\1nedelja\Zbir broja preko tastature\Zbir broja preko tastature\obj\Debug\net8.0\refint\Zbir broja preko tastature.dll
+K:\ITOIP Relja\1nedelja\Zbir broja preko tastature\Zbir broja preko tastature\obj\Debug\net8.0\Zbir broja preko tastature.pdb
+K:\ITOIP Relja\1nedelja\Zbir broja preko tastature\Zbir broja preko tastature\obj\Debug\net8.0\Zbir broja preko tastature.genruntimeconfig.cache
+K:\ITOIP Relja\1nedelja\Zbir broja preko tastature\Zbir broja preko tastature\obj\Debug\net8.0\ref\Zbir broja preko tastature.dll

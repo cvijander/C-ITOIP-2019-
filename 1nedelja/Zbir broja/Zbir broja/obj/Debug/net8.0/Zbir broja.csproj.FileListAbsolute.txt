@@ -1,0 +1,14 @@
+K:\ITOIP Relja\1nedelja\Zbir broja\Zbir broja\bin\Debug\net8.0\Zbir broja.exe
+K:\ITOIP Relja\1nedelja\Zbir broja\Zbir broja\bin\Debug\net8.0\Zbir broja.deps.json
+K:\ITOIP Relja\1nedelja\Zbir broja\Zbir broja\bin\Debug\net8.0\Zbir broja.runtimeconfig.json
+K:\ITOIP Relja\1nedelja\Zbir broja\Zbir broja\bin\Debug\net8.0\Zbir broja.dll
+K:\ITOIP Relja\1nedelja\Zbir broja\Zbir broja\bin\Debug\net8.0\Zbir broja.pdb
+K:\ITOIP Relja\1nedelja\Zbir broja\Zbir broja\obj\Debug\net8.0\Zbir broja.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\1nedelja\Zbir broja\Zbir broja\obj\Debug\net8.0\Zbir broja.AssemblyInfoInputs.cache
+K:\ITOIP Relja\1nedelja\Zbir broja\Zbir broja\obj\Debug\net8.0\Zbir broja.AssemblyInfo.cs
+K:\ITOIP Relja\1nedelja\Zbir broja\Zbir broja\obj\Debug\net8.0\Zbir broja.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\1nedelja\Zbir broja\Zbir broja\obj\Debug\net8.0\Zbir broja.dll
+K:\ITOIP Relja\1nedelja\Zbir broja\Zbir broja\obj\Debug\net8.0\refint\Zbir broja.dll
+K:\ITOIP Relja\1nedelja\Zbir broja\Zbir broja\obj\Debug\net8.0\Zbir broja.pdb
+K:\ITOIP Relja\1nedelja\Zbir broja\Zbir broja\obj\Debug\net8.0\Zbir broja.genruntimeconfig.cache
+K:\ITOIP Relja\1nedelja\Zbir broja\Zbir broja\obj\Debug\net8.0\ref\Zbir broja.dll
