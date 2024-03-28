@@ -1,0 +1,15 @@
+K:\ITOIP Relja\1nedelja\Logicko desavanje\Logicko desavanje\bin\Debug\net8.0\Logicko desavanje.exe
+K:\ITOIP Relja\1nedelja\Logicko desavanje\Logicko desavanje\bin\Debug\net8.0\Logicko desavanje.deps.json
+K:\ITOIP Relja\1nedelja\Logicko desavanje\Logicko desavanje\bin\Debug\net8.0\Logicko desavanje.runtimeconfig.json
+K:\ITOIP Relja\1nedelja\Logicko desavanje\Logicko desavanje\bin\Debug\net8.0\Logicko desavanje.dll
+K:\ITOIP Relja\1nedelja\Logicko desavanje\Logicko desavanje\bin\Debug\net8.0\Logicko desavanje.pdb
+K:\ITOIP Relja\1nedelja\Logicko desavanje\Logicko desavanje\obj\Debug\net8.0\Logicko desavanje.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\1nedelja\Logicko desavanje\Logicko desavanje\obj\Debug\net8.0\Logicko desavanje.AssemblyInfoInputs.cache
+K:\ITOIP Relja\1nedelja\Logicko desavanje\Logicko desavanje\obj\Debug\net8.0\Logicko desavanje.AssemblyInfo.cs
+K:\ITOIP Relja\1nedelja\Logicko desavanje\Logicko desavanje\obj\Debug\net8.0\Logicko desavanje.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\1nedelja\Logicko desavanje\Logicko desavanje\obj\Debug\net8.0\Logicko desavanje.sourcelink.json
+K:\ITOIP Relja\1nedelja\Logicko desavanje\Logicko desavanje\obj\Debug\net8.0\Logicko desavanje.dll
+K:\ITOIP Relja\1nedelja\Logicko desavanje\Logicko desavanje\obj\Debug\net8.0\refint\Logicko desavanje.dll
+K:\ITOIP Relja\1nedelja\Logicko desavanje\Logicko desavanje\obj\Debug\net8.0\Logicko desavanje.pdb
+K:\ITOIP Relja\1nedelja\Logicko desavanje\Logicko desavanje\obj\Debug\net8.0\Logicko desavanje.genruntimeconfig.cache
+K:\ITOIP Relja\1nedelja\Logicko desavanje\Logicko desavanje\obj\Debug\net8.0\ref\Logicko desavanje.dll

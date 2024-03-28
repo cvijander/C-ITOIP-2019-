@@ -1,0 +1,15 @@
+K:\ITOIP Relja\1nedelja\Pogadjanje tackog broja 4 puta\Pogadjanje tackog broja 4 puta\bin\Debug\net8.0\Pogadjanje tackog broja 4 puta.exe
+K:\ITOIP Relja\1nedelja\Pogadjanje tackog broja 4 puta\Pogadjanje tackog broja 4 puta\bin\Debug\net8.0\Pogadjanje tackog broja 4 puta.deps.json
+K:\ITOIP Relja\1nedelja\Pogadjanje tackog broja 4 puta\Pogadjanje tackog broja 4 puta\bin\Debug\net8.0\Pogadjanje tackog broja 4 puta.runtimeconfig.json
+K:\ITOIP Relja\1nedelja\Pogadjanje tackog broja 4 puta\Pogadjanje tackog broja 4 puta\bin\Debug\net8.0\Pogadjanje tackog broja 4 puta.dll
+K:\ITOIP Relja\1nedelja\Pogadjanje tackog broja 4 puta\Pogadjanje tackog broja 4 puta\bin\Debug\net8.0\Pogadjanje tackog broja 4 puta.pdb
+K:\ITOIP Relja\1nedelja\Pogadjanje tackog broja 4 puta\Pogadjanje tackog broja 4 puta\obj\Debug\net8.0\Pogadjanje tackog broja 4 puta.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\1nedelja\Pogadjanje tackog broja 4 puta\Pogadjanje tackog broja 4 puta\obj\Debug\net8.0\Pogadjanje tackog broja 4 puta.AssemblyInfoInputs.cache
+K:\ITOIP Relja\1nedelja\Pogadjanje tackog broja 4 puta\Pogadjanje tackog broja 4 puta\obj\Debug\net8.0\Pogadjanje tackog broja 4 puta.AssemblyInfo.cs
+K:\ITOIP Relja\1nedelja\Pogadjanje tackog broja 4 puta\Pogadjanje tackog broja 4 puta\obj\Debug\net8.0\Pogadjanje tackog broja 4 puta.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\1nedelja\Pogadjanje tackog broja 4 puta\Pogadjanje tackog broja 4 puta\obj\Debug\net8.0\Pogadjanje tackog broja 4 puta.sourcelink.json
+K:\ITOIP Relja\1nedelja\Pogadjanje tackog broja 4 puta\Pogadjanje tackog broja 4 puta\obj\Debug\net8.0\Pogadjanje tackog broja 4 puta.dll
+K:\ITOIP Relja\1nedelja\Pogadjanje tackog broja 4 puta\Pogadjanje tackog broja 4 puta\obj\Debug\net8.0\refint\Pogadjanje tackog broja 4 puta.dll
+K:\ITOIP Relja\1nedelja\Pogadjanje tackog broja 4 puta\Pogadjanje tackog broja 4 puta\obj\Debug\net8.0\Pogadjanje tackog broja 4 puta.pdb
+K:\ITOIP Relja\1nedelja\Pogadjanje tackog broja 4 puta\Pogadjanje tackog broja 4 puta\obj\Debug\net8.0\Pogadjanje tackog broja 4 puta.genruntimeconfig.cache
+K:\ITOIP Relja\1nedelja\Pogadjanje tackog broja 4 puta\Pogadjanje tackog broja 4 puta\obj\Debug\net8.0\ref\Pogadjanje tackog broja 4 puta.dll

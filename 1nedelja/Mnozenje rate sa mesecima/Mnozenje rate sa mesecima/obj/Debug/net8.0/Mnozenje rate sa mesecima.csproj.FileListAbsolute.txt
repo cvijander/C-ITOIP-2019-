@@ -1,0 +1,15 @@
+K:\ITOIP Relja\1nedelja\Mnozenje rate sa mesecima\Mnozenje rate sa mesecima\obj\Debug\net8.0\Mnozenje rate sa mesecima.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\1nedelja\Mnozenje rate sa mesecima\Mnozenje rate sa mesecima\obj\Debug\net8.0\Mnozenje rate sa mesecima.AssemblyInfoInputs.cache
+K:\ITOIP Relja\1nedelja\Mnozenje rate sa mesecima\Mnozenje rate sa mesecima\obj\Debug\net8.0\Mnozenje rate sa mesecima.AssemblyInfo.cs
+K:\ITOIP Relja\1nedelja\Mnozenje rate sa mesecima\Mnozenje rate sa mesecima\obj\Debug\net8.0\Mnozenje rate sa mesecima.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\1nedelja\Mnozenje rate sa mesecima\Mnozenje rate sa mesecima\obj\Debug\net8.0\Mnozenje rate sa mesecima.sourcelink.json
+K:\ITOIP Relja\1nedelja\Mnozenje rate sa mesecima\Mnozenje rate sa mesecima\bin\Debug\net8.0\Mnozenje rate sa mesecima.exe
+K:\ITOIP Relja\1nedelja\Mnozenje rate sa mesecima\Mnozenje rate sa mesecima\bin\Debug\net8.0\Mnozenje rate sa mesecima.deps.json
+K:\ITOIP Relja\1nedelja\Mnozenje rate sa mesecima\Mnozenje rate sa mesecima\bin\Debug\net8.0\Mnozenje rate sa mesecima.runtimeconfig.json
+K:\ITOIP Relja\1nedelja\Mnozenje rate sa mesecima\Mnozenje rate sa mesecima\bin\Debug\net8.0\Mnozenje rate sa mesecima.dll
+K:\ITOIP Relja\1nedelja\Mnozenje rate sa mesecima\Mnozenje rate sa mesecima\bin\Debug\net8.0\Mnozenje rate sa mesecima.pdb
+K:\ITOIP Relja\1nedelja\Mnozenje rate sa mesecima\Mnozenje rate sa mesecima\obj\Debug\net8.0\Mnozenje rate sa mesecima.dll
+K:\ITOIP Relja\1nedelja\Mnozenje rate sa mesecima\Mnozenje rate sa mesecima\obj\Debug\net8.0\refint\Mnozenje rate sa mesecima.dll
+K:\ITOIP Relja\1nedelja\Mnozenje rate sa mesecima\Mnozenje rate sa mesecima\obj\Debug\net8.0\Mnozenje rate sa mesecima.pdb
+K:\ITOIP Relja\1nedelja\Mnozenje rate sa mesecima\Mnozenje rate sa mesecima\obj\Debug\net8.0\Mnozenje rate sa mesecima.genruntimeconfig.cache
+K:\ITOIP Relja\1nedelja\Mnozenje rate sa mesecima\Mnozenje rate sa mesecima\obj\Debug\net8.0\ref\Mnozenje rate sa mesecima.dll

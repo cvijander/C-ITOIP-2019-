@@ -1,0 +1,15 @@
+K:\ITOIP Relja\1nedelja\Ocenite nastavnika\Ocenite nastavnika\bin\Debug\net8.0\Ocenite nastavnika.exe
+K:\ITOIP Relja\1nedelja\Ocenite nastavnika\Ocenite nastavnika\bin\Debug\net8.0\Ocenite nastavnika.deps.json
+K:\ITOIP Relja\1nedelja\Ocenite nastavnika\Ocenite nastavnika\bin\Debug\net8.0\Ocenite nastavnika.runtimeconfig.json
+K:\ITOIP Relja\1nedelja\Ocenite nastavnika\Ocenite nastavnika\bin\Debug\net8.0\Ocenite nastavnika.dll
+K:\ITOIP Relja\1nedelja\Ocenite nastavnika\Ocenite nastavnika\bin\Debug\net8.0\Ocenite nastavnika.pdb
+K:\ITOIP Relja\1nedelja\Ocenite nastavnika\Ocenite nastavnika\obj\Debug\net8.0\Ocenite nastavnika.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\1nedelja\Ocenite nastavnika\Ocenite nastavnika\obj\Debug\net8.0\Ocenite nastavnika.AssemblyInfoInputs.cache
+K:\ITOIP Relja\1nedelja\Ocenite nastavnika\Ocenite nastavnika\obj\Debug\net8.0\Ocenite nastavnika.AssemblyInfo.cs
+K:\ITOIP Relja\1nedelja\Ocenite nastavnika\Ocenite nastavnika\obj\Debug\net8.0\Ocenite nastavnika.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\1nedelja\Ocenite nastavnika\Ocenite nastavnika\obj\Debug\net8.0\Ocenite nastavnika.sourcelink.json
+K:\ITOIP Relja\1nedelja\Ocenite nastavnika\Ocenite nastavnika\obj\Debug\net8.0\Ocenite nastavnika.dll
+K:\ITOIP Relja\1nedelja\Ocenite nastavnika\Ocenite nastavnika\obj\Debug\net8.0\refint\Ocenite nastavnika.dll
+K:\ITOIP Relja\1nedelja\Ocenite nastavnika\Ocenite nastavnika\obj\Debug\net8.0\Ocenite nastavnika.pdb
+K:\ITOIP Relja\1nedelja\Ocenite nastavnika\Ocenite nastavnika\obj\Debug\net8.0\Ocenite nastavnika.genruntimeconfig.cache
+K:\ITOIP Relja\1nedelja\Ocenite nastavnika\Ocenite nastavnika\obj\Debug\net8.0\ref\Ocenite nastavnika.dll

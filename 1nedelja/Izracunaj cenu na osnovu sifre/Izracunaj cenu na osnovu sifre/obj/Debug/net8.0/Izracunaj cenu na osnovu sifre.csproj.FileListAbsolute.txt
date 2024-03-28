@@ -1,0 +1,15 @@
+K:\ITOIP Relja\1nedelja\Izracunaj cenu na osnovu sifre\Izracunaj cenu na osnovu sifre\bin\Debug\net8.0\Izracunaj cenu na osnovu sifre.exe
+K:\ITOIP Relja\1nedelja\Izracunaj cenu na osnovu sifre\Izracunaj cenu na osnovu sifre\bin\Debug\net8.0\Izracunaj cenu na osnovu sifre.deps.json
+K:\ITOIP Relja\1nedelja\Izracunaj cenu na osnovu sifre\Izracunaj cenu na osnovu sifre\bin\Debug\net8.0\Izracunaj cenu na osnovu sifre.runtimeconfig.json
+K:\ITOIP Relja\1nedelja\Izracunaj cenu na osnovu sifre\Izracunaj cenu na osnovu sifre\bin\Debug\net8.0\Izracunaj cenu na osnovu sifre.dll
+K:\ITOIP Relja\1nedelja\Izracunaj cenu na osnovu sifre\Izracunaj cenu na osnovu sifre\bin\Debug\net8.0\Izracunaj cenu na osnovu sifre.pdb
+K:\ITOIP Relja\1nedelja\Izracunaj cenu na osnovu sifre\Izracunaj cenu na osnovu sifre\obj\Debug\net8.0\Izracunaj cenu na osnovu sifre.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\1nedelja\Izracunaj cenu na osnovu sifre\Izracunaj cenu na osnovu sifre\obj\Debug\net8.0\Izracunaj cenu na osnovu sifre.AssemblyInfoInputs.cache
+K:\ITOIP Relja\1nedelja\Izracunaj cenu na osnovu sifre\Izracunaj cenu na osnovu sifre\obj\Debug\net8.0\Izracunaj cenu na osnovu sifre.AssemblyInfo.cs
+K:\ITOIP Relja\1nedelja\Izracunaj cenu na osnovu sifre\Izracunaj cenu na osnovu sifre\obj\Debug\net8.0\Izracunaj cenu na osnovu sifre.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\1nedelja\Izracunaj cenu na osnovu sifre\Izracunaj cenu na osnovu sifre\obj\Debug\net8.0\Izracunaj cenu na osnovu sifre.sourcelink.json
+K:\ITOIP Relja\1nedelja\Izracunaj cenu na osnovu sifre\Izracunaj cenu na osnovu sifre\obj\Debug\net8.0\Izracunaj cenu na osnovu sifre.dll
+K:\ITOIP Relja\1nedelja\Izracunaj cenu na osnovu sifre\Izracunaj cenu na osnovu sifre\obj\Debug\net8.0\refint\Izracunaj cenu na osnovu sifre.dll
+K:\ITOIP Relja\1nedelja\Izracunaj cenu na osnovu sifre\Izracunaj cenu na osnovu sifre\obj\Debug\net8.0\Izracunaj cenu na osnovu sifre.pdb
+K:\ITOIP Relja\1nedelja\Izracunaj cenu na osnovu sifre\Izracunaj cenu na osnovu sifre\obj\Debug\net8.0\Izracunaj cenu na osnovu sifre.genruntimeconfig.cache
+K:\ITOIP Relja\1nedelja\Izracunaj cenu na osnovu sifre\Izracunaj cenu na osnovu sifre\obj\Debug\net8.0\ref\Izracunaj cenu na osnovu sifre.dll

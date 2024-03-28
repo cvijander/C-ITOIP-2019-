@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Pogadjanje tackog broja 4 puta/1.0.0": {
+        "runtime": {
+          "Pogadjanje tackog broja 4 puta.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pogadjanje tackog broja 4 puta/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

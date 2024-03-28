@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Mnozenje rate sa mesecima/1.0.0": {
+        "runtime": {
+          "Mnozenje rate sa mesecima.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mnozenje rate sa mesecima/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

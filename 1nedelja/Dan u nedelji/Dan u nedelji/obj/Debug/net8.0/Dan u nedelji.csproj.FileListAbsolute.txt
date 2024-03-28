@@ -1,0 +1,15 @@
+K:\ITOIP Relja\1nedelja\Dan u nedelji\Dan u nedelji\bin\Debug\net8.0\Dan u nedelji.exe
+K:\ITOIP Relja\1nedelja\Dan u nedelji\Dan u nedelji\bin\Debug\net8.0\Dan u nedelji.deps.json
+K:\ITOIP Relja\1nedelja\Dan u nedelji\Dan u nedelji\bin\Debug\net8.0\Dan u nedelji.runtimeconfig.json
+K:\ITOIP Relja\1nedelja\Dan u nedelji\Dan u nedelji\bin\Debug\net8.0\Dan u nedelji.dll
+K:\ITOIP Relja\1nedelja\Dan u nedelji\Dan u nedelji\bin\Debug\net8.0\Dan u nedelji.pdb
+K:\ITOIP Relja\1nedelja\Dan u nedelji\Dan u nedelji\obj\Debug\net8.0\Dan u nedelji.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\1nedelja\Dan u nedelji\Dan u nedelji\obj\Debug\net8.0\Dan u nedelji.AssemblyInfoInputs.cache
+K:\ITOIP Relja\1nedelja\Dan u nedelji\Dan u nedelji\obj\Debug\net8.0\Dan u nedelji.AssemblyInfo.cs
+K:\ITOIP Relja\1nedelja\Dan u nedelji\Dan u nedelji\obj\Debug\net8.0\Dan u nedelji.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\1nedelja\Dan u nedelji\Dan u nedelji\obj\Debug\net8.0\Dan u nedelji.sourcelink.json
+K:\ITOIP Relja\1nedelja\Dan u nedelji\Dan u nedelji\obj\Debug\net8.0\Dan u nedelji.dll
+K:\ITOIP Relja\1nedelja\Dan u nedelji\Dan u nedelji\obj\Debug\net8.0\refint\Dan u nedelji.dll
+K:\ITOIP Relja\1nedelja\Dan u nedelji\Dan u nedelji\obj\Debug\net8.0\Dan u nedelji.pdb
+K:\ITOIP Relja\1nedelja\Dan u nedelji\Dan u nedelji\obj\Debug\net8.0\Dan u nedelji.genruntimeconfig.cache
+K:\ITOIP Relja\1nedelja\Dan u nedelji\Dan u nedelji\obj\Debug\net8.0\ref\Dan u nedelji.dll

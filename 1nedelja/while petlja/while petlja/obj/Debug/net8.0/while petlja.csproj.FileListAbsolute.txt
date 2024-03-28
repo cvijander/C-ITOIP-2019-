@@ -1,0 +1,15 @@
+K:\ITOIP Relja\1nedelja\while petlja\while petlja\bin\Debug\net8.0\while petlja.exe
+K:\ITOIP Relja\1nedelja\while petlja\while petlja\bin\Debug\net8.0\while petlja.deps.json
+K:\ITOIP Relja\1nedelja\while petlja\while petlja\bin\Debug\net8.0\while petlja.runtimeconfig.json
+K:\ITOIP Relja\1nedelja\while petlja\while petlja\bin\Debug\net8.0\while petlja.dll
+K:\ITOIP Relja\1nedelja\while petlja\while petlja\bin\Debug\net8.0\while petlja.pdb
+K:\ITOIP Relja\1nedelja\while petlja\while petlja\obj\Debug\net8.0\while petlja.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\1nedelja\while petlja\while petlja\obj\Debug\net8.0\while petlja.AssemblyInfoInputs.cache
+K:\ITOIP Relja\1nedelja\while petlja\while petlja\obj\Debug\net8.0\while petlja.AssemblyInfo.cs
+K:\ITOIP Relja\1nedelja\while petlja\while petlja\obj\Debug\net8.0\while petlja.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\1nedelja\while petlja\while petlja\obj\Debug\net8.0\while petlja.sourcelink.json
+K:\ITOIP Relja\1nedelja\while petlja\while petlja\obj\Debug\net8.0\while petlja.dll
+K:\ITOIP Relja\1nedelja\while petlja\while petlja\obj\Debug\net8.0\refint\while petlja.dll
+K:\ITOIP Relja\1nedelja\while petlja\while petlja\obj\Debug\net8.0\while petlja.pdb
+K:\ITOIP Relja\1nedelja\while petlja\while petlja\obj\Debug\net8.0\while petlja.genruntimeconfig.cache
+K:\ITOIP Relja\1nedelja\while petlja\while petlja\obj\Debug\net8.0\ref\while petlja.dll

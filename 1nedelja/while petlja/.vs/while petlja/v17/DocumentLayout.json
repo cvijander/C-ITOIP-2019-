@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\ITOIP Relja\\1nedelja\\while petlja\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{983CEF5C-A45F-49D9-94C8-7DA01F769FF9}|while petlja\\while petlja.csproj|k:\\itoip relja\\1nedelja\\while petlja\\while petlja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{983CEF5C-A45F-49D9-94C8-7DA01F769FF9}|while petlja\\while petlja.csproj|solutionrelative:while petlja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "K:\\ITOIP Relja\\1nedelja\\while petlja\\while petlja\\Program.cs",
+              "RelativeDocumentMoniker": "while petlja\\Program.cs",
+              "ToolTip": "K:\\ITOIP Relja\\1nedelja\\while petlja\\while petlja\\Program.cs",
+              "RelativeToolTip": "while petlja\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T16:19:51.67Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

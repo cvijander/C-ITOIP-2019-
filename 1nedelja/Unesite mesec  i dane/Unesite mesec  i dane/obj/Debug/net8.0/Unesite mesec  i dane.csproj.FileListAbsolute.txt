@@ -1,0 +1,15 @@
+K:\ITOIP Relja\1nedelja\Unesite mesec  i dane\Unesite mesec  i dane\bin\Debug\net8.0\Unesite mesec  i dane.exe
+K:\ITOIP Relja\1nedelja\Unesite mesec  i dane\Unesite mesec  i dane\bin\Debug\net8.0\Unesite mesec  i dane.deps.json
+K:\ITOIP Relja\1nedelja\Unesite mesec  i dane\Unesite mesec  i dane\bin\Debug\net8.0\Unesite mesec  i dane.runtimeconfig.json
+K:\ITOIP Relja\1nedelja\Unesite mesec  i dane\Unesite mesec  i dane\bin\Debug\net8.0\Unesite mesec  i dane.dll
+K:\ITOIP Relja\1nedelja\Unesite mesec  i dane\Unesite mesec  i dane\bin\Debug\net8.0\Unesite mesec  i dane.pdb
+K:\ITOIP Relja\1nedelja\Unesite mesec  i dane\Unesite mesec  i dane\obj\Debug\net8.0\Unesite mesec  i dane.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\1nedelja\Unesite mesec  i dane\Unesite mesec  i dane\obj\Debug\net8.0\Unesite mesec  i dane.AssemblyInfoInputs.cache
+K:\ITOIP Relja\1nedelja\Unesite mesec  i dane\Unesite mesec  i dane\obj\Debug\net8.0\Unesite mesec  i dane.AssemblyInfo.cs
+K:\ITOIP Relja\1nedelja\Unesite mesec  i dane\Unesite mesec  i dane\obj\Debug\net8.0\Unesite mesec  i dane.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\1nedelja\Unesite mesec  i dane\Unesite mesec  i dane\obj\Debug\net8.0\Unesite mesec  i dane.sourcelink.json
+K:\ITOIP Relja\1nedelja\Unesite mesec  i dane\Unesite mesec  i dane\obj\Debug\net8.0\Unesite mesec  i dane.dll
+K:\ITOIP Relja\1nedelja\Unesite mesec  i dane\Unesite mesec  i dane\obj\Debug\net8.0\refint\Unesite mesec  i dane.dll
+K:\ITOIP Relja\1nedelja\Unesite mesec  i dane\Unesite mesec  i dane\obj\Debug\net8.0\Unesite mesec  i dane.pdb
+K:\ITOIP Relja\1nedelja\Unesite mesec  i dane\Unesite mesec  i dane\obj\Debug\net8.0\Unesite mesec  i dane.genruntimeconfig.cache
+K:\ITOIP Relja\1nedelja\Unesite mesec  i dane\Unesite mesec  i dane\obj\Debug\net8.0\ref\Unesite mesec  i dane.dll

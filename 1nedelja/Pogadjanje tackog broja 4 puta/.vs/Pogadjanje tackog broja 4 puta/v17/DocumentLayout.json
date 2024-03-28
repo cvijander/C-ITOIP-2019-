@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\ITOIP Relja\\1nedelja\\Pogadjanje tackog broja 4 puta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF4FDC7-98C7-411F-9E33-9E084A2F7625}|Pogadjanje tackog broja 4 puta\\Pogadjanje tackog broja 4 puta.csproj|k:\\itoip relja\\1nedelja\\pogadjanje tackog broja 4 puta\\pogadjanje tackog broja 4 puta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF4FDC7-98C7-411F-9E33-9E084A2F7625}|Pogadjanje tackog broja 4 puta\\Pogadjanje tackog broja 4 puta.csproj|solutionrelative:pogadjanje tackog broja 4 puta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "K:\\ITOIP Relja\\1nedelja\\Pogadjanje tackog broja 4 puta\\Pogadjanje tackog broja 4 puta\\Program.cs",
+              "RelativeDocumentMoniker": "Pogadjanje tackog broja 4 puta\\Program.cs",
+              "ToolTip": "K:\\ITOIP Relja\\1nedelja\\Pogadjanje tackog broja 4 puta\\Pogadjanje tackog broja 4 puta\\Program.cs",
+              "RelativeToolTip": "Pogadjanje tackog broja 4 puta\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T16:08:57.955Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

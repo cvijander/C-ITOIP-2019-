@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pogadjanje tackog broja 4 puta", "Pogadjanje tackog broja 4 puta\Pogadjanje tackog broja 4 puta.csproj", "{6EF4FDC7-98C7-411F-9E33-9E084A2F7625}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EF4FDC7-98C7-411F-9E33-9E084A2F7625}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EF4FDC7-98C7-411F-9E33-9E084A2F7625}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EF4FDC7-98C7-411F-9E33-9E084A2F7625}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EF4FDC7-98C7-411F-9E33-9E084A2F7625}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65B301DE-6C46-4B76-9601-12A80BA171E0}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+K:\ITOIP Relja\1nedelja\Ispitati trouglove\Ispitati trouglove\bin\Debug\net8.0\Ispitati trouglove.exe
+K:\ITOIP Relja\1nedelja\Ispitati trouglove\Ispitati trouglove\bin\Debug\net8.0\Ispitati trouglove.deps.json
+K:\ITOIP Relja\1nedelja\Ispitati trouglove\Ispitati trouglove\bin\Debug\net8.0\Ispitati trouglove.runtimeconfig.json
+K:\ITOIP Relja\1nedelja\Ispitati trouglove\Ispitati trouglove\bin\Debug\net8.0\Ispitati trouglove.dll
+K:\ITOIP Relja\1nedelja\Ispitati trouglove\Ispitati trouglove\bin\Debug\net8.0\Ispitati trouglove.pdb
+K:\ITOIP Relja\1nedelja\Ispitati trouglove\Ispitati trouglove\obj\Debug\net8.0\Ispitati trouglove.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\1nedelja\Ispitati trouglove\Ispitati trouglove\obj\Debug\net8.0\Ispitati trouglove.AssemblyInfoInputs.cache
+K:\ITOIP Relja\1nedelja\Ispitati trouglove\Ispitati trouglove\obj\Debug\net8.0\Ispitati trouglove.AssemblyInfo.cs
+K:\ITOIP Relja\1nedelja\Ispitati trouglove\Ispitati trouglove\obj\Debug\net8.0\Ispitati trouglove.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\1nedelja\Ispitati trouglove\Ispitati trouglove\obj\Debug\net8.0\Ispitati trouglove.sourcelink.json
+K:\ITOIP Relja\1nedelja\Ispitati trouglove\Ispitati trouglove\obj\Debug\net8.0\Ispitati trouglove.dll
+K:\ITOIP Relja\1nedelja\Ispitati trouglove\Ispitati trouglove\obj\Debug\net8.0\refint\Ispitati trouglove.dll
+K:\ITOIP Relja\1nedelja\Ispitati trouglove\Ispitati trouglove\obj\Debug\net8.0\Ispitati trouglove.pdb
+K:\ITOIP Relja\1nedelja\Ispitati trouglove\Ispitati trouglove\obj\Debug\net8.0\Ispitati trouglove.genruntimeconfig.cache
+K:\ITOIP Relja\1nedelja\Ispitati trouglove\Ispitati trouglove\obj\Debug\net8.0\ref\Ispitati trouglove.dll
