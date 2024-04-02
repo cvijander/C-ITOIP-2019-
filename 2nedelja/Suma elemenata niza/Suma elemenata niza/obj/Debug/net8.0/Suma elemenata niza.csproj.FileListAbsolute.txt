@@ -1,0 +1,15 @@
+K:\ITOIP Relja\2nedelja\Suma elemenata niza\Suma elemenata niza\bin\Debug\net8.0\Suma elemenata niza.exe
+K:\ITOIP Relja\2nedelja\Suma elemenata niza\Suma elemenata niza\bin\Debug\net8.0\Suma elemenata niza.deps.json
+K:\ITOIP Relja\2nedelja\Suma elemenata niza\Suma elemenata niza\bin\Debug\net8.0\Suma elemenata niza.runtimeconfig.json
+K:\ITOIP Relja\2nedelja\Suma elemenata niza\Suma elemenata niza\bin\Debug\net8.0\Suma elemenata niza.dll
+K:\ITOIP Relja\2nedelja\Suma elemenata niza\Suma elemenata niza\bin\Debug\net8.0\Suma elemenata niza.pdb
+K:\ITOIP Relja\2nedelja\Suma elemenata niza\Suma elemenata niza\obj\Debug\net8.0\Suma elemenata niza.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\2nedelja\Suma elemenata niza\Suma elemenata niza\obj\Debug\net8.0\Suma elemenata niza.AssemblyInfoInputs.cache
+K:\ITOIP Relja\2nedelja\Suma elemenata niza\Suma elemenata niza\obj\Debug\net8.0\Suma elemenata niza.AssemblyInfo.cs
+K:\ITOIP Relja\2nedelja\Suma elemenata niza\Suma elemenata niza\obj\Debug\net8.0\Suma elemenata niza.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\2nedelja\Suma elemenata niza\Suma elemenata niza\obj\Debug\net8.0\Suma elemenata niza.sourcelink.json
+K:\ITOIP Relja\2nedelja\Suma elemenata niza\Suma elemenata niza\obj\Debug\net8.0\Suma elemenata niza.dll
+K:\ITOIP Relja\2nedelja\Suma elemenata niza\Suma elemenata niza\obj\Debug\net8.0\refint\Suma elemenata niza.dll
+K:\ITOIP Relja\2nedelja\Suma elemenata niza\Suma elemenata niza\obj\Debug\net8.0\Suma elemenata niza.pdb
+K:\ITOIP Relja\2nedelja\Suma elemenata niza\Suma elemenata niza\obj\Debug\net8.0\Suma elemenata niza.genruntimeconfig.cache
+K:\ITOIP Relja\2nedelja\Suma elemenata niza\Suma elemenata niza\obj\Debug\net8.0\ref\Suma elemenata niza.dll

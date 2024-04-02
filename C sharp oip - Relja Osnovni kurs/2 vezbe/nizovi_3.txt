@@ -1,0 +1,193 @@
+ 
+int[] niz = { 3, 2, 166, 77, 1, 5 };
+            // prvi element niza 
+            Console.WriteLine(niz[0]);
+
+            // duzina niza 
+            int duzina_niza = niz.Length;
+            Console.WriteLine(duzina_niza);
+
+
+  int[] niz = { 3, 2, 166, 77, 1, 5 };
+   double suma = 0;
+            // SUMA elemenata niza 
+
+            for (int i = 0; i < niz.Length; i++)
+            {
+                suma +=niz[i];
+            }
+
+            Console.WriteLine(suma);
+            Console.ReadLine();
+
+
+
+// sortirati clanove niza 
+            int[] niz = { 3, 2, 166, 77, 1, 5 };
+
+            // klasa Array koja radi sa nizovima 
+            // metodi Sort se porosledjuje ime niza 
+            Array.Sort(niz);
+            for (int i = 0; i < niz.Length; i++)
+            {
+                Console.WriteLine(niz[i]);
+            }
+           
+            
+            Console.ReadLine();
+
+
+// sortirati clanove niza 
+   int[] niz = { 3, 2, 166, 77, 1, 5 };
+
+// pretpostavi se da jer prvi element u nizu maksimalni
+// i onda se prolazi kroz niz i  pita da li je sledeci element veci/manji 
+            int max = niz[0];
+            int min = niz[0];
+           
+            for (int i = 0; i < niz.Length; i++)
+            {
+                if (niz[i] > max)
+                {
+                    max = niz[i];
+                }
+                if (niz[i] < min)
+                {
+                    min = niz[i];
+                }
+
+            }
+            Console.WriteLine(max);
+            Console.WriteLine(min);
+
+            Console.ReadLine();
+
+
+
+
+//int[] mojNiz = new int[6];
+
+ Console.WriteLine("Unesi vrednosti clanova niza:");
+
+ for (int i = 0; i < 6; i++)
+
+ {
+
+  mojNiz[i] = int.Parse(Console.ReadLine());
+
+ }
+
+
+
+
+class Program
+    {
+    static void Main(string[] args)
+    {
+        int[] numbers = { 4, 3, 8, 0, 5 };
+        Array.Sort(numbers); 
+
+//foreach  sluzi za prolazak kroz kolekciju podataka 
+//npr liste..
+        
+    //foreach (var item in collection)
+            //{ 
+
+           //  }
+
+
+
+        foreach(int i in numbers)
+        Console.WriteLine(i);
+
+        Console.ReadLine();
+    }
+    }
+
+
+string[] cars = new string[] { "Audi", "BMW", "Toyota", "Honda", "Lexus" };
+
+Array.Sort(cars);
+Array.Reverse(cars);
+
+foreach (var car in cars)
+{
+Console.WriteLine(car);
+}
+Console.ReadLine();
+
+
+
+           // string s = "PEtAR";
+           // string s1 = s.Substring(0, 1).ToUpper() + s.Substring(1).ToLower();
+           // Console.WriteLine(s1);
+            // domaci: iz jmbg izvuci dan, mesec i godinu  rodjenja (predvideti i kad godina pocinje sa 19 i 20)
+
+
+
+           string[] imena = new string[] { "ANA", "VESna", "PetaR", "JOVAN", "MIlaN" };
+
+
+            Array.Sort(imena);
+           foreach (string ime in imena) 
+           {
+                string name = ime.Substring(0, 1).ToUpper() + ime.Substring(1).ToLower();
+                Console.WriteLine(name);
+
+            }
+
+
+// Program koji izracunava idealnu tezinu za zene(napomena: idealna tezina se izracunava kao visina-110)
+
+
+static void Main(string[] args)
+        {
+            Console.WriteLine("Unesi visinu u cm");
+            double visina = double.Parse(Console.ReadLine());
+    //  Console.WriteLine("Idealna tezina je " + Izracunaj(172));      
+        Console.WriteLine("Idealna tezina je " + Izracunaj(visina));
+
+        }
+
+         static double Izracunaj (double visina)
+        {
+            double idealna_tezina = visina - 110;
+            return idealna_tezina;
+        }
+
+
+
+//Program ispisuje sve prirodne brojeve manje od unetog
+            
+Console.Write("Unesi broj:");
+            int b = int.Parse(Console.ReadLine());
+            PrikaziSveManje(b);
+        }
+
+        private static void PrikaziSveManje(int b)
+        {
+            int i = 1;
+            while(i < b)
+            {
+                Console.Write(i + " ");
+                i++;
+            }
+        }
+
+// Izbroj koliko se puta ponavlja slovo o u reci
+ 
+        
+            string r = "selo je malo";
+            char[] chars = r.ToCharArray();
+            int br = 0;
+
+            // Prolazimo kroz niz karaktera, pronalazimo slovo 'n' i brojimo koliko puta se ponavlja
+            foreach (char ch in chars)
+            {
+                if (ch == 'o')
+                    br++;
+            }
+            Console.WriteLine("Slovo o se ponavlja {0} puta", br);
+        }
+
+

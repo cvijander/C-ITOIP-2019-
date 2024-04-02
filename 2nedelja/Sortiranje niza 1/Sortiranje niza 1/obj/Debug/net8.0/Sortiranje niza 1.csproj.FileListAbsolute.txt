@@ -1,0 +1,15 @@
+K:\ITOIP Relja\2nedelja\Sortiranje niza 1\Sortiranje niza 1\bin\Debug\net8.0\Sortiranje niza 1.exe
+K:\ITOIP Relja\2nedelja\Sortiranje niza 1\Sortiranje niza 1\bin\Debug\net8.0\Sortiranje niza 1.deps.json
+K:\ITOIP Relja\2nedelja\Sortiranje niza 1\Sortiranje niza 1\bin\Debug\net8.0\Sortiranje niza 1.runtimeconfig.json
+K:\ITOIP Relja\2nedelja\Sortiranje niza 1\Sortiranje niza 1\bin\Debug\net8.0\Sortiranje niza 1.dll
+K:\ITOIP Relja\2nedelja\Sortiranje niza 1\Sortiranje niza 1\bin\Debug\net8.0\Sortiranje niza 1.pdb
+K:\ITOIP Relja\2nedelja\Sortiranje niza 1\Sortiranje niza 1\obj\Debug\net8.0\Sortiranje niza 1.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\2nedelja\Sortiranje niza 1\Sortiranje niza 1\obj\Debug\net8.0\Sortiranje niza 1.AssemblyInfoInputs.cache
+K:\ITOIP Relja\2nedelja\Sortiranje niza 1\Sortiranje niza 1\obj\Debug\net8.0\Sortiranje niza 1.AssemblyInfo.cs
+K:\ITOIP Relja\2nedelja\Sortiranje niza 1\Sortiranje niza 1\obj\Debug\net8.0\Sortiranje niza 1.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\2nedelja\Sortiranje niza 1\Sortiranje niza 1\obj\Debug\net8.0\Sortiranje niza 1.sourcelink.json
+K:\ITOIP Relja\2nedelja\Sortiranje niza 1\Sortiranje niza 1\obj\Debug\net8.0\Sortiranje niza 1.dll
+K:\ITOIP Relja\2nedelja\Sortiranje niza 1\Sortiranje niza 1\obj\Debug\net8.0\refint\Sortiranje niza 1.dll
+K:\ITOIP Relja\2nedelja\Sortiranje niza 1\Sortiranje niza 1\obj\Debug\net8.0\Sortiranje niza 1.pdb
+K:\ITOIP Relja\2nedelja\Sortiranje niza 1\Sortiranje niza 1\obj\Debug\net8.0\Sortiranje niza 1.genruntimeconfig.cache
+K:\ITOIP Relja\2nedelja\Sortiranje niza 1\Sortiranje niza 1\obj\Debug\net8.0\ref\Sortiranje niza 1.dll

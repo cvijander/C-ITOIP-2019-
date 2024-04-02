@@ -1,0 +1,15 @@
+K:\ITOIP Relja\2nedelja\Manji brojevi od prirodnog\Manji brojevi od prirodnog\bin\Debug\net8.0\Manji brojevi od prirodnog.exe
+K:\ITOIP Relja\2nedelja\Manji brojevi od prirodnog\Manji brojevi od prirodnog\bin\Debug\net8.0\Manji brojevi od prirodnog.deps.json
+K:\ITOIP Relja\2nedelja\Manji brojevi od prirodnog\Manji brojevi od prirodnog\bin\Debug\net8.0\Manji brojevi od prirodnog.runtimeconfig.json
+K:\ITOIP Relja\2nedelja\Manji brojevi od prirodnog\Manji brojevi od prirodnog\bin\Debug\net8.0\Manji brojevi od prirodnog.dll
+K:\ITOIP Relja\2nedelja\Manji brojevi od prirodnog\Manji brojevi od prirodnog\bin\Debug\net8.0\Manji brojevi od prirodnog.pdb
+K:\ITOIP Relja\2nedelja\Manji brojevi od prirodnog\Manji brojevi od prirodnog\obj\Debug\net8.0\Manji brojevi od prirodnog.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\2nedelja\Manji brojevi od prirodnog\Manji brojevi od prirodnog\obj\Debug\net8.0\Manji brojevi od prirodnog.AssemblyInfoInputs.cache
+K:\ITOIP Relja\2nedelja\Manji brojevi od prirodnog\Manji brojevi od prirodnog\obj\Debug\net8.0\Manji brojevi od prirodnog.AssemblyInfo.cs
+K:\ITOIP Relja\2nedelja\Manji brojevi od prirodnog\Manji brojevi od prirodnog\obj\Debug\net8.0\Manji brojevi od prirodnog.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\2nedelja\Manji brojevi od prirodnog\Manji brojevi od prirodnog\obj\Debug\net8.0\Manji brojevi od prirodnog.sourcelink.json
+K:\ITOIP Relja\2nedelja\Manji brojevi od prirodnog\Manji brojevi od prirodnog\obj\Debug\net8.0\Manji brojevi od prirodnog.dll
+K:\ITOIP Relja\2nedelja\Manji brojevi od prirodnog\Manji brojevi od prirodnog\obj\Debug\net8.0\refint\Manji brojevi od prirodnog.dll
+K:\ITOIP Relja\2nedelja\Manji brojevi od prirodnog\Manji brojevi od prirodnog\obj\Debug\net8.0\Manji brojevi od prirodnog.pdb
+K:\ITOIP Relja\2nedelja\Manji brojevi od prirodnog\Manji brojevi od prirodnog\obj\Debug\net8.0\Manji brojevi od prirodnog.genruntimeconfig.cache
+K:\ITOIP Relja\2nedelja\Manji brojevi od prirodnog\Manji brojevi od prirodnog\obj\Debug\net8.0\ref\Manji brojevi od prirodnog.dll

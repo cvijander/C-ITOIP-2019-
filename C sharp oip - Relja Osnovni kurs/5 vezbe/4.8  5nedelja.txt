@@ -1,0 +1,668 @@
+??Y /CATCH
+
+  // Program iz jedne linije unosi stranice trogla
+            // i ispisuje obim i povrsinu
+            // O = a+b+c
+            // P = Sqrt(s*(s-a)*(s-b)*(s-c)), s=O/2
+        class Program
+        {
+            static void Main(string[] args)
+            {
+                Console.Write("Unesi stranice trougla: ");
+                string st = Console.ReadLine();
+                string[] niz = st.Split(' ');
+                try
+                {
+                    double a = double.Parse(niz[0]);
+                    double b = double.Parse(niz[1]);
+                    double c = double.Parse(niz[2]);
+                    if (Provera(a, b, c))
+                    {
+                        double Ob = a + b + c;
+                        double s = Ob / 2;
+                        double P = Math.Sqrt(s * (s - a) * (s - b) * (s - c));
+                        Console.WriteLine("O = " + Ob);
+                        Console.WriteLine("P = " + P);
+                    }
+                    else
+                    {
+                        Console.WriteLine("GRESKA: Ne postoji trougao sa unetim stranicama.");
+                    }
+                }
+                catch
+                {
+                    if (niz.Length != 3)
+                    {
+                        Console.WriteLine("GRESKA: Trougao mora da ima 3 stranice");
+                    }
+                    else
+                    {
+                        Console.WriteLine("GRESKA: Dozvoljene su samo cifre, i decimalna tacka");
+                    }
+                }
+            }
+
+            private static bool Provera(double a, double b, double c)
+            {
+                bool odg = true;
+                if (a >= b + c || b >= a + c || c >= a + b)
+                    odg = false;
+                if (a <= 0 || b <= 0 || c <= 0)
+                    odg = false;
+                return odg;
+            }
+        }
+
+    }
+    
+////////////////////////////////////////////////////////////////
+
+{
+    //Napisati klasu Recenica koja sadrzi listu reci
+    //Klasa treba da sadrzi jos i konstruktor, i metod BrojReci()    
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Unesi recenicu: ");
+            string r = Console.ReadLine();
+            Recenica R = new Recenica(r);
+            Console.WriteLine("Broj reci u recenici: " + R.BrojReci());
+        }
+    }
+
+    public class Recenica
+    {
+        private List<string> L;
+
+        public Recenica(string r)
+        {
+            string[] niz = r.Split(' ');
+            L = new List<string>();
+            foreach (string rec in niz)
+            {
+                //ovde proveravamo da li se isecak iz teksta zaista
+                //moze smatrati da moze da bude rec u recenici
+                //Eliminisu se prazni tekstovi, zarezi i tacke
+                if (rec != "" && rec != "." && rec != ",")
+                {
+                    L.Add(rec);
+                }
+            }
+        }
+
+        public int BrojReci()
+        {
+            int b;
+            b = L.Count;
+            return b;
+        }
+    }
+}
+///////////////////////////////////////////////////////////////////////////
+
+KOMBINOVANJE KLASA
+
+class Program
+    {
+        // LOKOMITIVA: vrsta(parna-elektricna-dizel), snaga (KW)
+        // VAGON: brojSedista, nosivost, vrsta(putnicki-teretni)
+        // VOZ: ukupanKapacitet, ukupnoMesta, polaziste, odrediste
+      
+   static void Main(string[] args)
+        {
+            Vagon v1 = new Vagon("putnicki", 85);
+            Vagon v2 = new Vagon("putnicki", 103);
+            Vagon v3 = new Vagon("teretni", 15);
+            Vagon v4 = new Vagon("teretni", 15);
+            Lokomotiva l1 = new Lokomotiva("Elektricna", 250);
+            Voz v = new Voz("Beograd", "Budimpesta");
+            v.DodajLokomotivu(l1);
+            v.DodajVagon(v1);
+            v.DodajVagon(v2);
+            v.DodajVagon(v3);
+            v.DodajVagon(v4);
+            Console.WriteLine(v);
+        }
+
+    }
+
+    class Lokomotiva
+    {
+        private string vrsta;
+        private double snaga;
+        public Lokomotiva(string v, double s)
+        {
+            if (v.ToLower() == "parna")
+            {
+                vrsta = "parna";
+            }
+            else if (v.ToLower() == "elektricna")
+            {
+                vrsta = "elektricna";
+            }
+            else
+            {
+                vrsta = "dizel";
+            }
+            if (s < 0)
+            {
+                snaga = 0;
+            }
+            else
+            {
+                snaga = s;
+            }
+        }
+        public string Vrsta_Get()
+        {
+            return vrsta;
+        }
+        public double Snaga_Get()
+        {
+            return snaga;
+        }
+        public override string ToString()
+        {
+            string odg = "Lokomotiva:";
+            odg += "\n\tVrsta: " + vrsta;
+            odg += "\n\tSnaga: " + snaga + "kW";
+            return odg;
+        }
+    }
+
+    class Vagon
+    {
+        private string vrsta;
+        private double nosivost;
+        private int brojSedista;
+        public Vagon(string v, double x)
+        {
+            if (v.ToLower() == "teretni")
+            {
+                vrsta = "teretni";
+                nosivost = x;
+                brojSedista = 0;
+            }
+            else
+            {
+                vrsta = "putnicki";
+                nosivost = 0;
+                brojSedista = (int)x;
+            }
+        }
+        public string Vrsta_Get()
+        {
+            return vrsta;
+        }
+        public double Nosivost_Get()
+        {
+            return nosivost;
+        }
+        public int BrojSedista_Get()
+        {
+            return brojSedista;
+        }
+        public override string ToString()
+        {
+            string odg = "Vagon:";
+            odg += "\n\tVrsta: " + vrsta;
+            if (vrsta == "putnicki")
+            {
+                odg += "\n\tBroj sedista: " + brojSedista;
+            }
+            else
+            {
+                odg += "\n\tNosivost: " + nosivost;
+            }
+            return odg;
+        }
+    }
+
+    class Voz
+    {
+        private int ukupnoMesta;
+        private double ukupanKapacitet;
+        private string polaziste,odrediste;
+        private List<Lokomotiva> lokomotive;
+        private List<Vagon> vagoni;
+        public Voz(string od, string prema)
+        {
+            polaziste = od;
+            odrediste = prema;
+            lokomotive = new List<Lokomotiva>();
+            vagoni = new List<Vagon>();
+            ukupnoMesta = 0;
+            ukupanKapacitet = 0;
+        }
+        public void DodajLokomotivu(Lokomotiva x)
+        {
+            lokomotive.Add(x);
+        }
+        public void DodajVagon(Vagon x)
+        {
+            vagoni.Add(x);
+            if(x.Vrsta_Get()=="teretni")
+            {
+                ukupanKapacitet += x.Nosivost_Get();
+            }
+            else
+            {
+                ukupnoMesta += x.BrojSedista_Get();
+            }
+        }
+        public override string ToString()
+        {
+            string odg = "Voz iz " + polaziste + " za " + odrediste;
+            odg += "\n\tUkupno mesta za sedenje: " + ukupnoMesta;
+            odg += "\n\tUkupna nosivost teretnog dela: " + ukupanKapacitet;
+            foreach (Lokomotiva x in lokomotive)
+            {
+                odg += "\n" + x.ToString();
+            }
+            foreach (Vagon x in vagoni)
+            {
+                odg += "\n" + x.ToString();
+            }
+            return odg;
+        }
+    }
+}
+///////////////////////////////////////////////////////////////////////////////////////////////
+OVAJ ZADATAK JE SLICAN PRETHODNOM 
+PROBAJTE ZA DOMACI....
+
+class Program
+    {
+        static void Main(string[] args)
+        {
+            Soba s1 = new Soba(2, 19, "Dnevna soba");
+            Soba s2 = new Soba(1, 7, "Spavaca soba");
+            Soba s3 = new Soba(1, 12, "Decija soba");
+            Kupatilo k1 = new Kupatilo(10, true, false);
+            Kupatilo k2 = new Kupatilo(2, true, true);
+            Hodnik h1 = new Hodnik(2, 4);
+            Hodnik h2 = new Hodnik(3, 2);
+            Kuhinja k = new Kuhinja(6, 1, true);
+            Stan st = new Stan("Molerova 22/7");
+            st.DodajKupatilo(k1);
+            st.DodajKupatilo(k2);
+            st.DodajSobu(s1);
+            st.DodajSobu(s2);
+            st.DodajSobu(s3);
+            st.DodajHodnik(h1);
+            st.DodajHodnik(h2);
+            st.Kuhinja_Set(k);
+            Console.WriteLine(st);
+        }
+    }
+    class Soba
+    {
+        private int brojVrata;
+        private double povrsina;
+        private string opis;
+        public Soba()
+        {
+            opis = "";
+        }
+        public Soba(int b, double p, string o)
+        {
+            if (b < 1)
+            {
+                brojVrata = 1;
+            }
+            else
+            {
+                brojVrata = b;
+            }
+            if (p < 0)
+            {
+                povrsina = 0;
+            }
+            else
+            {
+                povrsina = p;
+            }
+            opis = o;
+        }
+        public int BrojVrata_Get()
+        {
+            return brojVrata;
+        }
+        public double Povrsina_Get()
+        {
+            return povrsina;
+        }
+        public string Opis_Set_Get()
+        {
+            return opis;
+        }
+        public void BrojVrata_Set(int b)
+        {
+            if(b>0)
+            {
+                brojVrata = b;
+            }
+        }
+        public void Povrsina_Set(double p)
+        {
+            if(p>0)
+            {
+                povrsina = p;
+            }
+        }
+        public void Opis_Set(string s)
+        {
+            opis = s;
+        }
+        public override string ToString()
+        {
+            string odg="";
+            odg = "Opis sobe: " + opis;
+            odg += "\nPovrsina: " + povrsina;
+            odg += "\nBroj vrata: " + brojVrata;
+            return odg;
+        }
+    }
+    class Hodnik
+    {
+        private int brojVrata;
+        private double povrsina;
+        public Hodnik()
+        {
+
+        }
+        public Hodnik(int b, double p)
+        {
+            if (b < 1)
+            {
+                brojVrata = 1;
+            }
+            else
+            {
+                brojVrata = b;
+            }
+            if (p < 0)
+            {
+                povrsina = 0;
+            }
+            else
+            {
+                povrsina = p;
+            }
+        }
+        public override string ToString()
+        {
+            string odg = "";
+            odg = "Hodnik:";
+            odg += "\nPovrsina: " + povrsina;
+            odg += "\nBroj vrata: " + brojVrata;
+            return odg;
+        }
+
+        public double Povrsina_Get()
+        {
+            return povrsina;
+        }
+    }
+    class Kuhinja
+    {
+        private double povrsina;
+        private int brojProzora;
+        private bool ventilacija;
+        public Kuhinja()
+        {
+
+        }
+        public Kuhinja(double p, int b, bool v)
+        {
+            if(p<0)
+            {
+                povrsina = 0;
+            }
+            else
+            {
+                povrsina = p;
+            }
+            if(b<0)
+            {
+                brojProzora = 0;
+            }
+            else
+            {
+                brojProzora = b;
+            }
+            ventilacija = v;
+        }
+        public double Povrsina_Get()
+        {
+            return povrsina;
+        }
+        public int BrojProzora_Get()
+        {
+            return brojProzora;
+        }
+        public bool Ventilacija_Get()
+        {
+            return ventilacija;
+        }
+        public void Povrsina_Set(double p)
+        {
+            if (p < 0)
+            {
+                povrsina = 0;
+            }
+            else
+            {
+                povrsina = p;
+            }
+        }
+        public void BrojProzora_Set(int b)
+        {
+            if (b < 0)
+            {
+                brojProzora = 0;
+            }
+            else
+            {
+                brojProzora = b;
+            }
+        }
+        public void Ventilacija_Set(bool v)
+        {
+            ventilacija = v;
+        }
+        public override string ToString()
+        {
+            string odg = "";
+            odg = "Kuhinja:";
+            odg += "\nPovrsina: " + povrsina;
+            odg += "\nBroj prozora: " + brojProzora;
+            if (ventilacija)
+            {
+                odg += "\nIma ventilaciju.";
+            }
+            else
+            {
+                odg += "\nNema ventilaciju.";
+            }
+            return odg;
+        }
+    }
+    class Kupatilo
+    {
+        private double povrsina;
+        private bool ventilacija;
+        private bool samoToalet;
+        public Kupatilo(double p, bool v, bool s)
+        {
+            if (p < 0)
+            {
+                povrsina = 0;
+            }
+            else
+            {
+                povrsina = p;
+            }
+            ventilacija = v;
+            samoToalet = s;
+        }
+        public override string ToString()
+        {
+            string odg = "";
+            if(samoToalet)
+            {
+                odg = "Toalet:";
+            }
+            else
+            {
+                odg = "Kupatilo:";
+            }
+            odg += "\nPovrsina: " + povrsina;
+            if (ventilacija)
+            {
+                odg += "\nIma ventilaciju.";
+            }
+            else
+            {
+                odg += "\nNema ventilaciju.";
+            }
+            return odg;
+        }
+
+        public double Povrsina_Get()
+        {
+            return povrsina;
+        }
+    }
+    class Stan
+    {
+        private string adresa;
+        private double ukupnaPovrsina;
+        private List<Soba> sobe;
+        private List<Hodnik> hodnici;
+        private List<Kupatilo> kupatila;
+        private Kuhinja kuhinja;
+        public Stan(string a)
+        {
+            sobe = new List<Soba>();
+            hodnici = new List<Hodnik>();
+            kupatila = new List<Kupatilo>();
+            adresa = a;
+            ukupnaPovrsina = 0;
+        }
+        public void DodajSobu(Soba s)
+        {
+            sobe.Add(s);
+            ukupnaPovrsina += s.Povrsina_Get();
+        }
+        public void DodajHodnik(Hodnik h)
+        {
+            hodnici.Add(h);
+            ukupnaPovrsina += h.Povrsina_Get();
+        }
+        public void DodajKupatilo(Kupatilo k)
+        {
+            kupatila.Add(k);
+            ukupnaPovrsina += k.Povrsina_Get();
+        }
+        public void Kuhinja_Set(Kuhinja k)
+        {
+            kuhinja = k;
+            ukupnaPovrsina += k.Povrsina_Get();
+        }
+        public override string ToString()
+        {
+            string odg="Stan na adresi: "+adresa;
+            odg += "\nBroj soba: " + sobe.Count;
+            odg += "\nUkupna povrsina: " + ukupnaPovrsina;
+            foreach (Soba x in sobe)
+            {
+                odg += "\n\n" + x.ToString();
+            }
+            foreach (Hodnik x in hodnici)
+            {
+                odg += "\n\n" + x.ToString();
+            }
+            foreach (Kupatilo x in kupatila)
+            {
+                odg += "\n\n"+ x.ToString();
+            }
+            if(kuhinja!=null)
+            {
+                odg += "\n\n" + kuhinja.ToString();
+            }
+            return odg;
+        }
+    }
+}
+
+/Kreirati klasu ClanKluba koja ima polja ime ,prezime i visina.
+//Dodati objekte klase u listu i sortiati ih po visini
+// Onemoguciti da se u listu ubaci objekat koji vec postoji u listi
+
+
+
+class ClanKluba:IComparable<ClanKluba>,IEquatable<ClanKluba>
+    {
+        public int Id { get; }
+        public string Ime { get; }
+        public string Prezime { get; }
+        public int Visina { get; set; }
+
+        public ClanKluba(int id,string ime, string prezime, int visina)
+        {
+            Id = id;
+            Ime = ime;
+            Prezime = prezime;
+            Visina = visina;
+
+        }
+
+        public int CompareTo(ClanKluba other)
+        {
+            if (Visina == other.Visina)
+            {
+                return 0;
+            }
+            else if (Visina > other.Visina) return 1;
+            else return -1;
+        }
+
+        public override string ToString()
+        {
+            return Id+ "\t"+ Ime + "\t" + Prezime + "\t" + Visina;
+        }
+
+        public bool Equals(ClanKluba other)
+        {
+            /* string ime = other.Ime;
+             string prezime = other.Prezime;
+             if (Ime == ime && Prezime == prezime) return true;
+             else return false;*/
+
+            int id = other.Id;
+            if (Id == id) return true;
+            else return false;
+        }
+    }
+}
+
+
+
+
+            List<ClanKluba> clanoviKluba = new List<ClanKluba>();
+            ClanKluba noviclan = new ClanKluba(4, "Ivan", "Jovic", 201);
+            clanoviKluba.Add(new ClanKluba(1,"Ivan", "Jankovic", 201));
+            clanoviKluba.Add(new ClanKluba(2,"Petar", "Petrovic", 189));
+            clanoviKluba.Add(new ClanKluba(3,"Jovan", "Markovic", 190));
+            clanoviKluba.Add(new ClanKluba(4,"Igor", "Krstic", 196));
+            clanoviKluba.Add(new ClanKluba(5, "Petar", "Petrovic", 195));
+            if (clanoviKluba.Contains(noviclan)) Console.WriteLine("Kosarkas se vec nalazi u listi");
+            else clanoviKluba.Add(noviclan);
+            
+            clanoviKluba.Sort();
+          
+
+            clanoviKluba.ForEach(Console.WriteLine);

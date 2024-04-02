@@ -1,0 +1,15 @@
+K:\ITOIP Relja\2nedelja\Recenica opet\Recenica opet\bin\Debug\net8.0\Recenica opet.exe
+K:\ITOIP Relja\2nedelja\Recenica opet\Recenica opet\bin\Debug\net8.0\Recenica opet.deps.json
+K:\ITOIP Relja\2nedelja\Recenica opet\Recenica opet\bin\Debug\net8.0\Recenica opet.runtimeconfig.json
+K:\ITOIP Relja\2nedelja\Recenica opet\Recenica opet\bin\Debug\net8.0\Recenica opet.dll
+K:\ITOIP Relja\2nedelja\Recenica opet\Recenica opet\bin\Debug\net8.0\Recenica opet.pdb
+K:\ITOIP Relja\2nedelja\Recenica opet\Recenica opet\obj\Debug\net8.0\Recenica opet.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\2nedelja\Recenica opet\Recenica opet\obj\Debug\net8.0\Recenica opet.AssemblyInfoInputs.cache
+K:\ITOIP Relja\2nedelja\Recenica opet\Recenica opet\obj\Debug\net8.0\Recenica opet.AssemblyInfo.cs
+K:\ITOIP Relja\2nedelja\Recenica opet\Recenica opet\obj\Debug\net8.0\Recenica opet.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\2nedelja\Recenica opet\Recenica opet\obj\Debug\net8.0\Recenica opet.sourcelink.json
+K:\ITOIP Relja\2nedelja\Recenica opet\Recenica opet\obj\Debug\net8.0\Recenica opet.dll
+K:\ITOIP Relja\2nedelja\Recenica opet\Recenica opet\obj\Debug\net8.0\refint\Recenica opet.dll
+K:\ITOIP Relja\2nedelja\Recenica opet\Recenica opet\obj\Debug\net8.0\Recenica opet.pdb
+K:\ITOIP Relja\2nedelja\Recenica opet\Recenica opet\obj\Debug\net8.0\Recenica opet.genruntimeconfig.cache
+K:\ITOIP Relja\2nedelja\Recenica opet\Recenica opet\obj\Debug\net8.0\ref\Recenica opet.dll

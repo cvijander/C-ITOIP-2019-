@@ -1,0 +1,15 @@
+K:\ITOIP Relja\2nedelja\Pozitivni broj u listi\Pozitivni broj u listi\bin\Debug\net8.0\Pozitivni broj u listi.exe
+K:\ITOIP Relja\2nedelja\Pozitivni broj u listi\Pozitivni broj u listi\bin\Debug\net8.0\Pozitivni broj u listi.deps.json
+K:\ITOIP Relja\2nedelja\Pozitivni broj u listi\Pozitivni broj u listi\bin\Debug\net8.0\Pozitivni broj u listi.runtimeconfig.json
+K:\ITOIP Relja\2nedelja\Pozitivni broj u listi\Pozitivni broj u listi\bin\Debug\net8.0\Pozitivni broj u listi.dll
+K:\ITOIP Relja\2nedelja\Pozitivni broj u listi\Pozitivni broj u listi\bin\Debug\net8.0\Pozitivni broj u listi.pdb
+K:\ITOIP Relja\2nedelja\Pozitivni broj u listi\Pozitivni broj u listi\obj\Debug\net8.0\Pozitivni broj u listi.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\2nedelja\Pozitivni broj u listi\Pozitivni broj u listi\obj\Debug\net8.0\Pozitivni broj u listi.AssemblyInfoInputs.cache
+K:\ITOIP Relja\2nedelja\Pozitivni broj u listi\Pozitivni broj u listi\obj\Debug\net8.0\Pozitivni broj u listi.AssemblyInfo.cs
+K:\ITOIP Relja\2nedelja\Pozitivni broj u listi\Pozitivni broj u listi\obj\Debug\net8.0\Pozitivni broj u listi.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\2nedelja\Pozitivni broj u listi\Pozitivni broj u listi\obj\Debug\net8.0\Pozitivni broj u listi.sourcelink.json
+K:\ITOIP Relja\2nedelja\Pozitivni broj u listi\Pozitivni broj u listi\obj\Debug\net8.0\Pozitivni broj u listi.dll
+K:\ITOIP Relja\2nedelja\Pozitivni broj u listi\Pozitivni broj u listi\obj\Debug\net8.0\refint\Pozitivni broj u listi.dll
+K:\ITOIP Relja\2nedelja\Pozitivni broj u listi\Pozitivni broj u listi\obj\Debug\net8.0\Pozitivni broj u listi.pdb
+K:\ITOIP Relja\2nedelja\Pozitivni broj u listi\Pozitivni broj u listi\obj\Debug\net8.0\Pozitivni broj u listi.genruntimeconfig.cache
+K:\ITOIP Relja\2nedelja\Pozitivni broj u listi\Pozitivni broj u listi\obj\Debug\net8.0\ref\Pozitivni broj u listi.dll

@@ -1,0 +1,15 @@
+K:\ITOIP Relja\2nedelja\25\25\bin\Debug\net8.0\25.exe
+K:\ITOIP Relja\2nedelja\25\25\bin\Debug\net8.0\25.deps.json
+K:\ITOIP Relja\2nedelja\25\25\bin\Debug\net8.0\25.runtimeconfig.json
+K:\ITOIP Relja\2nedelja\25\25\bin\Debug\net8.0\25.dll
+K:\ITOIP Relja\2nedelja\25\25\bin\Debug\net8.0\25.pdb
+K:\ITOIP Relja\2nedelja\25\25\obj\Debug\net8.0\25.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\2nedelja\25\25\obj\Debug\net8.0\25.AssemblyInfoInputs.cache
+K:\ITOIP Relja\2nedelja\25\25\obj\Debug\net8.0\25.AssemblyInfo.cs
+K:\ITOIP Relja\2nedelja\25\25\obj\Debug\net8.0\25.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\2nedelja\25\25\obj\Debug\net8.0\25.sourcelink.json
+K:\ITOIP Relja\2nedelja\25\25\obj\Debug\net8.0\25.dll
+K:\ITOIP Relja\2nedelja\25\25\obj\Debug\net8.0\refint\25.dll
+K:\ITOIP Relja\2nedelja\25\25\obj\Debug\net8.0\25.pdb
+K:\ITOIP Relja\2nedelja\25\25\obj\Debug\net8.0\25.genruntimeconfig.cache
+K:\ITOIP Relja\2nedelja\25\25\obj\Debug\net8.0\ref\25.dll

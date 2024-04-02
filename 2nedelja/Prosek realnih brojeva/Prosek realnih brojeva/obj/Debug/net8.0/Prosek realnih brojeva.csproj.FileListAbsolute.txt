@@ -1,0 +1,15 @@
+K:\ITOIP Relja\2nedelja\Prosek realnih brojeva\Prosek realnih brojeva\bin\Debug\net8.0\Prosek realnih brojeva.exe
+K:\ITOIP Relja\2nedelja\Prosek realnih brojeva\Prosek realnih brojeva\bin\Debug\net8.0\Prosek realnih brojeva.deps.json
+K:\ITOIP Relja\2nedelja\Prosek realnih brojeva\Prosek realnih brojeva\bin\Debug\net8.0\Prosek realnih brojeva.runtimeconfig.json
+K:\ITOIP Relja\2nedelja\Prosek realnih brojeva\Prosek realnih brojeva\bin\Debug\net8.0\Prosek realnih brojeva.dll
+K:\ITOIP Relja\2nedelja\Prosek realnih brojeva\Prosek realnih brojeva\bin\Debug\net8.0\Prosek realnih brojeva.pdb
+K:\ITOIP Relja\2nedelja\Prosek realnih brojeva\Prosek realnih brojeva\obj\Debug\net8.0\Prosek realnih brojeva.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\2nedelja\Prosek realnih brojeva\Prosek realnih brojeva\obj\Debug\net8.0\Prosek realnih brojeva.AssemblyInfoInputs.cache
+K:\ITOIP Relja\2nedelja\Prosek realnih brojeva\Prosek realnih brojeva\obj\Debug\net8.0\Prosek realnih brojeva.AssemblyInfo.cs
+K:\ITOIP Relja\2nedelja\Prosek realnih brojeva\Prosek realnih brojeva\obj\Debug\net8.0\Prosek realnih brojeva.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\2nedelja\Prosek realnih brojeva\Prosek realnih brojeva\obj\Debug\net8.0\Prosek realnih brojeva.sourcelink.json
+K:\ITOIP Relja\2nedelja\Prosek realnih brojeva\Prosek realnih brojeva\obj\Debug\net8.0\Prosek realnih brojeva.dll
+K:\ITOIP Relja\2nedelja\Prosek realnih brojeva\Prosek realnih brojeva\obj\Debug\net8.0\refint\Prosek realnih brojeva.dll
+K:\ITOIP Relja\2nedelja\Prosek realnih brojeva\Prosek realnih brojeva\obj\Debug\net8.0\Prosek realnih brojeva.pdb
+K:\ITOIP Relja\2nedelja\Prosek realnih brojeva\Prosek realnih brojeva\obj\Debug\net8.0\Prosek realnih brojeva.genruntimeconfig.cache
+K:\ITOIP Relja\2nedelja\Prosek realnih brojeva\Prosek realnih brojeva\obj\Debug\net8.0\ref\Prosek realnih brojeva.dll

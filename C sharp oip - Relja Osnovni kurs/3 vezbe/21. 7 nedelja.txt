@@ -1,0 +1,1041 @@
+//Zadatak-1
+//Napisati klasu Covek
+//koja ima metodu PozdraviSvet
+//Nakon toga, u glavnom programu kreirati 2 objekta klase (dva coveka)
+//i ispisati njihove pozdravne poruke
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Covek a = new Covek();
+            a.Ime = "Rafael";
+            a.Prezime = "Nadal";
+            a.PozdraviSvet();
+
+            Covek b = new Covek();
+            b.Ime = "Novak";
+            b.Prezime = "Djokovic";
+            b.PozdraviSvet();
+        }
+    }
+
+    public class Covek
+    {
+        //atributi klase
+        public string Ime;
+        public string Prezime;
+
+        //metode klase
+        public void PozdraviSvet()
+        {
+            Console.WriteLine("Zdravo svima, ja sam " + Ime + " " + Prezime);
+        }
+    }
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-2
+//
+//Napisati klasu Covek
+//koja ima metodu PozdraviSvet, metodu Ime_Get koja dozvoljava ime do 25 karaktera
+//i metodu Prezime_Get koja dozvoljava prezime do 35 karaktera.
+//Nakon toga, u glavnom programu kreirati 2 objekta klase (dva coveka)
+//i ispisati njihove pozdravne poruke
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Covek a = new Covek();
+            a.Ime_set("Rafael");
+            a.Prezime_set("Nadal");
+            a.PozdraviSvet();
+
+            Covek b = new Covek();
+            b.Ime_set("Novak");
+            b.Prezime_set("Djokovic");
+            b.PozdraviSvet();
+            
+        }
+    }
+
+    public class Covek
+    {
+        //atributi klase
+        private string Ime;
+        private string Prezime;
+
+        //metode klase
+        public void PozdraviSvet()
+        {
+            Console.WriteLine("Zdravo svima, ja sam " + Ime + " " + Prezime);
+        }
+
+        public void Ime_set(string i)
+        {
+            if (i.Length < 25)
+            {
+                Ime = i;
+            }
+        }
+
+        public void Prezime_set(string p)
+        {
+            if (p.Length < 35)
+            {
+                Prezime = p;
+            }
+        }
+    }
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-3
+//Omoguciti korisniku da kroz klasu Covek, može da unese imena i prezimena
+//za tri razlicita coveka.
+//U klasi, obezbediti poruku da se desila greška, ako je ime duže od 25,
+//a prezime od 35 karaktera.
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Covek a = new Covek();
+            Covek b = new Covek();
+            Covek c = new Covek();
+            Console.Write("Ime prve osobe: ");
+            a.Ime_set(Console.ReadLine());
+            Console.Write("Prezime prve osobe: ");
+            a.Prezime_set(Console.ReadLine());
+            Console.Write("Ime druge osobe: ");
+            b.Ime_set(Console.ReadLine());
+            Console.Write("Prezime druge osobe: ");
+            b.Prezime_set(Console.ReadLine());
+            Console.Write("Ime trece osobe: ");
+            c.Ime_set(Console.ReadLine());
+            Console.Write("Prezime trece osobe: ");
+            c.Prezime_set(Console.ReadLine());
+            a.PozdraviSvet();
+            b.PozdraviSvet();
+            c.PozdraviSvet();
+        }
+    }
+
+    public class Covek
+    {
+        //atributi klase
+        private string Ime;
+        private string Prezime;
+
+        //metode klase
+        public void PozdraviSvet()
+        {
+            Console.WriteLine("Zdravo svima, ja sam " + Ime + " " + Prezime);
+        }
+
+        public void Ime_set(string i)
+        {
+            if (i.Length < 25)
+            {
+                Ime = i;
+            }
+            else
+            {
+                Console.WriteLine("GREŠKA: Predugacko ime!");
+            }    
+        }
+
+        public void Prezime_set(string p)
+        {
+            if (p.Length < 35)
+            {
+                Prezime = p;
+            }
+            else
+            {
+                Console.WriteLine("GREŠKA: Predugacko prezime!");
+            }
+        }
+    }
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-4
+//U klasi Covek dodati polje za narodnost,
+//a umesto metode PozdraviSvet() napisati metodu PozdravNaMaternjemJeziku().
+//u kojem razlikujemo tri jezika: srpski, engleski i spanski
+//i cetvrti slucaj (ako se desila greska kod unosa imena ili prezimena)
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Covek a = new Covek();
+            Console.Write("Ime osobe: ");
+            a.Ime_set(Console.ReadLine());
+            Console.Write("Prezime osobe: ");
+            a.Prezime_set(Console.ReadLine());
+            Console.Write("Narodnost: ");
+            a.Narodnost_set(Console.ReadLine());
+            a.PozdravNaMaternjemJeziku();
+        }
+    }
+
+    public class Covek
+    {
+        //atributi klase
+        private string Ime;
+        private string Prezime;
+        private string Narodnost;
+        private bool UnetoIme;
+        private bool UnetoPrezime;
+        private bool UnetaNarodnost;
+
+        //metode klase
+        public void PozdravNaMaternjemJeziku()
+        {
+            if(!UnetoIme || !UnetoPrezime || !UnetaNarodnost)
+            {
+                Console.WriteLine("Greška, podaci o osobi nisu kompletno uneti.");
+            }
+            else if (Narodnost.ToLower() == "englez")
+            {
+                Console.WriteLine("Hi, I am " + Ime + " " + Prezime);
+            }
+            else if (Narodnost.ToLower() == "spanac")
+            {
+                Console.WriteLine("Hola, estoy " + Ime + " " + Prezime);
+            }
+            else if (Narodnost.ToLower() == "srbin")
+            {
+                Console.WriteLine("Zdravo svima, ja sam " + Ime + " " + Prezime);
+            }
+            else
+            {
+                Console.WriteLine("Sistem ne poznaje odabrani maternji jezik.");
+            }
+        }
+
+        public void Ime_set(string i)
+        {
+            if (i.Length < 25)
+            {
+                Ime = i;
+                UnetoIme = true;
+            }
+            else
+            {
+                Console.WriteLine("GREŠKA: Predugacko ime!");
+            }    
+        }
+
+        public void Prezime_set(string p)
+        {
+            if (p.Length < 35)
+            {
+                Prezime = p;
+                UnetoPrezime = true;
+            }
+            else
+            {
+                Console.WriteLine("GREŠKA: Predugacko prezime!");
+            }
+        }
+
+        public void Narodnost_set(string n)
+        {
+            if (n.Length < 15)
+            {
+                Narodnost = n;
+                UnetaNarodnost = true;
+            }
+            else
+            {
+                Console.WriteLine("GREŠKA: Predugacak tekst za narodnost!");
+            }
+        }
+    }
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-5
+//Napisati klasu Trougao sa atributima a,b,c i sa metodom PrikazStranica()
+//Napisati program koji testira klasu na primeru trougla sa stranicama 3,4,5
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Trougao T = new Trougao();
+            T.a_set(3);
+            T.b_set(4);
+            T.c_set(5);
+            T.PrikazStranica();
+        }
+    }
+
+    public class Trougao
+    {
+        //atributi klase
+        private float a;
+        private float b;
+        private float c;
+
+        //metode klase
+        public void a_set(float a)
+        {
+            if (a > 0)
+            {
+                this.a = a;
+            }
+            else
+            {
+                Console.WriteLine("Greska, stranica a mora biti pozitivna");
+            }
+        }
+        public void b_set(float b)
+        {
+            if (b > 0)
+            {
+                this.b = b;
+            }
+            else
+            {
+                Console.WriteLine("Greska, stranica b mora biti pozitivna");
+            }
+        }
+        public void c_set(float c)
+        {
+            if (c > 0)
+            {
+                this.c = c;
+            }
+            else
+            {
+                Console.WriteLine("Greska, stranica c mora biti pozitivna");
+            }
+        }
+        public void PrikazStranica()
+        {
+            Console.WriteLine("Stranice trougla su: ");
+            Console.WriteLine("a= " + a);
+            Console.WriteLine("b= " + b);
+            Console.WriteLine("c= " + c);
+        }
+    }
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-6
+//Omoguciti da se u programu izracuna obim trougla (sa stranicama 3,4,5)
+//(koristi se get metoda za sve tri stranice trougla)
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Trougao T = new Trougao();
+            T.a_set(3);
+            T.b_set(4);
+            T.c_set(5);
+            T.PrikazStranica();
+            float O = T.a_get() + T.b_get() + T.c_get();
+            Console.WriteLine("Obim trougla = " + O);
+        }
+    }
+
+    public class Trougao
+    {
+        //atributi klase
+        private float a;
+        private float b;
+        private float c;
+
+        //metode klase
+        public void a_set(float a)
+        {
+            if (a > 0)
+            {
+                this.a = a;
+            }
+            else
+            {
+                Console.WriteLine("Greska, stranica a mora biti pozitivna");
+            }
+        }
+        public void b_set(float b)
+        {
+            if (b > 0)
+            {
+                this.b = b;
+            }
+            else
+            {
+                Console.WriteLine("Greska, stranica b mora biti pozitivna");
+            }
+        }
+        public void c_set(float c)
+        {
+            if (c > 0)
+            {
+                this.c = c;
+            }
+            else
+            {
+                Console.WriteLine("Greska, stranica c mora biti pozitivna");
+            }
+        }
+        public void PrikazStranica()
+        {
+            Console.WriteLine("Stranice trougla su: ");
+            Console.WriteLine("a= " + a);
+            Console.WriteLine("b= " + b);
+            Console.WriteLine("c= " + c);
+        }
+
+        public float a_get()
+        {
+            return a;
+        }
+
+        public float b_get()
+        {
+            return b;
+        }
+
+        public float c_get()
+        {
+            return c;
+        }
+    }
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-7
+//Dodati metodu ProveraIspravnosti kroz koju se proveri nejednakost trougla
+//( a<b+c, b<a+c, c<a+b )
+//Korisnik aplikacije sam unosi stranice trougla.
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Trougao T = new Trougao();
+            Console.Write("a = ");
+            T.a_set(float.Parse(Console.ReadLine()));
+            Console.Write("b = ");
+            T.b_set(float.Parse(Console.ReadLine()));
+            Console.Write("c = ");
+            T.c_set(float.Parse(Console.ReadLine()));
+            T.PrikazStranica();
+            float O = T.a_get() + T.b_get() + T.c_get();
+            Console.WriteLine("Obim trougla = " + O);
+            T.ProveraIspravnosti();
+        }
+    }
+
+    public class Trougao
+    {
+        //atributi klase
+        private float a;
+        private float b;
+        private float c;
+
+        //metode klase
+        public void a_set(float a)
+        {
+            if (a > 0)
+            {
+                this.a = a;
+            }
+            else
+            {
+                Console.WriteLine("Greska, stranica a mora biti pozitivna");
+            }
+        }
+        public void b_set(float b)
+        {
+            if (b > 0)
+            {
+                this.b = b;
+            }
+            else
+            {
+                Console.WriteLine("Greska, stranica b mora biti pozitivna");
+            }
+        }
+        public void c_set(float c)
+        {
+            if (c > 0)
+            {
+                this.c = c;
+            }
+            else
+            {
+                Console.WriteLine("Greska, stranica c mora biti pozitivna");
+            }
+        }
+        public void PrikazStranica()
+        {
+            Console.WriteLine("Stranice trougla su: ");
+            Console.WriteLine("a= " + a);
+            Console.WriteLine("b= " + b);
+            Console.WriteLine("c= " + c);
+        }
+
+        public float a_get()
+        {
+            return a;
+        }
+
+        public float b_get()
+        {
+            return b;
+        }
+
+        public float c_get()
+        {
+            return c;
+        }
+
+        public void ProveraIspravnosti()
+        {
+            if (a < b + c && b < a + c && c < a + b)
+                Console.WriteLine("Trougao je ispravan.");
+            else
+                Console.WriteLine("Trougao nije ispravan.");
+        }
+    }
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-8
+//Dodati metodu Obim() koja ispisuje vrednost obima,
+//ili gresku ako trougao nije ispravan
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Trougao T = new Trougao();
+            Console.Write("a = ");
+            T.a_set(float.Parse(Console.ReadLine()));
+            Console.Write("b = ");
+            T.b_set(float.Parse(Console.ReadLine()));
+            Console.Write("c = ");
+            T.c_set(float.Parse(Console.ReadLine()));
+            T.PrikazStranica();
+            T.Obim();            
+        }
+    }
+
+    public class Trougao
+    {
+        //atributi klase
+        private float a;
+        private float b;
+        private float c;
+
+        //metode klase
+        public void a_set(float a)
+        {
+            if (a > 0)
+            {
+                this.a = a;
+            }
+            else
+            {
+                Console.WriteLine("Greska, stranica a mora biti pozitivna");
+            }
+        }
+        public void b_set(float b)
+        {
+            if (b > 0)
+            {
+                this.b = b;
+            }
+            else
+            {
+                Console.WriteLine("Greska, stranica b mora biti pozitivna");
+            }
+        }
+        public void c_set(float c)
+        {
+            if (c > 0)
+            {
+                this.c = c;
+            }
+            else
+            {
+                Console.WriteLine("Greska, stranica c mora biti pozitivna");
+            }
+        }
+        public void PrikazStranica()
+        {
+            Console.WriteLine("Stranice trougla su: ");
+            Console.WriteLine("a= " + a);
+            Console.WriteLine("b= " + b);
+            Console.WriteLine("c= " + c);
+        }
+
+        public float a_get()
+        {
+            return a;
+        }
+
+        public float b_get()
+        {
+            return b;
+        }
+
+        public float c_get()
+        {
+            return c;
+        }
+
+        public void ProveraIspravnosti()
+        {
+            if (a < b + c && b < a + c && c < a + b)
+                Console.WriteLine("Trougao je ispravan.");
+            else
+                Console.WriteLine("Trougao nije ispravan.");
+        }
+
+        internal void Obim()
+        {
+            if (a < b + c && b < a + c && c < a + b)
+                Console.WriteLine("Obim trougla: "+(a+b+c));
+            else
+                Console.WriteLine("Greska kod obima: Trougao nije ispravan.");
+        }
+    }
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-9
+//Dodati metodu Tip(),
+//kojom se proverava da li je trougao pravuogli, tupougli ili oštrougli
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Trougao T = new Trougao();
+            Console.Write("a = ");
+            T.a_set(float.Parse(Console.ReadLine()));
+            Console.Write("b = ");
+            T.b_set(float.Parse(Console.ReadLine()));
+            Console.Write("c = ");
+            T.c_set(float.Parse(Console.ReadLine()));
+            //T.PrikazStranica();
+            //T.Obim();
+            T.Tip();
+        }
+    }
+
+    public class Trougao
+    {
+        //atributi klase
+        private float a;
+        private float b;
+        private float c;
+
+        //metode klase
+        public void a_set(float a)
+        {
+            if (a > 0)
+            {
+                this.a = a;
+            }
+            else
+            {
+                Console.WriteLine("Greska, stranica a mora biti pozitivna");
+            }
+        }
+        public void b_set(float b)
+        {
+            if (b > 0)
+            {
+                this.b = b;
+            }
+            else
+            {
+                Console.WriteLine("Greska, stranica b mora biti pozitivna");
+            }
+        }
+        public void c_set(float c)
+        {
+            if (c > 0)
+            {
+                this.c = c;
+            }
+            else
+            {
+                Console.WriteLine("Greska, stranica c mora biti pozitivna");
+            }
+        }
+        public void PrikazStranica()
+        {
+            Console.WriteLine("Stranice trougla su: ");
+            Console.WriteLine("a= " + a);
+            Console.WriteLine("b= " + b);
+            Console.WriteLine("c= " + c);
+        }
+
+        public float a_get()
+        {
+            return a;
+        }
+
+        public float b_get()
+        {
+            return b;
+        }
+
+        public float c_get()
+        {
+            return c;
+        }
+
+        public void ProveraIspravnosti()
+        {
+            if (a < b + c && b < a + c && c < a + b)
+                Console.WriteLine("Trougao je ispravan.");
+            else
+                Console.WriteLine("Trougao nije ispravan.");
+        }
+
+        public void Obim()
+        {
+            if (a < b + c && b < a + c && c < a + b)
+                Console.WriteLine("Obim trougla: "+(a+b+c));
+            else
+                Console.WriteLine("Greska kod obima: Trougao nije ispravan.");
+        }
+
+        public void Tip()
+        {
+            if (a < b + c && b < a + c && c < a + b)
+            {
+                List<float> L = new List<float>();
+                L.Add(a); L.Add(b); L.Add(c);
+                double hip = L.Max();
+                if (hip * hip == a * a + b * b + c * c - hip * hip)
+                {
+                    Console.WriteLine("Trougao je pravougli.");
+                }
+                else if (hip * hip > a * a + b * b + c * c - hip * hip)
+                {
+                    Console.WriteLine("Trougao je tupougli.");
+                }
+                else
+                {
+                    Console.WriteLine("Trougao je oštrougli.");
+                }
+
+            }
+            else Console.WriteLine("Trougao nije ispravan.");
+        }
+    }
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-10
+//Napisati klasu kvadrat sa atributom a (stranica kvadrata),
+//sa get i set metodom i sa metodama Obim() i Povrsina() koje vracaju realan broj
+//Napisati i program koji testira ovu klasu
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Kvadrat k = new Kvadrat();
+            Console.Write("a = ");
+            k.a_Set(float.Parse(Console.ReadLine()));
+            Console.WriteLine("O = " + k.Obim());
+            Console.WriteLine("P = " + k.Povrsina());
+        }
+    }
+
+    public class Kvadrat
+    {
+        private float a;
+        private bool PopunjenaStranica;
+
+        public void a_Set(float a)
+        {
+            if(a>0)
+            {
+                this.a = a;
+                PopunjenaStranica = true;
+            }
+            else
+            {
+                Console.WriteLine("Greska: Stranica ne sme biti negativna.");
+            }
+        }
+
+        public float a_Get()
+        {
+            if (!PopunjenaStranica) return 0;
+            return a;
+        }
+
+        public float Obim()
+        {
+            if (!PopunjenaStranica) return 0;
+            return 4 * a;
+        }
+
+        public float Povrsina()
+        {
+            if (!PopunjenaStranica) return 0;
+            return a * a;
+        }
+    }
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-11
+//Koristeci klasu Kvadrat i njene metode,
+//napisati program u koji korisnik unosi stranice za dva kvadrata.
+//Program ispisuje razliku njihovih obima, i razliku njihovih površina.
+//(obavezno se od veceg obima oduzima manji, takode i kod površine)
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Kvadrat k1 = new Kvadrat();
+            Kvadrat k2 = new Kvadrat();
+            Console.Write("stranica prvog kvadrata: ");
+            k1.a_Set(float.Parse(Console.ReadLine()));
+            Console.Write("stranica drugog kvadrata: ");
+            k2.a_Set(float.Parse(Console.ReadLine()));
+            Console.WriteLine("Razlika obima: " + Math.Abs(k1.Obim()- k2.Obim()));
+            Console.WriteLine("Razlika površina: " + Math.Abs(k1.Povrsina() - k2.Povrsina()));
+        }
+    }
+
+    public class Kvadrat
+    {
+        private float a;
+        private bool PopunjenaStranica;
+
+        public void a_Set(float a)
+        {
+            if(a>0)
+            {
+                this.a = a;
+                PopunjenaStranica = true;
+            }
+            else
+            {
+                Console.WriteLine("Greska: Stranica ne sme biti negativna.");
+            }
+        }
+
+        public float a_Get()
+        {
+            if (!PopunjenaStranica) return 0;
+            return a;
+        }
+
+        public float Obim()
+        {
+            if (!PopunjenaStranica) return 0;
+            return 4 * a;
+        }
+
+        public float Povrsina()
+        {
+            if (!PopunjenaStranica) return 0;
+            return a * a;
+        }
+    }
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-12
+//Napisati klasu Trougao koja ima KONSTRUKTOR, metode za obim i povrsinu
+//Napisati program koji unosi stranice trougla u jednom redu,
+//i u sledeca 2 reda teksta ispisuje obim i povrsinu:
+//npr:
+//Unesi stranice: 3 4 5
+//Obim: 12
+//Povrsina: 6
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Unesi stranice: ");
+            string odg = Console.ReadLine();
+            string[] niz = odg.Split(' ');
+            float a = float.Parse(niz[0]);
+            float b = float.Parse(niz[1]);
+            float c = float.Parse(niz[2]);
+            Trougao T = new Trougao(a, b, c);
+            Console.WriteLine("Obim: " + T.Obim());
+            Console.WriteLine("Povrsina: " + T.Povrsina());
+        }
+    }
+
+    public class Trougao
+    {
+        private float a;
+        private float b;
+        private float c;
+
+        //konstruktor
+        public Trougao(float v1, float v2, float v3)
+        {
+            this.a = v1;
+            this.b = v2;
+            this.c = v3;
+        }
+
+        public float Obim()
+        {
+            return a + b + c;
+        }
+
+        public float Povrsina()
+        {
+            float s = Obim() / 2;
+            return (float)Math.Sqrt(s * (s - a) * (s - b) * (s - c));
+        }
+    }
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-13
+//Napisati program kroz koji se unosi 5 trouglova.
+//Program ispisuje trougao koji ima najvecu povrsinu.
+//npr:
+//Unesi stranice 1. trougla: 3 4 5
+//Unesi stranice 2. trougla: 1 1 1
+//Unesi stranice 3. trougla: 2 3 2
+//Unesi stranice 4. trougla: 5 4 5
+//Unesi stranice 5. trougla: 3 3 3
+//Najvecu povrsinu ima 4. trougao.
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            float max = 0;
+            int imax = 1;
+            for (int i = 1; i < 6; i++)
+            {
+                Console.Write("Unesi stranice "+i+". trougla: ");
+                string odg = Console.ReadLine();
+                string[] niz = odg.Split(' ');
+                float a = float.Parse(niz[0]);
+                float b = float.Parse(niz[1]);
+                float c = float.Parse(niz[2]);
+                Trougao T = new Trougao(a, b, c);
+                float p = T.Povrsina();
+                if(p>max)
+                {
+                    max = p;
+                    imax = i;
+                }
+            }
+            Console.WriteLine("Najvecu povrsinu ima "+imax+". trougao.");
+        }
+    }
+
+    public class Trougao
+    {
+        private float a;
+        private float b;
+        private float c;
+
+        //konstruktor
+        public Trougao(float v1, float v2, float v3)
+        {
+            this.a = v1;
+            this.b = v2;
+            this.c = v3;
+        }
+
+        public float Obim()
+        {
+            return a + b + c;
+        }
+
+        public float Povrsina()
+        {
+            float s = Obim() / 2;
+            return (float)Math.Sqrt(s * (s - a) * (s - b) * (s - c));
+        }
+    }
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-14
+//Napisati klasu Utakmica sa konstruktorom koji pamti nazive 2 tima.
+//Klasi dodati i metodu Gol(string klub) koja beleži pogotke
+//Dodati još metodu Kraj() koja na ekran isisuje konacni rezultat,
+//kao i naziv tima koji je pobedio.
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Utakmica u = new Utakmica("Dinamo", "Debrecin");
+            u.Gol("Dinamo");
+            u.Gol("Debrecin");
+            u.Gol("Dinamo");
+            u.Gol("Dinamo");
+            u.Kraj();
+        }
+    }
+
+    public class Utakmica
+    {
+        private string domacin;
+        private string gost;
+        private int goloviDomacin;
+        private int goloviGost;
+
+
+        public Utakmica(string v1, string v2)
+        {
+            this.domacin = v1;
+            this.gost = v2;
+            this.goloviDomacin = 0;
+            this.goloviGost = 0;
+        }
+
+        public void Gol(string klub)
+        {
+            if (klub == domacin)
+                goloviDomacin++;
+            else if (klub == gost)
+                goloviGost++;
+            else Console.WriteLine("Greška: Neispravan naziv kluba!");
+        }
+
+        public void Kraj()
+        {
+            Console.WriteLine(domacin + " - " + gost +
+                " (" + goloviDomacin + "-" + goloviGost + ")");
+            if (goloviGost == goloviDomacin)
+                Console.WriteLine("Utakmica je završila nerešeno.");
+            else if (goloviGost > goloviDomacin)
+                Console.WriteLine("Pobeda za " + gost + ".");
+            else
+                Console.WriteLine("Pobeda za " + domacin + ".");
+        }
+    }
+

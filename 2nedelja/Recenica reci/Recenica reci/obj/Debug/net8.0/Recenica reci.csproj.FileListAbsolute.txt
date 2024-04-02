@@ -1,0 +1,15 @@
+K:\ITOIP Relja\2nedelja\Recenica reci\Recenica reci\bin\Debug\net8.0\Recenica reci.exe
+K:\ITOIP Relja\2nedelja\Recenica reci\Recenica reci\bin\Debug\net8.0\Recenica reci.deps.json
+K:\ITOIP Relja\2nedelja\Recenica reci\Recenica reci\bin\Debug\net8.0\Recenica reci.runtimeconfig.json
+K:\ITOIP Relja\2nedelja\Recenica reci\Recenica reci\bin\Debug\net8.0\Recenica reci.dll
+K:\ITOIP Relja\2nedelja\Recenica reci\Recenica reci\bin\Debug\net8.0\Recenica reci.pdb
+K:\ITOIP Relja\2nedelja\Recenica reci\Recenica reci\obj\Debug\net8.0\Recenica reci.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\2nedelja\Recenica reci\Recenica reci\obj\Debug\net8.0\Recenica reci.AssemblyInfoInputs.cache
+K:\ITOIP Relja\2nedelja\Recenica reci\Recenica reci\obj\Debug\net8.0\Recenica reci.AssemblyInfo.cs
+K:\ITOIP Relja\2nedelja\Recenica reci\Recenica reci\obj\Debug\net8.0\Recenica reci.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\2nedelja\Recenica reci\Recenica reci\obj\Debug\net8.0\Recenica reci.sourcelink.json
+K:\ITOIP Relja\2nedelja\Recenica reci\Recenica reci\obj\Debug\net8.0\Recenica reci.dll
+K:\ITOIP Relja\2nedelja\Recenica reci\Recenica reci\obj\Debug\net8.0\refint\Recenica reci.dll
+K:\ITOIP Relja\2nedelja\Recenica reci\Recenica reci\obj\Debug\net8.0\Recenica reci.pdb
+K:\ITOIP Relja\2nedelja\Recenica reci\Recenica reci\obj\Debug\net8.0\Recenica reci.genruntimeconfig.cache
+K:\ITOIP Relja\2nedelja\Recenica reci\Recenica reci\obj\Debug\net8.0\ref\Recenica reci.dll

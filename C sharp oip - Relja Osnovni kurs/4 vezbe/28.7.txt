@@ -1,0 +1,1110 @@
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-1
+//Napisati klasu Gradjanin sa atributima jmbg, ime, prezime.
+//Dodati konstruktor i metodu DatumRodjenja().
+//Napisati glavni program u kojem korisnik unosi jednog gradjanina,
+//a program ispisuje njegov datum rodjenja.
+//Npr.
+//Unesi JMBG: 1204997710352
+//Unesi ime: Darko
+//Unesi prezime: Petrovic
+//ODGOVOR:
+//Datum rodjenja: 12.04.1997.
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Unesi JMBG: ");
+            string JMBG = Console.ReadLine();
+            Console.Write("Unesi ime: ");
+            string ime = Console.ReadLine();
+            Console.Write("Unesi prezime: ");
+            string prezime = Console.ReadLine();
+            Gradjanin g = new Gradjanin(JMBG, ime, prezime);
+            Console.WriteLine("ODGOVOR:\nDatum rodjenja: " + g.DatumRodjenja());
+        }
+    }
+
+    public class Gradjanin
+    {
+        private string jMBG;
+        private string ime;
+        private string prezime;
+
+        public Gradjanin(string jMBG, string ime, string prezime)
+        {
+            if(jMBG.Length==13 && ime.Length<20 && prezime.Length<25)
+            {
+                this.jMBG = jMBG;
+                this.ime = ime;
+                this.prezime = prezime;
+            }
+            else
+            {
+                Console.WriteLine("Greska, podaci o gradjaninu se ne slazu.");
+            }
+        }
+
+        public string DatumRodjenja()
+        {
+            string dat="";
+            dat += jMBG.Substring(0, 2) + ".";//dodajemo dan rodjenja
+            dat += jMBG.Substring(2, 2) + ".";//dodajemo mesec rodjenja
+            if(jMBG[4]>'7') // II milenijum
+            {
+                dat += "1" + jMBG.Substring(4, 3) + ".";
+            }
+            else //III milenijum
+            {
+                dat += "2" + jMBG.Substring(4, 3) + ".";
+            }
+            return dat;
+        }
+    }
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-2
+//U klasi Gradjanin dodati još dve metode: Godiste() i KonvDat().
+//Omoguciti korisniku da za unete podatke o dve osobe, vidi njihovo godište,
+//i datume rodenja u formatu DateTime
+//Npr.
+//Unesi prvog gradjanina:  1204997710352 Darko Petrovic
+//Unesi drugog gradjanina: 1204995710352 Marko Petrovic
+//ODGOVOR:
+//Darko: 97.-godiste 12.04.1997 00:00:00
+//Marko: 95.-godiste 12.04.1995 00:00:00
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Unesi prvog gradjanina: ");
+            string odg1 = Console.ReadLine();
+            Console.Write("Unesi drugog gradjanina: ");
+            string odg2 = Console.ReadLine();
+            string[] niz1 = odg1.Split(' ');
+            string[] niz2 = odg2.Split(' ');
+            Gradjanin g1 = new Gradjanin(niz1[0], niz1[1], niz1[2]);
+            Gradjanin g2 = new Gradjanin(niz2[0], niz2[1], niz2[2]);
+            Console.WriteLine(g1.Ime_Get()+"\t"+g1.Godiste()+".-godiste\t"+g1.KonvDat());
+            Console.WriteLine(g2.Ime_Get()+"\t"+g2.Godiste()+".-godiste\t"+g2.KonvDat());
+        }
+    }
+
+    public class Gradjanin
+    {
+        private string jMBG;
+        private string ime;
+        private string prezime;
+
+        public Gradjanin(string jMBG, string ime, string prezime)
+        {
+            if(jMBG.Length==13 && ime.Length<20 && prezime.Length<25)
+            {
+                this.jMBG = jMBG;
+                this.ime = ime;
+                this.prezime = prezime;
+            }
+            else
+            {
+                Console.WriteLine("Greska, podaci o gradjaninu se ne slazu.");
+            }
+        }
+
+        public string DatumRodjenja()
+        {
+            string dat="";
+            dat += jMBG.Substring(0, 2) + ".";//dodajemo dan rodjenja
+            dat += jMBG.Substring(2, 2) + ".";//dodajemo mesec rodjenja
+            if(jMBG[4]>'7') // II milenijum
+            {
+                dat += "1" + jMBG.Substring(4, 3) + ".";
+            }
+            else //III milenijum
+            {
+                dat += "2" + jMBG.Substring(4, 3) + ".";
+            }
+            return dat;
+        }
+
+        public string Godiste()
+        {
+            return jMBG.Substring(5, 2);
+        }
+
+        public string Ime_Get()
+        {
+            return ime;
+        }
+
+        public DateTime KonvDat()
+        {
+
+            int dan = int.Parse(jMBG.Substring(0, 2));
+            int mesec = int.Parse(jMBG.Substring(2, 2));
+            int godina = 0;
+            if (jMBG[4] > '7') // II milenijum
+            {
+                godina = int.Parse("1" + jMBG.Substring(4, 3));
+            }
+            else //III milenijum
+            {
+                godina = int.Parse("2" + jMBG.Substring(4, 3));
+            }
+            DateTime d = new DateTime(godina,mesec,dan);
+            return d;
+        }
+    }
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-3
+//U klasi Gradjanin dodati još dve metode: DaniStarosti() i MinutiStarosti().
+//Omoguciti korisniku da za unete podatke o dve osobe, vidi datume rodjenja (bez 00:00:00) 
+//i da vidi koliko je ko od njih star u danima i u minutima.
+//Npr.
+//Unesi prvog gradjanina:  1204997710352 Darko Petrovic
+//Unesi drugog gradjanina: 1204995710352 Marko Petrovic
+//ODGOVOR:
+//Darko: 12.04.1997 45465-dana 452734257-minuta
+//Marko: 12.04.1995 45465-dana 452734257-minuta 
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Unesi prvog gradjanina: ");
+            string odg1 = Console.ReadLine();
+            Console.Write("Unesi drugog gradjanina: ");
+            string odg2 = Console.ReadLine();
+            string[] niz1 = odg1.Split(' ');
+            string[] niz2 = odg2.Split(' ');
+            Gradjanin g1 = new Gradjanin(niz1[0], niz1[1], niz1[2]);
+            Gradjanin g2 = new Gradjanin(niz2[0], niz2[1], niz2[2]);
+            Console.WriteLine(g1.Ime_Get()+"\t"+g1.KonvDat().ToShortDateString()+"\t"+g1.DaniStarosti()+"-dana\t"+g1.MinutiStarosti()+"-minuta");
+            Console.WriteLine(g2.Ime_Get()+"\t"+g2.KonvDat().ToShortDateString()+"\t"+g2.DaniStarosti()+"-dana\t"+g2.MinutiStarosti()+"-minuta");
+        }
+    }
+
+    public class Gradjanin
+    {
+        private string jMBG;
+        private string ime;
+        private string prezime;
+
+        public Gradjanin(string jMBG, string ime, string prezime)
+        {
+            if(jMBG.Length==13 && ime.Length<20 && prezime.Length<25)
+            {
+                this.jMBG = jMBG;
+                this.ime = ime;
+                this.prezime = prezime;
+            }
+            else
+            {
+                Console.WriteLine("Greska, podaci o gradjaninu se ne slazu.");
+            }
+        }
+
+        public string DatumRodjenja()
+        {
+            string dat="";
+            dat += jMBG.Substring(0, 2) + ".";//dodajemo dan rodjenja
+            dat += jMBG.Substring(2, 2) + ".";//dodajemo mesec rodjenja
+            if(jMBG[4]>'7') // II milenijum
+            {
+                dat += "1" + jMBG.Substring(4, 3) + ".";
+            }
+            else //III milenijum
+            {
+                dat += "2" + jMBG.Substring(4, 3) + ".";
+            }
+            return dat;
+        }
+
+        public string Godiste()
+        {
+            return jMBG.Substring(5, 2);
+        }
+
+        public string Ime_Get()
+        {
+            return ime;
+        }
+
+        public DateTime KonvDat()
+        {
+
+            int dan = int.Parse(jMBG.Substring(0, 2));
+            int mesec = int.Parse(jMBG.Substring(2, 2));
+            int godina = 0;
+            if (jMBG[4] > '7') // II milenijum
+            {
+                godina = int.Parse("1" + jMBG.Substring(4, 3));
+            }
+            else //III milenijum
+            {
+                godina = int.Parse("2" + jMBG.Substring(4, 3));
+            }
+            DateTime d = new DateTime(godina,mesec,dan);
+            return d;
+        }
+
+        public string DaniStarosti()
+        {
+            DateTime rodj = KonvDat();
+            DateTime danas = DateTime.Now;
+            int dani = (danas - rodj).Days;
+            return dani.ToString();
+        }
+
+        public string MinutiStarosti()
+        {
+            DateTime rodj = KonvDat();
+            DateTime danas = DateTime.Now;
+            int minuti = int.Parse(DaniStarosti())*24*60
+                                +(danas - rodj).Minutes;
+            return minuti.ToString();
+        }
+    }
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-4
+//Omoguciti korisniku da unese broj N, i nakon toga N-gradjana.
+//Program pronalazi najstarijeg medju njima i ispisuje njegove podatke.
+//Npr.
+//N=4
+//Unesi 1. gradjanina:  1204997710352 Darko Petrovic
+//Unesi 2. gradjanina: 1204995710352 Marko Petrovic
+//Unesi 3. gradjanina:  1204999710352 Ilija Petrovic
+//Unesi 4. gradjanina: 1204998710352 Veljko Petrovic
+//ODGOVOR:
+//1204995710352 Marko Petrovic
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("N = ");
+            int N = int.Parse(Console.ReadLine());
+            List<Gradjanin> L = new List<Gradjanin>();
+            int max = 0;
+            int imax = 0;
+            for (int i = 0; i < N; i++)
+            {
+                Console.Write("Unesi "+(i+1)+". gradjanina: ");
+                string odg = Console.ReadLine();
+                string[] niz = odg.Split(' ');
+                Gradjanin g = new Gradjanin(niz[0], niz[1], niz[2]);
+                L.Add(g);
+                if(int.Parse(g.MinutiStarosti()) > max)
+                {
+                    max = int.Parse(g.MinutiStarosti());
+                    imax = i;
+                }
+            }
+            Gradjanin najstariji = L[imax];
+            Console.WriteLine("ODGOVOR:");
+            Console.WriteLine(najstariji.JMBG_Get()+" "+najstariji.Ime_Get()+" "+najstariji.Prezime_Get());
+        }
+    }
+
+    public class Gradjanin
+    {
+        private string jMBG;
+        private string ime;
+        private string prezime;
+
+        public Gradjanin(string jMBG, string ime, string prezime)
+        {
+            if(jMBG.Length==13 && ime.Length<20 && prezime.Length<25)
+            {
+                this.jMBG = jMBG;
+                this.ime = ime;
+                this.prezime = prezime;
+            }
+            else
+            {
+                Console.WriteLine("Greska, podaci o gradjaninu se ne slazu.");
+            }
+        }
+
+        public string DatumRodjenja()
+        {
+            string dat="";
+            dat += jMBG.Substring(0, 2) + ".";//dodajemo dan rodjenja
+            dat += jMBG.Substring(2, 2) + ".";//dodajemo mesec rodjenja
+            if(jMBG[4]>'7') // II milenijum
+            {
+                dat += "1" + jMBG.Substring(4, 3) + ".";
+            }
+            else //III milenijum
+            {
+                dat += "2" + jMBG.Substring(4, 3) + ".";
+            }
+            return dat;
+        }
+
+        public string Godiste()
+        {
+            return jMBG.Substring(5, 2);
+        }
+
+        public string Ime_Get()
+        {
+            return ime;
+        }
+
+        public DateTime KonvDat()
+        {
+
+            int dan = int.Parse(jMBG.Substring(0, 2));
+            int mesec = int.Parse(jMBG.Substring(2, 2));
+            int godina = 0;
+            if (jMBG[4] > '7') // II milenijum
+            {
+                godina = int.Parse("1" + jMBG.Substring(4, 3));
+            }
+            else //III milenijum
+            {
+                godina = int.Parse("2" + jMBG.Substring(4, 3));
+            }
+            DateTime d = new DateTime(godina,mesec,dan);
+            return d;
+        }
+
+        public string DaniStarosti()
+        {
+            DateTime rodj = KonvDat();
+            DateTime danas = DateTime.Now;
+            int dani = (danas - rodj).Days;
+            return dani.ToString();
+        }
+
+        public string MinutiStarosti()
+        {
+            DateTime rodj = KonvDat();
+            DateTime danas = DateTime.Now;
+            int minuti = int.Parse(DaniStarosti())*24*60
+                                +(danas - rodj).Minutes;
+            return minuti.ToString();
+        }
+
+        public string JMBG_Get()
+        {
+            return jMBG;
+        }
+
+        public string Prezime_Get()
+        {
+            return prezime;
+        }
+    }
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-5
+//Napisati klasu Autoput sa atributima gradA(string), gradB(string), duzina(float)
+//Klasi dodati konstruktor i metodu ToString, sa formatom ispisa "Autoput Beograd-Nis 235km"
+//Omoguciti korisniku da unese autoput i da mu se uneti podaci ponovo prikazu.
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Unesi prvi grad: ");
+            string gradA = Console.ReadLine();
+            Console.Write("Unesi drugi grad: ");
+            string gradB = Console.ReadLine();
+            Console.Write("Unesi razdaljinu: ");
+            float duzina = float.Parse(Console.ReadLine());
+            Autoput a = new Autoput(gradA, gradB, duzina);
+            Console.WriteLine(a);
+        }
+    }
+
+    internal class Autoput
+    {
+        private string gradA;
+        private string gradB;
+        private float duzina;
+
+        public Autoput(string gradA, string gradB, float duzina)
+        {
+            this.gradA = gradA;
+            this.gradB = gradB;
+            this.duzina = duzina;
+        }
+
+        public override string ToString()
+        {
+            return "Autoput "+gradA+"-"+gradB+" "+(int)duzina+"km";
+        }
+    }
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-6
+//Dodati GET metoda za svaki atribut
+//Napisati novi program, u kojem pravimo listu A, sa 7 autoputeva.
+//Kroz program, omoguciti korisniku da unese 2 grada.
+//Program proverava da li je moguce da se stigne iz jednog u drugi,
+//preko ne vise od 2 autoputa (ispisati i ukupan predjeni put u km).
+   class Program
+    {
+        static void Main(string[] args)
+        {
+            //novi sad - nis --
+            //nis - nov sad ++
+            List<Autoput> A = new List<Autoput>();
+            A.Add(new Autoput("Beograd", "Nis", (float)235.74));
+            A.Add(new Autoput("Nis", "Vranje", (float)101.02));
+            A.Add(new Autoput("Nis", "Dimitrovgrad", (float)80.81));
+            A.Add(new Autoput("Beograd", "Novi Sad", (float)79.15));
+            A.Add(new Autoput("Novi Sad", "Subotica", (float)104.44));
+            A.Add(new Autoput("Beograd", "Preljina", (float)40.74));
+            A.Add(new Autoput("Beograd", "Sid", 114));
+
+            Console.Write("Unesi prvi grad: ");
+            string grad1 = Console.ReadLine();
+            Console.Write("Unesi drugi grad: ");
+            string grad2 = Console.ReadLine();
+            bool nadjeno = false;
+
+            //direktna veza (1 autoput)
+            for (int i = 0; i < A.Count; i++)
+            {
+                if(grad1==A[i].GradA_Get() && grad2 == A[i].GradB_Get() || grad1 == A[i].GradB_Get() && grad2 == A[i].GradA_Get())
+                {
+                    Console.WriteLine("Direktna veza: ukupno " + A[i].Duzina_Get()+"km");
+                    nadjeno = true;
+                }
+            }
+            //posredna veza (2 autoputa)
+            for (int i = 0; i < A.Count; i++)
+            {
+                for (int j = i+1; j < A.Count; j++)
+                {
+                    string veza = ProveriVezu(A[i], A[j], grad1, grad2);
+                    if (veza!="")
+                    {
+                        Console.WriteLine("Posredna veza preko grada: "+veza+" : ukupno " + (A[i].Duzina_Get()+ A[j].Duzina_Get()) + "km");
+                        nadjeno = true;
+                    }
+                }
+            }
+            if (!nadjeno) Console.WriteLine("Ne postoji trazena veza.");
+        }
+
+        private static string ProveriVezu(Autoput autoput1, Autoput autoput2, string grad1, string grad2)
+        {
+            //skracenice
+            string a1gA = autoput1.GradA_Get();
+            string a1gB = autoput1.GradB_Get();
+            string a2gA = autoput2.GradA_Get();
+            string a2gB = autoput2.GradB_Get();
+            string g1 = grad1;
+            string g2 = grad2;
+            //provera koji grad moze da bude posrednik
+            if (g1 == a1gA && g2 == a2gB && a1gB == a2gA) return a1gB;
+            else if (g1 == a1gA && g2 == a2gA && a1gB == a2gB) return a1gB;
+            else if (g1 == a1gB && g2 == a2gB && a1gA == a2gA) return a1gA;
+            else if (g1 == a1gB && g2 == a2gA && a1gA == a2gB) return a1gA;
+            else if (g2 == a1gA && g1 == a2gB && a1gB == a2gA) return a1gB;
+            else if (g2 == a1gA && g1 == a2gA && a1gB == a2gB) return a1gB;
+            else if (g2 == a1gB && g1 == a2gB && a1gA == a2gA) return a1gA;
+            else if (g2 == a1gB && g1 == a2gA && a1gA == a2gB) return a1gA;
+            else return "";
+        }
+    }
+
+    internal class Autoput
+    {
+        private string gradA;
+        private string gradB;
+        private float duzina;
+
+        public Autoput(string gradA, string gradB, float duzina)
+        {
+            this.gradA = gradA;
+            this.gradB = gradB;
+            this.duzina = duzina;
+        }
+
+        public override string ToString()
+        {
+            return "Autoput "+gradA+"-"+gradB+" "+(int)duzina+"km";
+        }
+
+        public float Duzina_Get()
+        {
+            return duzina;
+        }
+
+        public string GradA_Get()
+        {
+            return gradA; ;
+        }
+
+        public string GradB_Get()
+        {
+            return gradB;
+        }
+    }
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-7
+//Napisati klasu Recenica koja se sadrzi od liste reci (List<string>)
+//Klasa treba da asadrži još i konstruktor, i metod BrojReci().
+//Omoguciti korisniku da unosom u program prebroji reci u recenici.
+//(višestruke razmake treba ignorisati).
+   class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Unesi recenicu: ");
+            string r = Console.ReadLine();
+            Recenica x = new Recenica(r);
+            Console.WriteLine("Broj reci u recenici: " + x.BrojReci());
+        }
+    }
+
+    public class Recenica
+    {
+        List<string> L;
+
+        public Recenica(string r)
+        {
+            L = new List<string>();
+            string[] niz = r.Split(' ');
+            foreach (string rec in niz)
+            {
+                if (rec != "" && rec!="," && rec!=".") L.Add(rec);
+            }
+        }
+
+        public int BrojReci()
+        {
+            return L.Count;
+        }
+    }
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-8
+//U klasi Recenica dodati metod ObrisiPoslednjuRec()
+//Omoguciti korisniku da unese recenicu.
+//Program treba da obrise poslednju rec, i nakon toga da javi trenutni broj reci.
+   class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Unesi recenicu: ");
+            string r = Console.ReadLine();
+            Recenica x = new Recenica(r);
+            Console.WriteLine("Broj reci u recenici: " + x.BrojReci());
+            x.ObrisiPoslednjuRec();
+            Console.WriteLine("Broj reci u recenici: " + x.BrojReci());
+        }
+    }
+
+    public class Recenica
+    {
+        List<string> L;
+
+        public Recenica(string r)
+        {
+            L = new List<string>();
+            string[] niz = r.Split(' ');
+            foreach (string rec in niz)
+            {
+                if (rec != "" && rec!="," && rec!=".") L.Add(rec);
+            }
+        }
+
+        public int BrojReci()
+        {
+            return L.Count;
+        }
+
+        public void ObrisiPoslednjuRec()
+        {
+            L.RemoveAt(L.Count - 1);
+        }
+    }
+
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-9
+//U klasi Recenica dodati metod ToString() ciji je zadatak da prikaže celu recenicu.
+//Omoguciti korisniku da unese recenicu.
+//Program treba da obrise poslednju rec, a pre i nakon toga da prikaže recenicu.
+   class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Unesi recenicu: ");
+            string r = Console.ReadLine();
+            Recenica x = new Recenica(r);
+            Console.WriteLine(x);
+            x.ObrisiPoslednjuRec();
+            Console.WriteLine(x);
+        }
+    }
+
+    public class Recenica
+    {
+        List<string> L;
+
+        public Recenica(string r)
+        {
+            L = new List<string>();
+            string[] niz = r.Split(' ');
+            foreach (string rec in niz)
+            {
+                if (rec != "" && rec!="," && rec!=".") L.Add(rec);
+            }
+        }
+
+        public int BrojReci()
+        {
+            return L.Count;
+        }
+
+        public void ObrisiPoslednjuRec()
+        {
+            L.RemoveAt(L.Count - 1);
+        }
+
+        public override string ToString()
+        {
+            string cela_recenica = "";
+            foreach (string x in L)
+            {
+                cela_recenica += x + " ";
+            }
+            return cela_recenica;
+            //return cela_recenica.Substring(0,cela_recenica.Length-1);
+        }
+    }
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-10-postavka zadatka
+//Proveriti zašto Main metoda ne radi kako treba.
+//(rešiti problem preko konstruktora kopije)
+   class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Unesi recenicu: ");
+            string r = Console.ReadLine();
+            Recenica x1 = new Recenica(r);
+            Recenica x2 = x1; //OVDE TREBA BITI OPREZAN !!!
+            x2.ObrisiPoslednjuRec();
+            Console.WriteLine(x1);//recenica koju smo prvobitno uneli
+            Console.WriteLine(x2);//recenica kod koje smo brisali rec
+        }
+    }
+
+    public class Recenica
+    {
+        List<string> L;
+
+        public Recenica(string r)
+        {
+            L = new List<string>();
+            string[] niz = r.Split(' ');
+            foreach (string rec in niz)
+            {
+                if (rec != "" && rec!="," && rec!=".") L.Add(rec);
+            }
+        }
+
+        public int BrojReci()
+        {
+            return L.Count;
+        }
+
+        public void ObrisiPoslednjuRec()
+        {
+            L.RemoveAt(L.Count - 1);
+        }
+
+        public override string ToString()
+        {
+            string cela_recenica = "";
+            foreach (string x in L)
+            {
+                cela_recenica += x + " ";
+            }
+            return cela_recenica;
+            //return cela_recenica.Substring(0,cela_recenica.Length-1);
+        }
+    }
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-10-resenje zadatka
+//Proveriti zašto Main metoda ne radi kako treba.
+//(rešiti problem preko konstruktora kopije)
+   class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Unesi recenicu: ");
+            string r = Console.ReadLine();
+            Recenica x1 = new Recenica(r);
+            Recenica x2 = new Recenica(x1); //OVDE SE RADI KOPIRANJE
+            x2.ObrisiPoslednjuRec();
+            Console.WriteLine(x1);//recenica koju smo prvobitno uneli
+            Console.WriteLine(x2);//recenica kod koje smo brisali rec
+        }
+    }
+
+    public class Recenica
+    {
+        private List<string> L;
+
+        public Recenica(string r)
+        {
+            L = new List<string>();
+            string[] niz = r.Split(' ');
+            foreach (string rec in niz)
+            {
+                if (rec != "" && rec!="," && rec!=".") L.Add(rec);
+            }
+        }
+
+        public Recenica(Recenica x1) //konstruktor kolije
+        {
+            L = new List<string>();
+            foreach (string x in x1.L_Get())
+            {
+                L.Add(x);
+            }
+        }
+
+        private List<string> L_Get()
+        {
+            return L;
+        }
+
+        public int BrojReci()
+        {
+            return L.Count;
+        }
+
+        public void ObrisiPoslednjuRec()
+        {
+            L.RemoveAt(L.Count - 1);
+        }
+
+        public override string ToString()
+        {
+            string cela_recenica = "";
+            foreach (string x in L)
+            {
+                cela_recenica += x + " ";
+            }
+            return cela_recenica;
+            //return cela_recenica.Substring(0,cela_recenica.Length-1);
+        }
+    }
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-11
+//Napisati metodu DodajRec() koja dodaje novu rec na kraj recenice.
+//Obezbediti da se tacka ne pamti medu recima, vec se samo prikazuje 
+//na kraju ToString metode.
+//Omoguciti korisniku da unese recenicu, i da naknadno doda još jednu rec.
+   class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Unesi recenicu: ");
+            string r = Console.ReadLine();
+            Recenica x = new Recenica(r);
+            Console.Write("Dodaj rec: ");
+            string rc = Console.ReadLine();
+            x.DodajRec(rc);
+            Console.WriteLine(x);
+        }
+    }
+
+    public class Recenica
+    {
+        private List<string> L;
+
+        public Recenica(string r)
+        {
+            L = new List<string>();
+            string[] niz = r.Split(' ');
+            foreach (string rec in niz)
+            {
+                if (rec != "" && rec != "," && rec != ".")
+                {
+                    if (rec[rec.Length - 1] != '.') L.Add(rec);
+                    else L.Add(rec.Substring(0, rec.Length - 1));
+                }
+            }
+        }
+
+        public Recenica(Recenica x1) //konstruktor kolije
+        {
+            L = new List<string>();
+            foreach (string x in x1.L_Get())
+            {
+                L.Add(x);
+            }
+        }
+
+        private List<string> L_Get()
+        {
+            return L;
+        }
+
+        public int BrojReci()
+        {
+            return L.Count;
+        }
+
+        public void ObrisiPoslednjuRec()
+        {
+            L.RemoveAt(L.Count - 1);
+        }
+
+        public override string ToString()
+        {
+            string cela_recenica = "";
+            foreach (string x in L)
+            {
+                cela_recenica += x + " ";
+            }
+            //return cela_recenica+".";
+            return cela_recenica.Substring(0,cela_recenica.Length-1)+".";
+        }
+
+        public void DodajRec(string rc)
+        {
+            L.Add(rc);
+        }
+    }
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-12
+//Napisati metodu NaopackeRedosledReci() koja ispisuje u suprotnom poretku.
+//Napisati metodu TrajnoNaopackeRedosledReci() koja obrce poredak reci.
+//Napisati program koji ih testira.
+   class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Unesi recenicu: ");
+            string r = Console.ReadLine();
+            Recenica x = new Recenica(r);
+            Console.WriteLine(x.NaopackeRedosledReci());
+            //x.TrajnoNaopackeRedosledReci();
+            x.TrajnoNaopackeRedosledReci();
+            Console.WriteLine(x);
+        }
+    }
+
+    public class Recenica
+    {
+        private List<string> L;
+
+        public Recenica(string r)
+        {
+            L = new List<string>();
+            string[] niz = r.Split(' ');
+            foreach (string rec in niz)
+            {
+                if (rec != "" && rec != "," && rec != ".")
+                {
+                    if (rec[rec.Length - 1] != '.') L.Add(rec);
+                    else L.Add(rec.Substring(0, rec.Length - 1));
+                }
+            }
+        }
+
+        public Recenica(Recenica x1) //konstruktor kolije
+        {
+            L = new List<string>();
+            foreach (string x in x1.L_Get())
+            {
+                L.Add(x);
+            }
+        }
+
+        private List<string> L_Get()
+        {
+            return L;
+        }
+
+        public int BrojReci()
+        {
+            return L.Count;
+        }
+
+        public void ObrisiPoslednjuRec()
+        {
+            L.RemoveAt(L.Count - 1);
+        }
+
+        public override string ToString()
+        {
+            string cela_recenica = "";
+            foreach (string x in L)
+            {
+                cela_recenica += x + " ";
+            }
+            //return cela_recenica+".";
+            return cela_recenica.Substring(0,cela_recenica.Length-1)+".";
+        }
+
+        public void DodajRec(string rc)
+        {
+            L.Add(rc);
+        }
+
+        public string NaopackeRedosledReci()
+        {
+            string cela_recenica = "";
+            for (int i = L.Count - 1; i >= 0; i--)
+            {
+                cela_recenica += L[i] + " ";
+            }
+            return cela_recenica.Substring(0, cela_recenica.Length - 1) + ".";
+
+        }
+
+        public void TrajnoNaopackeRedosledReci()
+        {
+            L.Reverse();
+        }
+    }
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-13
+//Napisati metodu A.Nadovezi(B) koja na postojecu recenicu A dodaje sve reci druge recenice B.
+//Napisati program koji proverava ovu metodu.
+   class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Unesi recenicu: ");
+            string r = Console.ReadLine();
+            Recenica x = new Recenica(r);
+            Recenica x2 = new Recenica("da li ovo radi");
+            x.Nadovezi(x2);
+            Console.WriteLine(x);
+        }
+    }
+
+    public class Recenica
+    {
+        private List<string> L;
+
+        public Recenica(string r)
+        {
+            L = new List<string>();
+            string[] niz = r.Split(' ');
+            foreach (string rec in niz)
+            {
+                if (rec != "" && rec != "," && rec != ".")
+                {
+                    if (rec[rec.Length - 1] != '.') L.Add(rec);
+                    else L.Add(rec.Substring(0, rec.Length - 1));
+                }
+            }
+        }
+
+        public Recenica(Recenica x1) //konstruktor kolije
+        {
+            L = new List<string>();
+            foreach (string x in x1.L_Get())
+            {
+                L.Add(x);
+            }
+        }
+
+        private List<string> L_Get()
+        {
+            return L;
+        }
+
+        public int BrojReci()
+        {
+            return L.Count;
+        }
+
+        public void ObrisiPoslednjuRec()
+        {
+            L.RemoveAt(L.Count - 1);
+        }
+
+        public override string ToString()
+        {
+            string cela_recenica = "";
+            foreach (string x in L)
+            {
+                cela_recenica += x + " ";
+            }
+            //return cela_recenica+".";
+            return cela_recenica.Substring(0,cela_recenica.Length-1)+".";
+        }
+
+        public void DodajRec(string rc)
+        {
+            L.Add(rc);
+        }
+
+        public string NaopackeRedosledReci()
+        {
+            string cela_recenica = "";
+            for (int i = L.Count - 1; i >= 0; i--)
+            {
+                cela_recenica += L[i] + " ";
+            }
+            return cela_recenica.Substring(0, cela_recenica.Length - 1) + ".";
+
+        }
+
+        public void TrajnoNaopackeRedosledReci()
+        {
+            L.Reverse();
+        }
+
+        public void Nadovezi(Recenica x2)
+        {
+            foreach (string x in x2.L_Get()) L.Add(x);
+            //L.AddRange(x2.L_Get()); //(drugo rešenje)
+        }
+    }
+
+
+

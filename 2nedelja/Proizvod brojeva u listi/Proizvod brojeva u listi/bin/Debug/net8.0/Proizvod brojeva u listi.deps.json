@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Proizvod brojeva u listi/1.0.0": {
+        "runtime": {
+          "Proizvod brojeva u listi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Proizvod brojeva u listi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

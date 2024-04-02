@@ -1,0 +1,930 @@
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-1
+//Napisati program u kojem se instancira matrica celih brojeva (10x10),
+//Nakon toga, sve vrednosti matrice se iscrtavaju na ekranu.
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //instanciranje
+            int[,] M = new int[10, 10];
+            //iscrtavanje
+            for (int i = 0; i < 10; i++)//broji redove
+            {
+                for (int j = 0; j < 10; j++)//broji kolone
+                {
+                    Console.Write(M[i, j]);
+                }
+                Console.WriteLine();//prelazak u naredni red
+            }
+        }
+    }
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-2
+//Napisati program u kojem se instancira matrica sa karakterima (10x10),
+//Nakon toga, svi karakteri se iscrtavaju na ekranu.
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //instanciranje
+            char[,] M = new char[10, 10];
+            //iscrtavanje
+            for (int i = 0; i < 10; i++)//broji redove
+            {
+                for (int j = 0; j < 10; j++)//broji kolone
+                {
+                    Console.Write(M[i, j]);
+                }
+                Console.WriteLine();//prelazak u naredni red
+            }
+        }
+    }
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-3
+//Napisati program u kojem korisnik unosi 9 brojeva,
+//Nakon toga, svi uneti brojevi se iscrtavaju na ekranu u formi matrice.
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //instanciranje
+            int[,] M = new int[3, 3];
+            //unos elemenata u matricu
+            for (int i = 0; i < 3; i++)//broji redove
+            {
+                for (int j = 0; j < 3; j++)//broji kolone
+                {
+                    M[i, j] = int.Parse(Console.ReadLine());
+                }
+            }
+            //iscrtavanje
+            for (int i = 0; i < 3; i++)//broji redove
+            {
+                for (int j = 0; j < 3; j++)//broji kolone
+                {
+                    Console.Write(M[i, j]+" ");
+                }
+                Console.WriteLine();//prelazak u naredni red
+            }
+        }
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-4
+//Napisati program u kojem korisnik unosi matricu celih brojeva (3 x 3).
+//Nakon toga, svi uneti brojevi se iscrtavaju na ekranu u istoj formi matrice.
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //instanciranje
+            int[,] M = new int[3, 3];
+            //unos elemenata u matricu
+            for (int i = 0; i < 3; i++)//broji redove
+            {
+                string redTeksta = Console.ReadLine();
+                string[] nizBrojeva = redTeksta.Split(' ');
+                for (int j = 0; j < 3; j++)//broji kolone
+                {
+                    M[i, j] = int.Parse(nizBrojeva[j]);
+                }
+            }
+            Console.WriteLine();
+            //iscrtavanje
+            for (int i = 0; i < 3; i++)//broji redove
+            {
+                for (int j = 0; j < 3; j++)//broji kolone
+                {
+                    Console.Write(M[i, j]+" ");
+                }
+                Console.WriteLine();//prelazak u naredni red
+            }
+        }
+    }
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-5
+//Napisati program u kojem se instancira matrica celih brojeva(3x3).
+//Nakon toga se u matricu unose slucajni jednocifreni brojevi.
+//Na kraju se cela matrica iscrtava na ekranu.
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //instanciranje
+            int[,] M = new int[3, 3];
+            //unos slucajnih elemenata u matricu
+            Random r = new Random();
+            for (int i = 0; i < 3; i++)//broji redove
+            {
+                for (int j = 0; j < 3; j++)//broji kolone
+                {
+                    M[i, j] = r.Next(0,10);
+                }
+            }
+            //iscrtavanje
+            for (int i = 0; i < 3; i++)//broji redove
+            {
+                for (int j = 0; j < 3; j++)//broji kolone
+                {
+                    Console.Write(M[i, j]+" ");
+                }
+                Console.WriteLine();//prelazak u naredni red
+            }
+        }
+    }
+
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-6
+//Napisati program u kojem korisnik bira dimanziju matrice celih brojeva.
+//U matricu unose slucajni dvocifreni brojevi.
+//Na kraju se cela matrica iscrtava na ekranu.
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //upit korisniku za dimenziju matrice
+            Console.Write("Unesi broj redova: ");
+            int I = int.Parse(Console.ReadLine());
+            Console.Write("Unesi broj kolona: ");
+            int J = int.Parse(Console.ReadLine());
+            //instanciranje
+            int[,] M = new int[I, J];
+            //unos slucajnih elemenata u matricu
+            Random r = new Random();
+            for (int i = 0; i < I; i++)//broji redove
+            {
+                for (int j = 0; j < J; j++)//broji kolone
+                {
+                    M[i, j] = r.Next(10,100);
+                }
+            }
+            //iscrtavanje
+            for (int i = 0; i < I; i++)//broji redove
+            {
+                for (int j = 0; j < J; j++)//broji kolone
+                {
+                    Console.Write(M[i, j]+" ");
+                }
+                Console.WriteLine();//prelazak u naredni red
+            }
+        }
+    }
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-7
+//Napisati program u kojem korisnik bira dimenziju matrice karaktera.
+//U matricu se unose slucajni karakteri (slucajna velika slova).
+//Na kraju se cela matrica iscrtava na ekranu.
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //upit korisniku za dimenziju matrice
+            Console.Write("Unesi broj redova: ");
+            int I = int.Parse(Console.ReadLine());
+            Console.Write("Unesi broj kolona: ");
+            int J = int.Parse(Console.ReadLine());
+            //instanciranje
+            char[,] M = new char[I, J];
+            //unos slucajnih elemenata u matricu
+            Random r = new Random();
+            for (int i = 0; i < I; i++)//broji redove
+            {
+                for (int j = 0; j < J; j++)//broji kolone
+                {
+                    M[i, j] = (char)r.Next(65,65+26);//ASCII kod
+                }
+            }
+            //iscrtavanje
+            for (int i = 0; i < I; i++)//broji redove
+            {
+                for (int j = 0; j < J; j++)//broji kolone
+                {
+                    Console.Write(M[i, j]+" ");
+                }
+                Console.WriteLine();//prelazak u naredni red
+            }
+        }
+    }
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-8
+//Napisati program u kojem korisnik bira dimenziju matrice karaktera.
+//U matricu se unose slucajni karakteri (slucajna velika slova).
+//Nakon toga korisni unosi ime koje se sakriva u ovoj matrici na slucajnom mestu mestu.
+//Na kraju se cela matrica iscrtava na ekranu.
+//(bez upozorenja)
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Random r = new Random();
+            //upit korisniku za dimenziju matrice
+            Console.Write("Unesi broj redova: ");
+            int I = int.Parse(Console.ReadLine());
+            Console.Write("Unesi broj kolona: ");
+            int J = int.Parse(Console.ReadLine());
+            Console.Write("Unesi ime: ");
+            string ime = Console.ReadLine().ToUpper();
+            //slucajna lokacija
+            int x = r.Next(0, I);//slucajan red matrice
+            int y = r.Next(0, J-ime.Length);//slucajna kolona matrice
+            //instanciranje
+            char[,] M = new char[I, J];
+            //unos slucajnih elemenata u matricu
+            for (int i = 0; i < I; i++)//broji redove
+            {
+                for (int j = 0; j < J; j++)//broji kolone
+                {
+                    if (i == x && j >= y && j < y + ime.Length)
+                    {
+                        M[i, j] = ime[j-y];
+                    }
+                    else
+                    {
+                        M[i, j] = (char)r.Next(65, 65 + 26);//ASCII kod
+                    }
+                }
+            }
+            //iscrtavanje
+            for (int i = 0; i < I; i++)//broji redove
+            {
+                for (int j = 0; j < J; j++)//broji kolone
+                {
+                    Console.Write(M[i, j]+" ");
+                }
+                Console.WriteLine();//prelazak u naredni red
+            }
+        }
+    }
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-9
+//Napisati program u kojem korisnik bira dimenziju matrice karaktera.
+//U matricu se unose slucajni karakteri (slucajna velika slova).
+//Nakon toga korisni unosi ime koje se sakriva u ovoj matrici na slucajnom mestu mestu.
+//Na kraju se cela matrica iscrtava na ekranu.
+//(sa upozorenjem o duzini imena)
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Random r = new Random();
+            //upit korisniku za dimenziju matrice
+            Console.Write("Unesi broj redova: ");
+            int I = int.Parse(Console.ReadLine());
+            Console.Write("Unesi broj kolona: ");
+            int J = int.Parse(Console.ReadLine());
+            Console.Write("Unesi ime: ");
+            string ime = Console.ReadLine().ToUpper();
+            while (ime.Length > J || ime=="")
+            {
+                Console.Write("Unesi ime (koje nije prazno i koje nije predugacko): ");
+                ime = Console.ReadLine().ToUpper();
+            }
+            //slucajna lokacija
+            int x = r.Next(0, I);//slucajan red matrice
+            int y = r.Next(0, J-ime.Length);//slucajna kolona matrice
+            //instanciranje
+            char[,] M = new char[I, J];
+            //unos slucajnih elemenata u matricu
+            for (int i = 0; i < I; i++)//broji redove
+            {
+                for (int j = 0; j < J; j++)//broji kolone
+                {
+                    if (i == x && j >= y && j < y + ime.Length)
+                    {
+                        M[i, j] = ime[j-y];
+                    }
+                    else
+                    {
+                        M[i, j] = (char)r.Next(65, 65 + 26);//ASCII kod
+                    }
+                }
+            }
+            //iscrtavanje
+            for (int i = 0; i < I; i++)//broji redove
+            {
+                for (int j = 0; j < J; j++)//broji kolone
+                {
+                    Console.Write(M[i, j]+" ");
+                }
+                Console.WriteLine();//prelazak u naredni red
+            }
+        }
+    }
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-10
+//Napisati program u kojem se kreira celih brojeva matrica(10x10), 
+//u kojoj se nalaze sve osmice,
+//i samo jedna devetka na slucajnoj poziciji.
+//Matrica se na kraju programa iscrtava na ekranu.
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Random r = new Random();
+
+            //slucajna lokacija
+            int x = r.Next(0, 10);//slucajan red matrice
+            int y = r.Next(0, 10);//slucajna kolona matrice
+            //instanciranje
+            int[,] M = new int[10, 10];
+            //unos slucajnih elemenata u matricu
+            for (int i = 0; i < 10; i++)//broji redove
+            {
+                for (int j = 0; j < 10; j++)//broji kolone
+                {
+                    if (i == x && j == y)
+                    {
+                        M[i, j] = 9;
+                    }
+                    else
+                    {
+                        M[i, j] = 8;
+                    }
+                }
+            }
+            //iscrtavanje
+            for (int i = 0; i < 10; i++)//broji redove
+            {
+                for (int j = 0; j < 10; j++)//broji kolone
+                {
+                    Console.Write(M[i, j]+" ");
+                }
+                Console.WriteLine();//prelazak u naredni red
+            }
+        }
+    }
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-11
+//Napisati program u kojem se kreira slucajna matrica jednocifrenih brojeva (10x10), 
+//Program ispisuje sve elemente sa glavne dijagonale.
+//Npr. za matricu
+//1 2 3             //d 0 0
+//4 5 6             //0 d 0
+//7 8 9             //0 0 d
+//glavnu dijagonalu cine 1, 5 i 9
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Random r = new Random();
+            //instanciranje
+            int[,] M = new int[10, 10];
+            //unos slucajnih elemenata u matricu
+            for (int i = 0; i < 10; i++)//broji redove
+            {
+                for (int j = 0; j < 10; j++)//broji kolone
+                {
+                    M[i, j] = r.Next(0, 10);
+                }
+            }
+            //iscrtavanje
+            for (int i = 0; i < 10; i++)//broji redove
+            {
+                for (int j = 0; j < 10; j++)//broji kolone
+                {
+                    Console.Write(M[i, j]+" ");
+                }
+                Console.WriteLine();//prelazak u naredni red
+            }
+            //iscrtavanje glavne dijagonale:
+            Console.Write("Glavna dijagonala: ");
+            for (int i = 0; i < 10; i++)
+            {
+                if (i < 9) Console.Write(M[i, i] + ", ");
+                else Console.Write(M[i, i]);
+            }
+            Console.WriteLine();
+        }
+    }
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-12
+//Napisati program u kojem se kreira slucajna matrica jednocifrenih brojeva (10x10), 
+//Program prvo iscrtava celu matricu.
+//Nakon toga iscrtava samo elemente koji nisu na glavnoj dijagonali.
+//Npr. za matricu
+//1 2 3
+//4 5 6
+//7 8 9
+//ispisuje se:
+//  2 3
+//4   6
+//7 8  
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Random r = new Random();
+            //instanciranje
+            int[,] M = new int[10, 10];
+            //unos slucajnih elemenata u matricu
+            for (int i = 0; i < 10; i++)//broji redove
+            {
+                for (int j = 0; j < 10; j++)//broji kolone
+                {
+                    M[i, j] = r.Next(0, 10);
+                }
+            }
+            //iscrtavanje
+            for (int i = 0; i < 10; i++)//broji redove
+            {
+                for (int j = 0; j < 10; j++)//broji kolone
+                {
+                    Console.Write(M[i, j]+" ");
+                }
+                Console.WriteLine();//prelazak u naredni red
+            }
+            Console.WriteLine();
+            //iscrtavanje bez glavne dijagonale:
+            for (int i = 0; i < 10; i++)//broji redove
+            {
+                for (int j = 0; j < 10; j++)//broji kolone
+                {
+                    if (i == j)//element glavne dijagonale
+                    {
+                        Console.Write("  ");
+                    }
+                    else
+                    {
+                        Console.Write(M[i, j] + " ");
+                    }
+                }
+                Console.WriteLine();//prelazak u naredni red
+            }
+            
+        }
+    }
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-13
+// Program u kom se kreira slucajna matrica cifara 10x10
+// Prikazuju se svi elementi matrice
+// A) Glavna Dijagonala
+//      d 0 0
+//      0 d 0
+//      0 0 d
+// B) Gornji trougao
+//      0 t t
+//      0 0 t
+//      0 0 0
+// C) Donji trougao
+//      0 0 0
+//      t 0 0
+//      t t 0
+// D) Sporedna Dijagonala
+//      0 0 d
+//      0 d 0
+//      d 0 0 
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Random r = new Random();
+            //instanciranje
+            int[,] M = new int[10, 10];
+            //unos slucajnih elemenata u matricu
+            for (int i = 0; i < 10; i++)//broji redove
+            {
+                for (int j = 0; j < 10; j++)//broji kolone
+                {
+                    M[i, j] = r.Next(0, 10);
+                }
+            }
+            //iscrtavanje
+            for (int i = 0; i < 10; i++)//broji redove
+            {
+                for (int j = 0; j < 10; j++)//broji kolone
+                {
+                    Console.Write(M[i, j]+" ");
+                }
+                Console.WriteLine();//prelazak u naredni red
+            }
+            Console.WriteLine();
+            //iscrtavanje glavne dijagonale:
+            Console.WriteLine("A) Glavna dijagonala: ");
+            for (int i = 0; i < 10; i++)//broji redove
+            {
+                for (int j = 0; j < 10; j++)//broji kolone
+                {
+                    if (i == j)//element glavne dijagonale
+                    {
+                        Console.Write(M[i, j] + " ");
+                    }
+                    else
+                    {
+                        Console.Write("  ");
+                    }
+                }
+                Console.WriteLine();//prelazak u naredni red
+            }
+            Console.WriteLine();
+            //iscrtavanje gornjeg trougla:
+            Console.WriteLine("B) Gornji trougao: ");
+            for (int i = 0; i < 10; i++)//broji redove
+            {
+                for (int j = 0; j < 10; j++)//broji kolone
+                {
+                    if (i < j)//element gornjeg trougla
+                    {
+                        Console.Write(M[i, j] + " ");
+                    }
+                    else
+                    {
+                        Console.Write("  ");
+                    }
+                }
+                Console.WriteLine();//prelazak u naredni red
+            }
+            Console.WriteLine();
+            //iscrtavanje donjeg trougla:
+            Console.WriteLine("C) Donji trougao: ");
+            for (int i = 0; i < 10; i++)//broji redove
+            {
+                for (int j = 0; j < 10; j++)//broji kolone
+                {
+                    if (i > j)//element donjeg trougla
+                    {
+                        Console.Write(M[i, j] + " ");
+                    }
+                    else
+                    {
+                        Console.Write("  ");
+                    }
+                }
+                Console.WriteLine();//prelazak u naredni red
+            }
+            Console.WriteLine();
+            //iscrtavanje sporedne dijagonale:
+            Console.WriteLine("D) Sporedna dijagonala: ");
+            for (int i = 0; i < 10; i++)//broji redove
+            {
+                for (int j = 0; j < 10; j++)//broji kolone
+                {
+                    if (i + j==9)//element sporedne dijagonale
+                    {
+                        Console.Write(M[i, j] + " ");
+                    }
+                    else
+                    {
+                        Console.Write("  ");
+                    }
+                }
+                Console.WriteLine();//prelazak u naredni red
+            }
+        }
+    }
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-14
+// Program u kom se kreira slucajna matrica NxN
+// Prikazuje se cela matrca,
+// nakon toga samo okvir i obe dijagonale
+// i na kraju sve ono sto se nije prikazalo u prethodnom ispisu
+// Matrica
+//      0 0 0 0 0
+//      0 0 0 0 0
+//      0 0 0 0 0
+//      0 0 0 0 0
+//      0 0 0 0 0
+// Prvi ispis
+//      0 0 0 0 0
+//      0 0   0 0
+//      0   0   0
+//      0 0   0 0
+//      0 0 0 0 0
+// Drugi ispis
+//      
+//          0 
+//        0   0 
+//          0 
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Random r = new Random();
+            int N = r.Next(5, 20);
+            //instanciranje
+            int[,] M = new int[N, N];
+
+            //iscrtavanje cele matrice
+            for (int i = 0; i < N; i++)//broji redove
+            {
+                for (int j = 0; j < N; j++)//broji kolone
+                {
+                    Console.Write(M[i, j]+" ");
+                }
+                Console.WriteLine();//prelazak u naredni red
+            }
+            Console.WriteLine();
+
+            //iscrtavanje okvira sa obe dijagonale:
+            for (int i = 0; i < N; i++)//broji redove
+            {
+                for (int j = 0; j < N; j++)//broji kolone
+                {
+                    if (i == j || i + j == N - 1 || i == 0 || j == 0 || i==N-1 || j==N-1)//element glavne dijagonale
+                    {
+                        Console.Write(M[i, j] + " ");
+                    }
+                    else
+                    {
+                        Console.Write("  ");
+                    }
+                }
+                Console.WriteLine();//prelazak u naredni red
+            }
+            Console.WriteLine();
+
+            //iscrtavanje svega sto je nedostajalo:
+            for (int i = 0; i < N; i++)//broji redove
+            {
+                for (int j = 0; j < N; j++)//broji kolone
+                {
+                    if (i == j || i + j == N - 1 || i == 0 || j == 0 || i == N - 1 || j == N - 1)//element glavne dijagonale
+                    {
+                        Console.Write("  ");
+                    }
+                    else
+                    {
+                        Console.Write(M[i, j] + " ");
+                    }
+                }
+                Console.WriteLine();//prelazak u naredni red
+            }
+            Console.WriteLine();
+
+        }
+   }
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-15
+//Program u kom se unosi matrica NxN (red po red), smatrati da je 2<N<6
+//Prikazuje se cela matrca,
+//zajedno sa zbirovima za svaki red, svaku kolonu i ukupan zbir.
+//Zbirove prikazati u zagradama.
+//Npr. 
+//N=3
+//2 3 4
+//5 6 2
+//4 4 4
+//Odgovor:
+//2    3    4 (9)
+//5    6    2 (13)
+//4    4    4 (12)
+//(11) (13) (10) <34> 
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Random r = new Random();
+            int N = r.Next(3, 6);
+            //instanciranje
+            int[,] M = new int[N, N];
+            int[] zbkol = new int[N];
+            Console.WriteLine("N = " + N);
+
+            //unos matrice
+            for (int i = 0; i < N; i++)
+            {
+                string red = Console.ReadLine();
+                string[] niz = red.Split(' ');
+                
+                for (int j = 0; j < N; j++)
+                {
+                    M[i, j] = int.Parse(niz[j]);
+                }
+            }
+            Console.WriteLine();
+
+            //iscrtavanje cele matrice
+            for (int i = 0; i < N; i++)//broji redove
+            {
+                int zbred = 0;
+                for (int j = 0; j < N; j++)//broji kolone
+                {
+                    Console.Write(M[i, j]+"\t");
+                    zbred += M[i, j];
+                    zbkol[j] += M[i, j];
+                }
+                Console.WriteLine("("+zbred+")");
+            }
+            for (int j = 0; j < N; j++)
+            {
+                Console.Write("(" + zbkol[j] + ")\t");
+            }
+            Console.WriteLine("<"+zbkol.Sum()+">");
+        }
+
+
+     }
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-16
+// Napisati program u kom se unosi matrica NxN (red po red), 2<N<6
+// Program prikazuje celu matrcu.
+// Posebno se racunaju i ispisuju zbirovi elemenata
+// A) sa glavne dijagonale
+// B) sa gornjeg trougla
+// C) sa donjeg trougla
+// D) sa sporedne dijagonale
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Random r = new Random();
+            int N = r.Next(3, 6);
+            //instanciranje
+            int[,] M = new int[N, N];
+            int zbGlavne = 0;
+            int zbSporedne = 0;
+            int zbDonjeg = 0;
+            int zbGornjeg = 0;
+            Console.WriteLine("N = " + N);
+
+            //unos matrice
+            for (int i = 0; i < N; i++)
+            {
+                string red = Console.ReadLine();
+                string[] niz = red.Split(' ');
+                
+                for (int j = 0; j < N; j++)
+                {
+                    M[i, j] = int.Parse(niz[j]);
+                }
+            }
+            Console.WriteLine();
+
+            //iscrtavanje cele matrice
+            for (int i = 0; i < N; i++)//broji redove
+            {
+                
+                for (int j = 0; j < N; j++)//broji kolone
+                {
+                    Console.Write(M[i, j]+" ");
+                    if (i == j) zbGlavne += M[i, j];
+                    if (i + j == N-1) zbSporedne += M[i, j];
+                    if (i < j) zbGornjeg += M[i, j];
+                    if (i > j) zbDonjeg += M[i, j];
+                }
+                Console.WriteLine();
+
+            }
+            Console.WriteLine("A) Zbir glavne dijagonale: " + zbGlavne);
+            Console.WriteLine("B) Zbir gornjeg trougla: " + zbGornjeg);
+            Console.WriteLine("C) Zbir donjeg trougla: " + zbDonjeg);
+            Console.WriteLine("D) Zbir sporedne dijagonale: " + zbSporedne);
+
+        }
+
+
+    }
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-17
+//Napisati program u kojem 2 igraca igraju igru Iks-Oks.
+//Podaci se snimaju u matricu karaktera 3x3.
+//Prvi je na potezu X, a igra se prekida
+//kada neko pobedi, ili kada se popuni matrica.
+//Matrica se ispisuje posle svakog poteza.
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            char[,] M = new char[3, 3];
+            for (int i = 0; i < 3; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    M[i, j] = ' ';
+                }
+            }
+            int potez = 1;// ako je potez neparan, igra X, u suprotnom O
+            bool gotova = false;
+            char igrac = 'X';
+            while (potez < 10 && !gotova)
+            {
+                if (potez % 2 == 1)
+                {
+                    Console.Write("X = ");
+                    igrac = 'X';
+                }
+                else
+                {
+                    Console.Write("O = ");
+                    igrac = 'O';
+                }
+                string odgovor = Console.ReadLine();
+                string[] niz = odgovor.Split(' ');
+                int I = int.Parse(niz[0]);
+                int J = int.Parse(niz[1]);
+                if (M[I, J] == 'X' || M[I, J] == 'O')
+                {
+                    Console.WriteLine("GRESKA");
+                }
+                else
+                {
+                    M[I, J] = igrac;
+                    gotova = Provera(M);
+                    potez++;
+                    Console.Clear();
+                    for (int i = 0; i < 3; i++)
+                    {
+                        for (int j = 0; j < 3; j++)
+                        {
+                            Console.Write(M[i, j]);
+                            if (j < 2) Console.Write("|");
+                        }
+                        Console.WriteLine();
+                        if (i < 2) Console.WriteLine("- - -");
+                    }
+                    Console.WriteLine();
+                }
+            }
+            if (gotova)
+            {
+                Console.WriteLine("Igra je gotova, pobedio je: " + igrac);
+            }
+            else
+            {
+                Console.WriteLine("Igra se zavrsila nereseno!");
+            }
+        }
+
+        private static bool Provera(char[,] M)
+        {
+            //PROVERA PO VRSTAMA
+            for (int i = 0; i < 3; i++)
+            {
+                if(M[i,0]==M[i,1] && M[i,1]==M[i,2] && M[i,2]!=' ')
+                {
+                    return true;
+                }
+            }
+            //PROVERA PO KOLONAMA
+            for (int j = 0; j < 3; j++)
+            {
+                if (M[0,j ] == M[1,j] && M[1,j] == M[2,j] && M[2,j] != ' ')
+                {
+                    return true;
+                }
+            }
+            //PROVERA ZA GLAVNU DIJAGONALU
+            if (M[0, 0] == M[1, 1] && M[1, 1] == M[2, 2] && M[2, 2] != ' ')
+            {
+                return true;
+            }
+            //PROVERA ZA SPOREDNU DIJAGONALU
+            if (M[0, 2] == M[1, 1] && M[1, 1] == M[2, 0] && M[2, 0] != ' ')
+            {
+                return true;
+            }
+            return false;
+        }
+    }
+
+
+
+

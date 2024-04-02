@@ -1,0 +1,15 @@
+K:\ITOIP Relja\2nedelja\Proizvod brojeva u listi\Proizvod brojeva u listi\obj\Debug\net8.0\Proizvod brojeva u listi.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\2nedelja\Proizvod brojeva u listi\Proizvod brojeva u listi\obj\Debug\net8.0\Proizvod brojeva u listi.AssemblyInfoInputs.cache
+K:\ITOIP Relja\2nedelja\Proizvod brojeva u listi\Proizvod brojeva u listi\obj\Debug\net8.0\Proizvod brojeva u listi.AssemblyInfo.cs
+K:\ITOIP Relja\2nedelja\Proizvod brojeva u listi\Proizvod brojeva u listi\obj\Debug\net8.0\Proizvod brojeva u listi.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\2nedelja\Proizvod brojeva u listi\Proizvod brojeva u listi\obj\Debug\net8.0\Proizvod brojeva u listi.sourcelink.json
+K:\ITOIP Relja\2nedelja\Proizvod brojeva u listi\Proizvod brojeva u listi\bin\Debug\net8.0\Proizvod brojeva u listi.exe
+K:\ITOIP Relja\2nedelja\Proizvod brojeva u listi\Proizvod brojeva u listi\bin\Debug\net8.0\Proizvod brojeva u listi.deps.json
+K:\ITOIP Relja\2nedelja\Proizvod brojeva u listi\Proizvod brojeva u listi\bin\Debug\net8.0\Proizvod brojeva u listi.runtimeconfig.json
+K:\ITOIP Relja\2nedelja\Proizvod brojeva u listi\Proizvod brojeva u listi\bin\Debug\net8.0\Proizvod brojeva u listi.dll
+K:\ITOIP Relja\2nedelja\Proizvod brojeva u listi\Proizvod brojeva u listi\bin\Debug\net8.0\Proizvod brojeva u listi.pdb
+K:\ITOIP Relja\2nedelja\Proizvod brojeva u listi\Proizvod brojeva u listi\obj\Debug\net8.0\Proizvod brojeva u listi.dll
+K:\ITOIP Relja\2nedelja\Proizvod brojeva u listi\Proizvod brojeva u listi\obj\Debug\net8.0\refint\Proizvod brojeva u listi.dll
+K:\ITOIP Relja\2nedelja\Proizvod brojeva u listi\Proizvod brojeva u listi\obj\Debug\net8.0\Proizvod brojeva u listi.pdb
+K:\ITOIP Relja\2nedelja\Proizvod brojeva u listi\Proizvod brojeva u listi\obj\Debug\net8.0\Proizvod brojeva u listi.genruntimeconfig.cache
+K:\ITOIP Relja\2nedelja\Proizvod brojeva u listi\Proizvod brojeva u listi\obj\Debug\net8.0\ref\Proizvod brojeva u listi.dll

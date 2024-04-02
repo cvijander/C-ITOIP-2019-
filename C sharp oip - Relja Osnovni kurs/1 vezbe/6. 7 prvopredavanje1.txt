@@ -1,0 +1,79 @@
+ int moj_broj = 5;
+// moj_broj += 3;
+  moj_broj = moj_broj + 3;
+
+  Console.WriteLine(moj_broj);
+  Console.ReadLine();
+
+
+
+
+ Console.WriteLine("Unesite ime");
+ string ime= Console.ReadLine();
+ Console.WriteLine("Unesite prezime");
+ string prezime = Console.ReadLine();
+ Console.WriteLine("Unesite grad");
+ string grad = Console.ReadLine();
+ Console.WriteLine(ime+ " " + prezime+ " " + grad);
+
+
+  int br1, br2;
+  br1 = 45;
+  br2 = 22;
+  int zbir = br1 + br2;
+  Console.WriteLine(zbir);
+
+
+
+
+            Console.WriteLine("Unesite prvi broj");
+            int broj1 = int.Parse(Console.ReadLine());
+            Console.WriteLine("Unesite drugi broj");
+            int broj2 = int.Parse(Console.ReadLine());
+            int zbir = broj1 + broj2;
+            int razlika = broj1 - broj2;
+            double kolicnik = (broj1 +0.0)/ broj2;
+            Console.WriteLine("zbir brojeva je: {0}, a razlika je {1}, a kolicnik je {2}",zbir, razlika, kolicnik);
+
+
+            Console.WriteLine("Unesite prvi broj");
+            int broj1 = int.Parse(Console.ReadLine());
+            Console.WriteLine("Unesite drugi broj");
+            int broj2 = int.Parse(Console.ReadLine());
+            int zbir = broj1 + broj2;
+            int razlika = broj1 - broj2;
+            float kolicnik = (float)broj1  / broj2;
+            Console.WriteLine("zbir brojeva je: {0}, a razlika je {1}, a kolicnik je {2}", zbir, razlika, kolicnik);
+
+// izracunati kolicnik 2 broja(nije dozvoljeno deljenje nulom)
+
+            Console.WriteLine("Unesite prvi broj");
+            int broj1 = int.Parse(Console.ReadLine());
+            Console.WriteLine("Unesite drugi broj");
+            int broj2 = int.Parse(Console.ReadLine());
+            if (broj2!=0)
+            {
+                double kolicnik = (double)broj1 / broj2;
+                Console.WriteLine("kolicnik brojeva je: {0}", kolicnik);
+            }
+            else
+            {
+                Console.WriteLine("Nije moguce deliti nulom");
+            }
+      
+// ispitati da li je uneti broj paran 
+      
+            Console.WriteLine("Unesite prvi broj");
+            int broj1 = int.Parse(Console.ReadLine());
+           
+            if (broj1%2 == 0)
+            {
+            
+                Console.WriteLine("broj je paran");
+            }
+            else
+            {
+                Console.WriteLine("Broj je neparan");
+            }
+            
+            

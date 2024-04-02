@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\ITOIP Relja\\2nedelja\\Min max u listi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C91A9AEC-F5DA-4473-A250-70FA035C1095}|Min max u listi\\Min max u listi.csproj|k:\\itoip relja\\2nedelja\\min max u listi\\min max u listi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C91A9AEC-F5DA-4473-A250-70FA035C1095}|Min max u listi\\Min max u listi.csproj|solutionrelative:min max u listi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "K:\\ITOIP Relja\\2nedelja\\Min max u listi\\Min max u listi\\Program.cs",
+              "RelativeDocumentMoniker": "Min max u listi\\Program.cs",
+              "ToolTip": "K:\\ITOIP Relja\\2nedelja\\Min max u listi\\Min max u listi\\Program.cs",
+              "RelativeToolTip": "Min max u listi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T23:31:23.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

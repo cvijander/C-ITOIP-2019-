@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Recenica u listi/1.0.0": {
+        "runtime": {
+          "Recenica u listi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Recenica u listi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

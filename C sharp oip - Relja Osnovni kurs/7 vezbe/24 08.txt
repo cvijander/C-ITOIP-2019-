@@ -1,0 +1,553 @@
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-1
+//Rešenje domaćeg zadatka
+//(kreiranje tablice množenja)
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("N = ");
+            int N = int.Parse(Console.ReadLine());
+            int[,] M = new int[N + 1, N + 1];
+            //Kreiranje tablice množenja do N
+            for (int i = 0; i <= N; i++)
+            {
+                for (int j = 0; j <= N; j++)
+                {
+                    if (i == 0) M[i, j] = j;
+                    else if (j == 0) M[i, j] = i;
+                    else M[i, j] = i * j;
+                }
+            }
+            //ispis tablice množenja
+            for (int i = 0; i <= N; i++)
+            {
+                for (int j = 0; j <= N; j++)
+                {
+                    Console.Write(M[i, j] + "\t");
+                }
+                Console.WriteLine();
+            }
+        }        
+    }
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-2
+//Program kroz koji za dve matrice NxN
+//ispisuje elemente prve matrice 
+//koji nisu jednaki na istoj poziciji sa drugom matricom.
+//Matrice se popunjavaju pseudoslučajno, ciframa
+//Npr:
+//
+//2 7 3
+//1 1 1
+//4 4 4
+//
+//3 3 3
+//2 1 2
+//7 7 4
+//
+//2 7  
+//1   1
+//4 4  
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("N = ");
+            int N = int.Parse(Console.ReadLine());
+            Random R = new Random();
+            int[,] M1 = new int[N, N];
+            int[,] M2 = new int[N, N];
+            //popunjavanje obe matrice 'odjednom'
+            for (int i = 0; i < N; i++)
+            {
+                for (int j = 0; j < N; j++)
+                {
+                    M1[i, j] = R.Next(0, 10);
+                    M2[i, j] = R.Next(0, 10);
+                }
+            }
+            //iscrtavanje prve i druge matrice
+            Crtaj(M1,N);
+            Crtaj(M2,N);
+            //iscrtavanje razlike ove dve matrice
+            for (int i = 0; i < N; i++)
+            {
+                for (int j = 0; j < N; j++)
+                {
+                    if(M1[i,j] != M2[i,j])
+                        Console.Write(M1[i, j] + " ");
+                    else
+                        Console.Write("  ");//dva razmaka
+                }
+                Console.WriteLine();
+            }
+        }
+
+        private static void Crtaj(int[,] M, int N)
+        {
+            for (int i = 0; i < N; i++)
+            {
+                for (int j = 0; j < N; j++)
+                {
+                    Console.Write(M[i, j] + " ");
+                }
+                Console.WriteLine();
+            }
+            Console.WriteLine();
+        }
+    }
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-3
+//Program iz prethodnog zadatka napisati tako da
+//sve tri matrice iscrtava u istoj liniji 
+//Npr:
+//
+//2 7 3     3 3 3       2 7  
+//1 1 1     2 1 2       1   1
+//4 4 4     7 7 4       4 4 
+
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("N = ");
+            int N = int.Parse(Console.ReadLine());
+            Random R = new Random();
+            int[,] M1 = new int[N, N];
+            int[,] M2 = new int[N, N];
+            //popunjavanje obe matrice 'odjednom'
+            for (int i = 0; i < N; i++)
+            {
+                for (int j = 0; j < N; j++)
+                {
+                    M1[i, j] = R.Next(0, 10);
+                    M2[i, j] = R.Next(0, 10);
+                }
+            }
+            //iscrtavanje prve, druge i trece matrice
+            for (int i = 0; i < N; i++)
+            {
+                for (int j = 0; j < N; j++)//prva matrica (M1)
+                {
+                    Console.Write(M1[i, j] + " ");
+                }
+                Console.Write("   ");//tri karaktera razmaka
+                for (int j = 0; j < N; j++)//druga matrica (M2)
+                {
+                    Console.Write(M2[i, j] + " ");
+                }
+                Console.Write("   ");//tri karaktera razmaka
+                for (int j = 0; j < N; j++)//treca matrica (matrica razlike)
+                {
+                    if(M1[i,j] != M2[i,j])
+                        Console.Write(M1[i, j] + " ");
+                    else
+                        Console.Write("  ");//dva razmaka
+                }
+                Console.WriteLine();
+            }
+        }
+        
+    }
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-4
+//Kroz program se popunjava kocka 3x3x3
+//sa pseudoslucajnim ciframa
+//Program ispisuje sve matrice 3x3 koje se mogu
+//pronaci u ovoj kocki.
+//Prikazace se 9 matrica:
+//3 paralelne sa osnovom(gledano odozdo na gore)
+//+ 3 gledano sa leva na desno
+//+ 3 gledano od nazad ka napred
+
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Random R = new Random();
+            int[,,] K = new int[3, 3, 3];
+            for (int i = 0; i < 3; i++)//redovi
+            {
+                for (int j = 0; j < 3; j++)//kolone
+                {
+                    for (int p = 0; p < 3; p++)//visina
+                    {
+                        K[i, j, p] = R.Next(0, 10);
+                    }
+                }
+            }
+            //Matrice paralelne sa osnovom(p=0, p=1, p=2)
+            for (int i = 0; i < 3; i++)
+            {
+                for (int j = 0; j < 3; j++)//donja matrica
+                {
+                    Console.Write(K[i, j, 0]);
+                }
+                Console.Write("   ");//tri karaktera razmaka
+                for (int j = 0; j < 3; j++)//srednja matrica
+                {
+                    Console.Write(K[i, j, 1]);
+                }
+                Console.Write("   ");//tri karaktera razmaka
+                for (int j = 0; j < 3; j++)//gornja matrica
+                {
+                    Console.Write(K[i, j, 2]);
+                }
+                Console.WriteLine();
+            }
+            Console.WriteLine();
+            //Matrice sa leva na desno(j=0, j=1, j=2)
+            for (int i = 0; i < 3; i++)
+            {
+                for (int p = 0; p < 3; p++)//leva matrica
+                {
+                    Console.Write(K[i, 0, p]);
+                }
+                Console.Write("   ");//tri karaktera razmaka
+                for (int p = 0; p < 3; p++)//srednja matrica
+                {
+                    Console.Write(K[i, 1, p]);
+                }
+                Console.Write("   ");//tri karaktera razmaka
+                for (int p = 0; p < 3; p++)//desna matrica
+                {
+                    Console.Write(K[i, 2, p]);
+                }
+                Console.WriteLine();
+            }
+            Console.WriteLine();
+            //Matrice od zadnje do prednje(i=0, i=1, i=2)
+            for (int p = 0; p < 3; p++)
+            {
+                for (int j = 0; j < 3; j++)//donja matrica
+                {
+                    Console.Write(K[0, j, p]);
+                }
+                Console.Write("   ");//tri karaktera razmaka
+                for (int j = 0; j < 3; j++)//srednja matrica
+                {
+                    Console.Write(K[1, j, p]);
+                }
+                Console.Write("   ");//tri karaktera razmaka
+                for (int j = 0; j < 3; j++)//gornja matrica
+                {
+                    Console.Write(K[2, j, p]);
+                }
+                Console.WriteLine();
+            }
+            Console.WriteLine();
+        }
+    }
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-5
+//Dete sakuplja album sa 225 slicica.
+//Album je oblika postera, sa 15x15 mesta za sličice.
+//Napraviti simulaciju sakupljanja, ako su svi brojevi
+//sličica jedanko verovatni.
+//Nepopunjena mesta prikazati kao ' ', popunjena sa 'X'.
+//Simulacija se prekida kada se album popuni, ispisuje
+//se broj kesica i sličica (5 sličica čini kesicu).
+
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            char[,] A = new char[15, 15];
+            Random R = new Random();
+            for (int i = 0; i < 15; i++)//Postavljamo da je album u početku prazan
+            {
+                for (int j = 0; j < 15; j++)
+                {
+                    A[i, j] = ' ';
+                }
+            }
+            int brKesica = 0;
+            while (!Popunjen(A))
+            {
+                Console.Clear();
+                int[] sl = new int[5];//pet sličica u albumu
+                for (int i = 0; i < 5; i++)
+                {
+                    sl[i] = R.Next(0, 225) + 1;//redni broj sličice
+                }
+                //za svaku sličicu proveravamo koji je red i koja kolona
+                //i 'LEPIMO' sličicu na poster
+                for (int i = 0; i < 5; i++)
+                {
+                    int red = (sl[i] - 1) / 15;
+                    int kolona = (sl[i] - 1) % 15;
+                    A[red, kolona] = 'X';//na ovaj način 'LEPIMO' sličicu
+                }
+                //nakon svake kesice prikazujemo kako nam izgleda poster
+                for (int i = 0; i < 15; i++)
+                {
+                    for (int j = 0; j < 15; j++)
+                    { 
+                        Console.Write(A[i,j]+" ");
+                    }
+                    Console.WriteLine();
+                }
+                brKesica++;
+            }
+            Console.WriteLine("Bilo je potrebno "+brKesica+ " kesica.");
+            Console.WriteLine("Broj sličica: "+(brKesica*5)+".");
+        }
+
+        private static bool Popunjen(char[,] A)
+        {
+            bool pop = true;
+            for (int i = 0; i < 15; i++)//Provera da li nedostaje neka sličica
+            {
+                for (int j = 0; j < 15; j++)
+                {
+                    if (A[i, j] == ' ') pop = false;
+                }
+            }
+            return pop;
+        }
+    }
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-6
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Sub_20_jul_2019
+{
+//Napisati program kroz koji se pamti raspored 99 minica
+//na tabli 16x24.
+//Korisnik bira poziciju sa table i dobija odgovor
+//koliko je mina u okruzenju tog polja, ili biva odstranjen sa meča
+//(u slučaju da pogodi minu).
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int[,] M = new int[16, 24];
+            Random R = new Random();
+            for (int i = 0; i < 16; i++)//Podešavamo polje za igru
+            {
+                for (int j = 0; j < 24; j++)
+                {
+                    M[i, j] = -1;
+                }
+            }
+            for (int k = 0; k < 99; k++)//Na polju za igru dodajemo minice
+            {
+                int i = R.Next(0, 16);
+                int j = R.Next(0, 24);
+                while(M[i, j]==9)
+                {
+                    i = R.Next(0, 16);
+                    j = R.Next(0, 24);
+                }
+                M[i, j] = 9;
+            }
+            bool zivot = true;
+            int korak = 0;
+            while(zivot && korak<285)//ima 285 polja koja nisu minice
+            {
+                Console.Clear();
+
+                for (int i = 0; i < 16; i++)
+                {
+                    for (int j = 0; j < 24; j++)
+                    {
+                        if(M[i,j]>=0 && M[i,j]<9)
+                        {
+                            Console.Write(M[i,j]+" ");//otkriveno polje
+                        }
+                        else if(M[i, j] == -9)
+                        {
+                            Console.Write("* ");//pogodjena mina
+                        }
+                        else
+                        {
+                            Console.Write("@ ");//neotkriveno polje
+                        }
+                    }
+                    Console.WriteLine();
+                }
+                Console.Write("i = ");
+                int ki = int.Parse(Console.ReadLine());
+                Console.Write("j = ");
+                int kj = int.Parse(Console.ReadLine());
+                if(M[ki,kj]==9)
+                {
+                    zivot = false;
+                    M[ki, kj] = -9;
+                }
+                else
+                {
+                    int bm = 0;
+                    if (ki > 0 &&  M[ki - 1, kj] == 9) bm++;//provera gore
+                    if (ki > 0 && kj > 0 && M[ki - 1, kj - 1] == 9) bm++;//gore levo
+                    if (ki > 0 && kj < 23 && M[ki - 1, kj + 1] == 9) bm++;//gore desno
+                    if (kj > 0 && M[ki, kj - 1] == 9) bm++;//provera levo
+                    if (kj < 23 && M[ki, kj + 1] == 9) bm++;//provera desno
+                    if (ki < 15 && M[ki + 1, kj] == 9) bm++;//provera dole
+                    if (ki < 15 && kj > 0 && M[ki + 1, kj - 1] == 9) bm++;//dole levo
+                    if (ki < 15 && kj < 23 && M[ki + 1, kj + 1] == 9) bm++;//dole desno
+                    if (M[ki, kj] != bm) korak++;//broje se samo koraci koji otkrivaju nova polja
+                    M[ki, kj] = bm;                    
+                }
+            }
+
+            if (!zivot)
+            {
+                Console.Clear();
+                
+                //jos jednom se ispisuje matrica
+                for (int i = 0; i < 16; i++)
+                {
+                    for (int j = 0; j < 24; j++)
+                    {
+                        if (M[i, j] >= 0 && M[i, j] < 9)
+                        {
+                            Console.Write(M[i, j] + " ");//otkriveno polje
+                        }
+                        else if (M[i, j] == -9)
+                        {
+                            Console.Write("* ");//pogodjena mina
+                        }
+                        else
+                        {
+                            Console.Write("@ ");//neotkriveno polje
+                        }
+                    }
+                    Console.WriteLine();
+                }
+                //poruka da je partija izgubljena
+                Console.WriteLine("Izgubili ste !!!");
+            }
+            else
+            {
+                Console.WriteLine("Bravo, pobedili ste !!!");
+            }
+
+        }
+        
+    }
+
+}
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-7
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Sub_20_jul_2019
+{
+//Na pseudoslučajan način se dobija matrica 10x10 i crta na ekran.
+//Vrednosti matrice su trocifreni brojevi.
+//Korisnik bira da li će da izdvoji minimum ili maksimum. 
+//Odabrana vrednost se izdvaja na sledeći način:
+//
+//2 3 4 5
+//1 9 3 3
+//2 8 4 8
+//3 7 1 1
+//Biraj Min/Max: Max
+//
+//  3  
+//1 9 3 3
+//  8  
+//  7  
+//(prikažu se red i kolona gde se nalazi tražena vrednost)
+//Smatrati da je tražena vrednost jedinstvena.
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int[,] M = new int[10, 10];
+            Random R = new Random();
+            int min = 1000;
+            int max = 99;
+            int izabrano = min;
+            for (int i = 0; i < 10; i++)
+            {
+                for (int j = 0; j < 10; j++)
+                {
+                    M[i, j] = R.Next(100,1000);
+                    if (M[i, j] > max) max = M[i, j];
+                    else if (M[i, j] < min) min = M[i, j];
+                }
+            }
+            //iscrtavanje matrice
+            for (int i = 0; i < 10; i++)
+            {
+                for (int j = 0; j < 10; j++)
+                {
+                    Console.Write(M[i,j]+" ");
+                }
+                Console.WriteLine();
+            }
+            Console.Write("Biraj Min/Max:");
+            string odg = Console.ReadLine();
+            if (odg.ToUpper() == "MIN")
+            {
+                izabrano = min;
+            }
+            else if (odg.ToUpper() == "MAX")
+            {
+                izabrano = max;
+            }
+            int oi = 0;
+            int oj = 0;
+            //treba da pronadjemo odabrani element (da zapamtimo poziciju)
+            for (int i = 0; i < 10; i++)
+            {
+                for (int j = 0; j < 10; j++)
+                {
+                    if(M[i,j]==izabrano)
+                    {
+                        oi = i;
+                        oj = j;
+                    }
+                }
+            }
+            //iscrtavanje traženog rešenja
+            for (int i = 0; i < 10; i++)
+            {
+                for (int j = 0; j < 10; j++)
+                {
+                    if (i == oi || j == oj)
+                    {
+                        Console.Write(M[i, j] + " ");
+                    }
+                    else
+                    {
+                        Console.Write("    ");//4 razmaka (tri zbog zamene za trocifreni broj + jedan što bi stajao inače)
+                    }
+                }
+                Console.WriteLine();
+            }
+        }
+
+    }
+
+}
+

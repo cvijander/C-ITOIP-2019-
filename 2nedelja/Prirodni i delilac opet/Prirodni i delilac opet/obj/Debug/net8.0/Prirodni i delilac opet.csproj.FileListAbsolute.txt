@@ -1,0 +1,15 @@
+K:\ITOIP Relja\2nedelja\Prirodni i delilac opet\Prirodni i delilac opet\bin\Debug\net8.0\Prirodni i delilac opet.exe
+K:\ITOIP Relja\2nedelja\Prirodni i delilac opet\Prirodni i delilac opet\bin\Debug\net8.0\Prirodni i delilac opet.deps.json
+K:\ITOIP Relja\2nedelja\Prirodni i delilac opet\Prirodni i delilac opet\bin\Debug\net8.0\Prirodni i delilac opet.runtimeconfig.json
+K:\ITOIP Relja\2nedelja\Prirodni i delilac opet\Prirodni i delilac opet\bin\Debug\net8.0\Prirodni i delilac opet.dll
+K:\ITOIP Relja\2nedelja\Prirodni i delilac opet\Prirodni i delilac opet\bin\Debug\net8.0\Prirodni i delilac opet.pdb
+K:\ITOIP Relja\2nedelja\Prirodni i delilac opet\Prirodni i delilac opet\obj\Debug\net8.0\Prirodni i delilac opet.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\2nedelja\Prirodni i delilac opet\Prirodni i delilac opet\obj\Debug\net8.0\Prirodni i delilac opet.AssemblyInfoInputs.cache
+K:\ITOIP Relja\2nedelja\Prirodni i delilac opet\Prirodni i delilac opet\obj\Debug\net8.0\Prirodni i delilac opet.AssemblyInfo.cs
+K:\ITOIP Relja\2nedelja\Prirodni i delilac opet\Prirodni i delilac opet\obj\Debug\net8.0\Prirodni i delilac opet.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\2nedelja\Prirodni i delilac opet\Prirodni i delilac opet\obj\Debug\net8.0\Prirodni i delilac opet.sourcelink.json
+K:\ITOIP Relja\2nedelja\Prirodni i delilac opet\Prirodni i delilac opet\obj\Debug\net8.0\Prirodni i delilac opet.dll
+K:\ITOIP Relja\2nedelja\Prirodni i delilac opet\Prirodni i delilac opet\obj\Debug\net8.0\refint\Prirodni i delilac opet.dll
+K:\ITOIP Relja\2nedelja\Prirodni i delilac opet\Prirodni i delilac opet\obj\Debug\net8.0\Prirodni i delilac opet.pdb
+K:\ITOIP Relja\2nedelja\Prirodni i delilac opet\Prirodni i delilac opet\obj\Debug\net8.0\Prirodni i delilac opet.genruntimeconfig.cache
+K:\ITOIP Relja\2nedelja\Prirodni i delilac opet\Prirodni i delilac opet\obj\Debug\net8.0\ref\Prirodni i delilac opet.dll

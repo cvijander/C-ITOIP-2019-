@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recenica reci", "Recenica reci\Recenica reci.csproj", "{6A74AEFF-F987-4CC3-AD6D-D6F301AF4E8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A74AEFF-F987-4CC3-AD6D-D6F301AF4E8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A74AEFF-F987-4CC3-AD6D-D6F301AF4E8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A74AEFF-F987-4CC3-AD6D-D6F301AF4E8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A74AEFF-F987-4CC3-AD6D-D6F301AF4E8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4667312A-94D3-4DAE-8E5A-4CD9A4951D8F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+K:\ITOIP Relja\2nedelja\Sortirati clanove niza\Sortirati clanove niza\bin\Debug\net8.0\Sortirati clanove niza.exe
+K:\ITOIP Relja\2nedelja\Sortirati clanove niza\Sortirati clanove niza\bin\Debug\net8.0\Sortirati clanove niza.deps.json
+K:\ITOIP Relja\2nedelja\Sortirati clanove niza\Sortirati clanove niza\bin\Debug\net8.0\Sortirati clanove niza.runtimeconfig.json
+K:\ITOIP Relja\2nedelja\Sortirati clanove niza\Sortirati clanove niza\bin\Debug\net8.0\Sortirati clanove niza.dll
+K:\ITOIP Relja\2nedelja\Sortirati clanove niza\Sortirati clanove niza\bin\Debug\net8.0\Sortirati clanove niza.pdb
+K:\ITOIP Relja\2nedelja\Sortirati clanove niza\Sortirati clanove niza\obj\Debug\net8.0\Sortirati clanove niza.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\2nedelja\Sortirati clanove niza\Sortirati clanove niza\obj\Debug\net8.0\Sortirati clanove niza.AssemblyInfoInputs.cache
+K:\ITOIP Relja\2nedelja\Sortirati clanove niza\Sortirati clanove niza\obj\Debug\net8.0\Sortirati clanove niza.AssemblyInfo.cs
+K:\ITOIP Relja\2nedelja\Sortirati clanove niza\Sortirati clanove niza\obj\Debug\net8.0\Sortirati clanove niza.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\2nedelja\Sortirati clanove niza\Sortirati clanove niza\obj\Debug\net8.0\Sortirati clanove niza.sourcelink.json
+K:\ITOIP Relja\2nedelja\Sortirati clanove niza\Sortirati clanove niza\obj\Debug\net8.0\Sortirati clanove niza.dll
+K:\ITOIP Relja\2nedelja\Sortirati clanove niza\Sortirati clanove niza\obj\Debug\net8.0\refint\Sortirati clanove niza.dll
+K:\ITOIP Relja\2nedelja\Sortirati clanove niza\Sortirati clanove niza\obj\Debug\net8.0\Sortirati clanove niza.pdb
+K:\ITOIP Relja\2nedelja\Sortirati clanove niza\Sortirati clanove niza\obj\Debug\net8.0\Sortirati clanove niza.genruntimeconfig.cache
+K:\ITOIP Relja\2nedelja\Sortirati clanove niza\Sortirati clanove niza\obj\Debug\net8.0\ref\Sortirati clanove niza.dll

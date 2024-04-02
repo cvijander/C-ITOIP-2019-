@@ -1,0 +1,15 @@
+K:\ITOIP Relja\2nedelja\Recenica i slucajno slovo\Recenica i slucajno slovo\bin\Debug\net8.0\Recenica i slucajno slovo.exe
+K:\ITOIP Relja\2nedelja\Recenica i slucajno slovo\Recenica i slucajno slovo\bin\Debug\net8.0\Recenica i slucajno slovo.deps.json
+K:\ITOIP Relja\2nedelja\Recenica i slucajno slovo\Recenica i slucajno slovo\bin\Debug\net8.0\Recenica i slucajno slovo.runtimeconfig.json
+K:\ITOIP Relja\2nedelja\Recenica i slucajno slovo\Recenica i slucajno slovo\bin\Debug\net8.0\Recenica i slucajno slovo.dll
+K:\ITOIP Relja\2nedelja\Recenica i slucajno slovo\Recenica i slucajno slovo\bin\Debug\net8.0\Recenica i slucajno slovo.pdb
+K:\ITOIP Relja\2nedelja\Recenica i slucajno slovo\Recenica i slucajno slovo\obj\Debug\net8.0\Recenica i slucajno slovo.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\2nedelja\Recenica i slucajno slovo\Recenica i slucajno slovo\obj\Debug\net8.0\Recenica i slucajno slovo.AssemblyInfoInputs.cache
+K:\ITOIP Relja\2nedelja\Recenica i slucajno slovo\Recenica i slucajno slovo\obj\Debug\net8.0\Recenica i slucajno slovo.AssemblyInfo.cs
+K:\ITOIP Relja\2nedelja\Recenica i slucajno slovo\Recenica i slucajno slovo\obj\Debug\net8.0\Recenica i slucajno slovo.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\2nedelja\Recenica i slucajno slovo\Recenica i slucajno slovo\obj\Debug\net8.0\Recenica i slucajno slovo.sourcelink.json
+K:\ITOIP Relja\2nedelja\Recenica i slucajno slovo\Recenica i slucajno slovo\obj\Debug\net8.0\Recenica i slucajno slovo.dll
+K:\ITOIP Relja\2nedelja\Recenica i slucajno slovo\Recenica i slucajno slovo\obj\Debug\net8.0\refint\Recenica i slucajno slovo.dll
+K:\ITOIP Relja\2nedelja\Recenica i slucajno slovo\Recenica i slucajno slovo\obj\Debug\net8.0\Recenica i slucajno slovo.pdb
+K:\ITOIP Relja\2nedelja\Recenica i slucajno slovo\Recenica i slucajno slovo\obj\Debug\net8.0\Recenica i slucajno slovo.genruntimeconfig.cache
+K:\ITOIP Relja\2nedelja\Recenica i slucajno slovo\Recenica i slucajno slovo\obj\Debug\net8.0\ref\Recenica i slucajno slovo.dll

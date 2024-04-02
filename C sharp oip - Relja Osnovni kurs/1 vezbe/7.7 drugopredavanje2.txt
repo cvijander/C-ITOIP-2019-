@@ -1,0 +1,205 @@
+           
+   /*  bool a, b;
+             a = 3 > 5;
+             b = 5 > 3;
+             Console.WriteLine("Logicko I : 3>5 && 5>3 - {0}", a && b);
+             Console.WriteLine("Logicko ILI : 3>5 || 5>3 - {0}", a || b);
+             Console.WriteLine("Negacija : !(3>5) - {0}", !a);
+             Console.ReadLine();*/
+
+FOR petlja -suma prvih n prirodnih brojeva(do n)
+
+            Console.ReadLine();*/
+            Console.WriteLine("Ucitaj n");
+            int n = int.Parse(Console.ReadLine());
+            int suma = 0;
+            
+            for (int i = 0; i<=n; i++)
+            {
+                suma += i;
+            }
+            Console.WriteLine(suma);
+
+
+
+pogadjanje tajnog broja 4 puta 
+
+  /*           int tajniBroj,broj;
+               Console.WriteLine("Unesite tajniBroj");
+               tajniBroj = int.Parse(Console.ReadLine());
+               for (int i = 0; i < 4; i++)
+               {
+                   Console.WriteLine("Pogodite broj");
+                   broj = int.Parse(Console.ReadLine());
+                   if (broj == tajniBroj) Console.WriteLine("Pogodili ste broj");
+                   else if (broj > tajniBroj) Console.WriteLine("Uneli ste veci broj");
+                   else Console.WriteLine("Uneli ste manji broj");
+
+
+               }
+
+               Console.WriteLine("Kraj igre");
+               Console.ReadLine();*/
+
+WHILE petlja (isti kao sa for-suma prvih n prirodnih brojeva)
+
+Console.WriteLine("Ucitaj n");
+int n = int.Parse(Console.ReadLine());
+int suma = 0;
+int i = 1;
+while (i <= n)
+{
+suma += i;
+i++;
+}
+Console.WriteLine("Rezultat je: {0}",suma);
+Console.ReadLine();
+
+//DO WHILE petlja
+
+int ponovo = 0;
+do
+ {
+ Console.WriteLine("Unesite prvi broj");
+int prvi = int.Parse(Console.ReadLine());
+ Console.WriteLine("Unesite drugi broj");
+int drugi = int.Parse(Console.ReadLine());
+ Console.WriteLine("{0} + {1} = {2}", prvi, drugi,
+ prvi + drugi);
+ Console.WriteLine("Da li zelite novo racunanje 1-DA, 0-NE");
+ ponovo = int.Parse(Console.ReadLine());
+ } while (ponovo == 1);
+
+
+
+// pogadjanje tajnog broja dok ne pogodi tacan broj 
+
+
+            int tajniBroj, broj;
+            Console.WriteLine("Unesite tajniBroj");
+            tajniBroj = int.Parse(Console.ReadLine());
+            broj = 0;
+            do
+            {
+                Console.WriteLine("Pogodite broj");
+                broj = int.Parse(Console.ReadLine());
+                if (broj == tajniBroj) Console.WriteLine("Pogodili ste broj");
+                else if (broj > tajniBroj) Console.WriteLine("Uneli ste veci broj");
+                else Console.WriteLine("Uneli ste manji broj");
+
+
+            } while (broj != tajniBroj);
+
+                Console.WriteLine("Kraj igre");
+                Console.ReadLine(); 
+
+
+
+
+//simulacija e-shop
+
+            char velicina;
+            int iznos=0;
+
+            Console.WriteLine("Dodaj u korpu:");
+
+
+            string izaberi = Console.ReadLine();
+            switch (izaberi)
+            {
+                case "majica":
+                    iznos += 2500;
+                    break;
+                case "sorc":
+                    iznos += 3000;
+                    break;
+                case "patike":
+                    iznos += 6000;
+                    break;
+                case "torba":
+                    iznos += 4000;
+                    break;
+                default:
+                    Console.WriteLine("Morate odabrati jednu od opcija majica, sorc, patike ili torba");
+                    break;
+
+            }
+
+            Console.WriteLine("Izaberite jednu od ponudjenih velicina");
+            velicina = Char.Parse(Console.ReadLine());
+            switch (velicina)
+            {
+                case 'L':
+                    Console.WriteLine("Odabrali ste artikal u L velicini");
+                    break;
+                case 'M':
+                    Console.WriteLine("Odabrali ste artikal u M velicini");
+                    break;
+                case 'S':
+                    Console.WriteLine("Odabrali ste artikal u S velicini");
+                    break;
+
+                default:
+                    Console.WriteLine("Morate odabrati jednu od ponudjenih velicina");
+                    break;
+
+            }
+
+            if (iznos > 0)
+            {
+                Console.WriteLine("Vaš raèun je {0}", iznos);
+
+            }
+
+            Console.ReadLine();
+
+//Dopuniti zadatak koristeci tako da se korisnik pita da li zeli da doda novi artikal u korpu ...
+//Ako da onda on bira jednu od ponudjenih  opcija 
+
+//ispisati sve brojeve od 1 do 100
+//delive sa 6 koji nisu deljivi sa 5
+
+            for (int i = 1; i <= 100; i++)
+            {
+                if (i % 6 == 0 && i % 5 != 0)
+                {
+                    Console.WriteLine(i);
+                }
+            }
+            //drugo resenje
+            Console.WriteLine();
+            for (int i = 6; i <= 100; i += 6) //i=i+6
+            {
+                if (i % 5 != 0)
+                {
+                    Console.WriteLine(i);
+                }
+            }
+
+           
+
+ //za uneto ime program ispisuje sva slova kao VELIKA
+ //sa crticama, npr V-E-L-I-K-A
+
+            Console.Write("Unesi ime: ");
+            string ime;
+            ime = Console.ReadLine();
+            for (int i = 0; i < ime.Length; i++)
+            {
+                char x;
+                x = Char.ToUpper(ime[i]);//ToUpper('a')='A'
+                                         //ToUpper('T')='T'
+                                         //ToUpper('7')='7'
+                                         //ToUpper('#')='#'
+                if(i != ime.Length-1) Console.Write(x + "-");
+                else Console.WriteLine(x);
+            }
+
+
+////Planinar krece sa nadmorske N, i svaki dan se popne 250 metara.
+//Svakog drugog dana duva jak vetar. Tada uspe da se popne 150 metara.
+//Napisati program koji racuna visinu pl. vrha, ako se zna da se 
+//planinar popeo na vrh nakon 4 dana, i ako se zna da je prvog dana
+//bilo lepo vreme.
+         
+         

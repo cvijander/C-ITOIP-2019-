@@ -1,0 +1,15 @@
+K:\ITOIP Relja\2nedelja\jmbg\jmbg\bin\Debug\net8.0\jmbg.exe
+K:\ITOIP Relja\2nedelja\jmbg\jmbg\bin\Debug\net8.0\jmbg.deps.json
+K:\ITOIP Relja\2nedelja\jmbg\jmbg\bin\Debug\net8.0\jmbg.runtimeconfig.json
+K:\ITOIP Relja\2nedelja\jmbg\jmbg\bin\Debug\net8.0\jmbg.dll
+K:\ITOIP Relja\2nedelja\jmbg\jmbg\bin\Debug\net8.0\jmbg.pdb
+K:\ITOIP Relja\2nedelja\jmbg\jmbg\obj\Debug\net8.0\jmbg.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\2nedelja\jmbg\jmbg\obj\Debug\net8.0\jmbg.AssemblyInfoInputs.cache
+K:\ITOIP Relja\2nedelja\jmbg\jmbg\obj\Debug\net8.0\jmbg.AssemblyInfo.cs
+K:\ITOIP Relja\2nedelja\jmbg\jmbg\obj\Debug\net8.0\jmbg.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\2nedelja\jmbg\jmbg\obj\Debug\net8.0\jmbg.sourcelink.json
+K:\ITOIP Relja\2nedelja\jmbg\jmbg\obj\Debug\net8.0\jmbg.dll
+K:\ITOIP Relja\2nedelja\jmbg\jmbg\obj\Debug\net8.0\refint\jmbg.dll
+K:\ITOIP Relja\2nedelja\jmbg\jmbg\obj\Debug\net8.0\jmbg.pdb
+K:\ITOIP Relja\2nedelja\jmbg\jmbg\obj\Debug\net8.0\jmbg.genruntimeconfig.cache
+K:\ITOIP Relja\2nedelja\jmbg\jmbg\obj\Debug\net8.0\ref\jmbg.dll

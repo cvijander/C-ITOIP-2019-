@@ -1,0 +1,15 @@
+K:\ITOIP Relja\2nedelja\min max od pozitivnih brojeva\min max od pozitivnih brojeva\bin\Debug\net8.0\min max od pozitivnih brojeva.exe
+K:\ITOIP Relja\2nedelja\min max od pozitivnih brojeva\min max od pozitivnih brojeva\bin\Debug\net8.0\min max od pozitivnih brojeva.deps.json
+K:\ITOIP Relja\2nedelja\min max od pozitivnih brojeva\min max od pozitivnih brojeva\bin\Debug\net8.0\min max od pozitivnih brojeva.runtimeconfig.json
+K:\ITOIP Relja\2nedelja\min max od pozitivnih brojeva\min max od pozitivnih brojeva\bin\Debug\net8.0\min max od pozitivnih brojeva.dll
+K:\ITOIP Relja\2nedelja\min max od pozitivnih brojeva\min max od pozitivnih brojeva\bin\Debug\net8.0\min max od pozitivnih brojeva.pdb
+K:\ITOIP Relja\2nedelja\min max od pozitivnih brojeva\min max od pozitivnih brojeva\obj\Debug\net8.0\min max od pozitivnih brojeva.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\2nedelja\min max od pozitivnih brojeva\min max od pozitivnih brojeva\obj\Debug\net8.0\min max od pozitivnih brojeva.AssemblyInfoInputs.cache
+K:\ITOIP Relja\2nedelja\min max od pozitivnih brojeva\min max od pozitivnih brojeva\obj\Debug\net8.0\min max od pozitivnih brojeva.AssemblyInfo.cs
+K:\ITOIP Relja\2nedelja\min max od pozitivnih brojeva\min max od pozitivnih brojeva\obj\Debug\net8.0\min max od pozitivnih brojeva.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\2nedelja\min max od pozitivnih brojeva\min max od pozitivnih brojeva\obj\Debug\net8.0\min max od pozitivnih brojeva.sourcelink.json
+K:\ITOIP Relja\2nedelja\min max od pozitivnih brojeva\min max od pozitivnih brojeva\obj\Debug\net8.0\min max od pozitivnih brojeva.dll
+K:\ITOIP Relja\2nedelja\min max od pozitivnih brojeva\min max od pozitivnih brojeva\obj\Debug\net8.0\refint\min max od pozitivnih brojeva.dll
+K:\ITOIP Relja\2nedelja\min max od pozitivnih brojeva\min max od pozitivnih brojeva\obj\Debug\net8.0\min max od pozitivnih brojeva.pdb
+K:\ITOIP Relja\2nedelja\min max od pozitivnih brojeva\min max od pozitivnih brojeva\obj\Debug\net8.0\min max od pozitivnih brojeva.genruntimeconfig.cache
+K:\ITOIP Relja\2nedelja\min max od pozitivnih brojeva\min max od pozitivnih brojeva\obj\Debug\net8.0\ref\min max od pozitivnih brojeva.dll

@@ -1,0 +1,15 @@
+K:\ITOIP Relja\2nedelja\Niz kola\Niz kola\bin\Debug\net8.0\Niz kola.exe
+K:\ITOIP Relja\2nedelja\Niz kola\Niz kola\bin\Debug\net8.0\Niz kola.deps.json
+K:\ITOIP Relja\2nedelja\Niz kola\Niz kola\bin\Debug\net8.0\Niz kola.runtimeconfig.json
+K:\ITOIP Relja\2nedelja\Niz kola\Niz kola\bin\Debug\net8.0\Niz kola.dll
+K:\ITOIP Relja\2nedelja\Niz kola\Niz kola\bin\Debug\net8.0\Niz kola.pdb
+K:\ITOIP Relja\2nedelja\Niz kola\Niz kola\obj\Debug\net8.0\Niz kola.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\2nedelja\Niz kola\Niz kola\obj\Debug\net8.0\Niz kola.AssemblyInfoInputs.cache
+K:\ITOIP Relja\2nedelja\Niz kola\Niz kola\obj\Debug\net8.0\Niz kola.AssemblyInfo.cs
+K:\ITOIP Relja\2nedelja\Niz kola\Niz kola\obj\Debug\net8.0\Niz kola.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\2nedelja\Niz kola\Niz kola\obj\Debug\net8.0\Niz kola.sourcelink.json
+K:\ITOIP Relja\2nedelja\Niz kola\Niz kola\obj\Debug\net8.0\Niz kola.dll
+K:\ITOIP Relja\2nedelja\Niz kola\Niz kola\obj\Debug\net8.0\refint\Niz kola.dll
+K:\ITOIP Relja\2nedelja\Niz kola\Niz kola\obj\Debug\net8.0\Niz kola.pdb
+K:\ITOIP Relja\2nedelja\Niz kola\Niz kola\obj\Debug\net8.0\Niz kola.genruntimeconfig.cache
+K:\ITOIP Relja\2nedelja\Niz kola\Niz kola\obj\Debug\net8.0\ref\Niz kola.dll

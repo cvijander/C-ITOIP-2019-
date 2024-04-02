@@ -1,0 +1,502 @@
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-1
+//korisnik unosi pozitivne (prirodne) brojeve 
+//sve dok se ne unese jedan negativan
+//Program ispisuje minimum i maksimum brojeva
+//Npr. 2,7,16,5,4,-32
+//Min=2, Max=16
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int b = int.Parse(Console.ReadLine());
+            int min = b;
+            int max = b;
+            while (b > 0)
+            {
+                if (b > max) max = b;
+                else if(b < min) min = b;
+                b = int.Parse(Console.ReadLine());
+            }
+            Console.WriteLine("Min="+min+", Max="+max);
+        }
+    }
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-2
+//korisnik unosi pozitivne REALNE brojeve 
+//sve dok se ne unese jedan negativan
+//Program ispisuje zbir svih pozitivnih brojeva
+//Npr. 2,7.1,16,5,4,-32
+//Zbir = 34.1
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            float b = float.Parse(Console.ReadLine());
+            float zb = 0;
+            while (b > 0)
+            {
+                zb += b;
+                b = float.Parse(Console.ReadLine());
+            }
+            Console.WriteLine("Zbir = "+zb);
+        }
+    }
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-3
+//korisnik unosi pozitivne realne brojeve 
+//sve dok se ne unese jedan negativan
+//Program ispisuje zbir svih pozitivnih brojeva,
+// koliko ih ukupno ima, kao i njihov prosek
+//Npr. 2,7.1,16,5,4,-32
+//Zbir: 34.1
+//Ukupno: 5 brojeva
+//Prosek: 6.82
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            float b = float.Parse(Console.ReadLine());
+            float zb = 0;
+            int n = 0;
+            while (b > 0)
+            {
+                zb += b;
+                n++;
+                b = float.Parse(Console.ReadLine());
+            }
+            Console.WriteLine("Zbir: " + zb);
+            Console.WriteLine("Ukupno: " + n + " brojeva");
+            Console.WriteLine("Prosek: " + zb/n);
+        }
+    }
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-4
+//korisnik unosi pozitivne realne brojeve 
+//sve dok se ne unese jedan negativan
+//Program ispisuje proizvod unetih pozitivnih brojeva.
+//Npr. 2,7.1,16,5,4,-32
+//Proizvod: 4544
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            float b = float.Parse(Console.ReadLine());
+            float pr = 1;
+            while (b > 0)
+            {
+                pr = pr * b;
+                b = float.Parse(Console.ReadLine());
+            }
+            Console.WriteLine("Proizvod: " + pr);
+        }
+    }
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-5
+//korisnik unosi (u listu L) pozitivne realne brojeve 
+//sve dok se ne unese jedan negativan
+//Program ispisuje zbir svih pozitivnih brojeva,
+// koliko ih ukupno ima, kao i njihov prosek
+//Npr. 2,7.1,16,5,4,-32
+//Zbir: 34.1
+//Ukupno: 5 brojeva
+//Prosek: 6.82
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            float b = float.Parse(Console.ReadLine());
+            List<float> L = new List<float>();
+            while (b > 0)
+            {
+                L.Add(b);
+                b = float.Parse(Console.ReadLine());
+            }
+            Console.WriteLine("Zbir: " + L.Sum());
+            Console.WriteLine("Ukupno: " + L.Count());
+            Console.WriteLine("Prosek: " + L.Average());
+        }
+    }
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-6
+//korisnik unosi prirodne brojeve u listu L,
+//sve dok se ne unese jedan negativan.
+//Program ispisuje minimum i maksimum brojeva
+//Npr. 2,7,16,5,4,-32
+//Min=2, Max=16
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int b = int.Parse(Console.ReadLine());
+            List<int> L = new List<int>();
+            while (b > 0)
+            {
+                L.Add(b);
+                b = int.Parse(Console.ReadLine());
+            }
+            Console.WriteLine("Min="+L.Min()+ ", Max=" + L.Max());
+        }
+    }
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-7
+//korisnik unosi prirodne brojeve u listu L,
+//sve dok se ne unese jedan negativan.
+//Program ispisuje proizvod brojeva
+//Npr. 2,7,16,5,4,-32
+//Proizvod = 4480
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int b = int.Parse(Console.ReadLine());
+            List<int> L = new List<int>();
+            while (b > 0)
+            {
+                L.Add(b);
+                b = int.Parse(Console.ReadLine());
+            }
+            Console.WriteLine("Proizvod = "+Proizvod(L));
+        }
+
+        private static int Proizvod(List<int> L)
+        {
+            int pr = 1;
+            foreach (int x in L)
+            {
+                pr = pr * x;
+            }
+            return pr;
+        }
+    }
+
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-8
+//Korisnik unosi recenicu, i SVI njeni karakteri se upisuju u listu L.
+//Program ispisuje recenicu u originalu, a zatim iz liste izbacuje slova E,e
+//Na kraju se prikazuju svi preostali karakteri iz liste.
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Unesi recenicu: ");
+            string recenica = Console.ReadLine();
+            Console.WriteLine(recenica);
+            List<char> L = new List<char>();
+            foreach (char c in recenica)
+            {
+                L.Add(c);
+            }
+            while (L.Contains('e'))
+            {
+                L.Remove('e');//ovde se izbacuje prvo slovo (e) na koje se naidje
+            }
+            while (L.Contains('E'))
+            {
+                L.Remove('E');//ovde se izbacuje prvo slovo (E) na koje se naidje
+            }
+            foreach (char c in L)
+            {
+                Console.Write(c);
+            }
+            Console.WriteLine();
+        }
+
+    }
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-9
+//Optimalnije rešenje za prethodni zadatak
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Unesi recenicu: ");
+            string recenica = Console.ReadLine();
+            Console.WriteLine(recenica);
+            List<char> L = new List<char>();
+            foreach (char c in recenica)
+            {
+                if (c != 'e' && c != 'E')
+                {
+                    L.Add(c);
+                }
+            }
+            foreach (char c in L)
+            {
+                Console.Write(c);
+            }
+            Console.WriteLine();
+        }
+
+    }
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-10
+//Korisnik unosi recenicu, a program na "slucajan" nacin
+//ispisuje jedan karakter iz te recenice.
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Unesi recenicu: ");
+            string r = Console.ReadLine();
+            Random R = new Random();
+            int indeks = R.Next(0,r.Length);
+            Console.WriteLine("Slucajni karakter: r["+indeks+"] = " + r[indeks]);
+        }
+
+    }
+
+
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-11
+//Korisnik unosi recenicu, a program na "slucajan" nacin bira redosled karaktera
+//i ispisuje SVE karaktere iz te recenice po tom odabranom redosledu.
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Unesi recenicu: ");
+            string r = Console.ReadLine();
+            Random R = new Random();
+            List<char> L = new List<char>();//Šešir za izvlacenje
+            foreach (char c in r)//Šešir popunjavamo sa karakterima iz recenice
+            {
+                L.Add(c);
+            }
+            while(L.Count>0)//petlja se zatvara kada se uzmu svi karakteri
+            {
+                int sluc = R.Next(0, L.Count);//slucajna pozicija
+                char c = L[sluc];//slucajni karakter
+                Console.Write(c);
+                L.RemoveAt(sluc);//brisanje iz šešira (brisanje na poziciji)
+            }
+            Console.WriteLine();
+        }
+
+    }
+
+
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-12
+//Korisnik unosi prirodni broj. Program preko liste ispisuje sve njegove delioce.
+//Npr. 
+//N = 24
+//L: 1, 2, 3, 4, 6, 8, 12, 24
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Unesi prirodan broj: ");
+            int b = int.Parse(Console.ReadLine());
+            List<int> L = new List<int>();//Ovde upisujemo delioce
+            L.Add(1);
+            for (int i = 2; i <= b/2; i++)
+            {
+                if( b % i == 0 )
+                {
+                    L.Add(i);
+                }
+            }
+            if (b > 1)
+            {
+                L.Add(b);
+            }
+            foreach (int x in L)
+            {
+                Console.Write(x + " ");
+            }
+            Console.WriteLine();
+        }
+
+    }
+
+
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-13
+//Korisnik unosi recenicu. Program izbacuje tri slucajna karaktera iz nje.
+//Npr: 
+//Danas je treca subota u mesecu.
+//Tri karaktera: a,t,m
+//Dns je rec subo u esecu.
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Unesi recenicu: ");
+            string r = Console.ReadLine();
+            List<char> L = new List<char>();
+            Random R = new Random();
+            foreach (char c in r)
+            {
+                L.Add(c);
+            }
+            Console.Write("Tri karaktera: ");
+            for (int i = 0; i < 3; i++)
+            {
+                int poz = R.Next(0, L.Count);//slucajna pozicija
+                char k =L[poz];//slucajni karakter iz liste
+                Console.Write(k + " ");
+                while(L.Contains(k))//brisemo sva pojavljivanja sl. karaktera
+                {
+                    L.Remove(k);
+                }
+            }
+            Console.WriteLine();
+            foreach (char x in L)
+            {
+                Console.Write(x);
+            }
+            Console.WriteLine();
+        }
+
+    }
+
+
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-14
+//Korisnik unosi dve recenice. 
+//Program ispisuje zajednicke karaktere.
+//Npr: 
+//Danas je subota
+//Sutra je nedelja
+//Zajednicki karakteri: a,n, ,j,e,u,t
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string r1 = Console.ReadLine();
+            string r2 = Console.ReadLine();
+            List<char> L1 = new List<char>();
+            List<char> L2 = new List<char>();
+            List<char> L3 = new List<char>();
+            foreach (char c in r1)
+            {
+                L1.Add(c);
+            }
+            foreach (char c in r2)
+            {
+                L2.Add(c);
+            }
+            Console.Write("Zajednicki karakteri: ");
+            foreach (char c in L1)
+            {
+                if(L2.Contains(c) && !L3.Contains(c))
+                {
+                    L3.Add(c);
+                }
+            }
+            foreach (char c in L3)
+            {
+                Console.Write(c + " ");
+            }
+            Console.WriteLine();
+        }
+
+    }
+
+
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-15
+//Korisnik unosi dve recenice. 
+//Program ispisuje karaktere prve recenice koji se ne nalaze u drugoj.
+//Npr: 
+//Danas je subota.
+//Sutra je nedelja.
+//Pronadeni karakteri: D,s,b,o
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string r1 = Console.ReadLine();
+            string r2 = Console.ReadLine();
+            List<char> L1 = new List<char>();
+            List<char> L2 = new List<char>();
+            List<char> L3 = new List<char>();
+            foreach (char c in r1)
+            {
+                L1.Add(c);
+            }
+            foreach (char c in r2)
+            {
+                L2.Add(c);
+            }
+            Console.Write("Pronadeni karakteri: ");
+            foreach (char c in L1)
+            {
+                if(!L2.Contains(c) && !L3.Contains(c))
+                {
+                    L3.Add(c);
+                }
+            }
+            foreach (char c in L3)
+            {
+                Console.Write(c + " ");
+            }
+            Console.WriteLine();
+        }
+
+    }

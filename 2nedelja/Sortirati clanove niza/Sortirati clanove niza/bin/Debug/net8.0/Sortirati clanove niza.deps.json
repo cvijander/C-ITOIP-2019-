@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sortirati clanove niza/1.0.0": {
+        "runtime": {
+          "Sortirati clanove niza.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sortirati clanove niza/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

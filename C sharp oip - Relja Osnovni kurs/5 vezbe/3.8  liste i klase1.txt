@@ -1,0 +1,241 @@
+ 
+2/3/1990
+Godiste 1990
+
+ class Program
+    {
+        static void Main(string[] args)
+        {
+            Gradjanin x = new Gradjanin("0302990715234", "Jelena", "Ilic");
+            DateTime dat = x.DatumRodjenja();
+            int godiste = x.Godiste();
+            Console.WriteLine(dat.ToShortDateString());
+            Console.WriteLine("Godiste: " + godiste+".");
+        }
+        
+
+    }
+
+
+    //Klasa Gradjanin
+    //Dodati metodu Godiste()
+    public class Gradjanin
+    {
+        private string jmbg;
+        private string ime;
+        private string prezime;
+
+        public Gradjanin(string v1, string v2, string v3)
+        {
+            jmbg = v1;
+            ime = v2;
+            prezime = v3;
+        }
+
+        public DateTime DatumRodjenja()
+        {
+            //int dan=int.Parse(""+jmbg[0]+jmbg[1]);
+            int dan = int.Parse(jmbg.Substring(0, 2));
+            int mesec = int.Parse(jmbg.Substring(2, 2));
+            int godina = int.Parse(jmbg.Substring(4, 3));
+            if (godina > 900)
+            {
+                godina += 1000;
+            }
+            else
+            {
+                godina += 2000;
+            }
+            DateTime odg = new DateTime(godina,mesec,dan);
+            return odg;
+        }
+
+        public int Godiste()
+        {
+            int godina = int.Parse(jmbg.Substring(4, 3));
+            if (godina > 900)
+            {
+                godina += 1000;
+            }
+            else
+            {
+                godina += 2000;
+            }
+            return godina;
+        }
+    }
+
+
+
+
+// 1.Napraviti klasu Bankomat koja simulira rad bankomata
+Klasa sadrzi polja brrac, ime, prezime i stanje...
+2.Kreirati parametrski konstruktor... Kreirati metodu PodizanjeNovca - koja vraca stanje na racunu nakon izvrsene transakcije
+3.Kreirati listu i u nju dodati bar 2 korisnika i ispisati stanja na racunu ...
+4.Ako korisnik nema dovoljno novca na racunu ispisuje se odgovarajuca poruka
+
+5.Na kraju se korisnik pita da li zeli da podigne jos novca i ispisuje se izmenjeno stanje nakon transakcije
+
+class Bankomat
+    {
+        private int brrac;
+        private string ime;
+        private string prezime;
+        private double stanje;
+        public int BrRac_Get() { return brrac; }
+        public string Ime_Get() { return ime; }
+        public string Prezime_Get() { return prezime; }
+        public double Stanje_Get() { return stanje; }
+
+        public Bankomat(int brrac, string ime, string prezime, double stanje)
+        {
+            this.brrac = brrac;
+            this.ime = ime;
+            this.prezime = prezime;
+            this.stanje = stanje;
+        }
+
+     
+
+        public double PodizanjeNovca(double iznos)
+        {
+            stanje = stanje-iznos;
+            return stanje;
+
+        }
+
+    }
+
+}
+
+
+
+
+class Program
+    {
+        static void Main(string[] args)
+        {
+            int brrac = int.Parse(Console.ReadLine());
+            string ime = Console.ReadLine();
+            string prezime = Console.ReadLine();
+            double stanje = double.Parse(Console.ReadLine());
+
+            Bankomat b = new Bankomat(brrac, ime, prezime, stanje);
+            b.PodizanjeNovca(6000);
+            Console.Write("Podaci o osobi:  {0}, {1}, {2}, a stanje je {3}" , b.BrRac_Get(), b.Ime_Get(), b.Prezime_Get(), b.Stanje_Get());
+        }
+    }
+
+
+class Program
+    {
+        static void Main(string[] args)
+        {
+
+            List<Bankomat> lista = new List<Bankomat>();
+
+            for (int i = 0; i < 3; i++)
+            {
+                Console.WriteLine("Unesite brrac ");
+                int brrac = int.Parse(Console.ReadLine());
+                Console.WriteLine("Unesite ime korisnika: ");
+                string ime = Console.ReadLine();
+                Console.WriteLine("Unesite prezime korisnika: ");
+                string prezime = Console.ReadLine();
+                Console.WriteLine("Unesite stanje na racunu ");
+                double stanje = double.Parse(Console.ReadLine());
+                Bankomat b = new Bankomat(brrac,ime, prezime, stanje);
+                b.Uplata(1500);
+                lista.Add(b);
+
+            } 
+            
+           
+            foreach (Bankomat x in lista)
+            {
+                Console.WriteLine(x.BrRac_Get()+ "\t" + x.Ime_Get() + "\t" + x.Prezime_Get() + "\t" + x.Stanje_Get());
+            }
+
+            
+        }
+    }
+}
+//////////////////////////////////////////////////////////////////
+
+
+
+class Bankomat
+    {
+        private int brrac;
+        private string ime;
+        private string prezime;
+        private double stanje;
+
+        public int BrRac_Get() { return brrac; }
+        public string Ime_Get() { return ime; }
+        public string Prezime_Get() { return prezime; }
+        public double Stanje_Get() { return stanje; }
+
+        public Bankomat(int brrac, string ime, string prezime, double stanje)
+        {
+            this.brrac = brrac;
+            this.ime = ime;
+            this.prezime = prezime;
+            this.stanje = stanje;
+        }
+
+        
+     
+        public bool PodizanjeNovca(double iznos)
+        {
+            if (stanje >= iznos)
+            {
+                stanje = stanje - iznos;
+                return true;
+            }
+            else 
+            Console.WriteLine("Nemate dovoljno novca na racunu");
+            return false;
+
+        }
+
+///////////////////////////////////////////////////////////////
+
+
+
+ static void Main(string[] args)
+        {
+            int brrac = int.Parse(Console.ReadLine());
+            string ime = Console.ReadLine();
+            string prezime = Console.ReadLine();
+            double stanje = double.Parse(Console.ReadLine());
+
+            Bankomat b = new Bankomat(brrac, ime, prezime, stanje);
+            
+            int nova_transakcija = 0;
+           
+
+            do
+            {
+
+                Console.WriteLine("Koliko zelite da podignete novaca");
+
+                double iznos = double.Parse(Console.ReadLine());
+                b.PodizanjeNovca(iznos);
+                Console.WriteLine("Podaci o osobi:  {0}, {1}, {2}, a stanje je {3}", b.BrRac_Get(), b.Ime_Get(), b.Prezime_Get(), b.Stanje_Get());
+
+
+                Console.WriteLine("Da li želite da odaberete novu transakciju 1-DA, 0-NE");
+                
+                nova_transakcija = int.Parse(Console.ReadLine());
+
+            } while (nova_transakcija == 1);
+
+           
+            Console.Write("Podaci o osobi:  {0}, {1}, {2}, a stanje je {3}" , b.BrRac_Get(), b.Ime_Get(), b.Prezime_Get(), b.Stanje_Get());
+        }
+
+
+/////////////////////////////////////////////////////////////////////////////////////////
+
+

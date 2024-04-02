@@ -1,0 +1,15 @@
+K:\ITOIP Relja\2nedelja\Recenica u vise redova\Recenica u vise redova\bin\Debug\net8.0\Recenica u vise redova.exe
+K:\ITOIP Relja\2nedelja\Recenica u vise redova\Recenica u vise redova\bin\Debug\net8.0\Recenica u vise redova.deps.json
+K:\ITOIP Relja\2nedelja\Recenica u vise redova\Recenica u vise redova\bin\Debug\net8.0\Recenica u vise redova.runtimeconfig.json
+K:\ITOIP Relja\2nedelja\Recenica u vise redova\Recenica u vise redova\bin\Debug\net8.0\Recenica u vise redova.dll
+K:\ITOIP Relja\2nedelja\Recenica u vise redova\Recenica u vise redova\bin\Debug\net8.0\Recenica u vise redova.pdb
+K:\ITOIP Relja\2nedelja\Recenica u vise redova\Recenica u vise redova\obj\Debug\net8.0\Recenica u vise redova.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\2nedelja\Recenica u vise redova\Recenica u vise redova\obj\Debug\net8.0\Recenica u vise redova.AssemblyInfoInputs.cache
+K:\ITOIP Relja\2nedelja\Recenica u vise redova\Recenica u vise redova\obj\Debug\net8.0\Recenica u vise redova.AssemblyInfo.cs
+K:\ITOIP Relja\2nedelja\Recenica u vise redova\Recenica u vise redova\obj\Debug\net8.0\Recenica u vise redova.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\2nedelja\Recenica u vise redova\Recenica u vise redova\obj\Debug\net8.0\Recenica u vise redova.sourcelink.json
+K:\ITOIP Relja\2nedelja\Recenica u vise redova\Recenica u vise redova\obj\Debug\net8.0\Recenica u vise redova.dll
+K:\ITOIP Relja\2nedelja\Recenica u vise redova\Recenica u vise redova\obj\Debug\net8.0\refint\Recenica u vise redova.dll
+K:\ITOIP Relja\2nedelja\Recenica u vise redova\Recenica u vise redova\obj\Debug\net8.0\Recenica u vise redova.pdb
+K:\ITOIP Relja\2nedelja\Recenica u vise redova\Recenica u vise redova\obj\Debug\net8.0\Recenica u vise redova.genruntimeconfig.cache
+K:\ITOIP Relja\2nedelja\Recenica u vise redova\Recenica u vise redova\obj\Debug\net8.0\ref\Recenica u vise redova.dll

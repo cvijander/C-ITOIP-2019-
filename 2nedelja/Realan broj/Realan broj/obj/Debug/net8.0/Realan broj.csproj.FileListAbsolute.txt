@@ -1,0 +1,15 @@
+K:\ITOIP Relja\2nedelja\Realan broj\Realan broj\bin\Debug\net8.0\Realan broj.exe
+K:\ITOIP Relja\2nedelja\Realan broj\Realan broj\bin\Debug\net8.0\Realan broj.deps.json
+K:\ITOIP Relja\2nedelja\Realan broj\Realan broj\bin\Debug\net8.0\Realan broj.runtimeconfig.json
+K:\ITOIP Relja\2nedelja\Realan broj\Realan broj\bin\Debug\net8.0\Realan broj.dll
+K:\ITOIP Relja\2nedelja\Realan broj\Realan broj\bin\Debug\net8.0\Realan broj.pdb
+K:\ITOIP Relja\2nedelja\Realan broj\Realan broj\obj\Debug\net8.0\Realan broj.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\2nedelja\Realan broj\Realan broj\obj\Debug\net8.0\Realan broj.AssemblyInfoInputs.cache
+K:\ITOIP Relja\2nedelja\Realan broj\Realan broj\obj\Debug\net8.0\Realan broj.AssemblyInfo.cs
+K:\ITOIP Relja\2nedelja\Realan broj\Realan broj\obj\Debug\net8.0\Realan broj.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\2nedelja\Realan broj\Realan broj\obj\Debug\net8.0\Realan broj.sourcelink.json
+K:\ITOIP Relja\2nedelja\Realan broj\Realan broj\obj\Debug\net8.0\Realan broj.dll
+K:\ITOIP Relja\2nedelja\Realan broj\Realan broj\obj\Debug\net8.0\refint\Realan broj.dll
+K:\ITOIP Relja\2nedelja\Realan broj\Realan broj\obj\Debug\net8.0\Realan broj.pdb
+K:\ITOIP Relja\2nedelja\Realan broj\Realan broj\obj\Debug\net8.0\Realan broj.genruntimeconfig.cache
+K:\ITOIP Relja\2nedelja\Realan broj\Realan broj\obj\Debug\net8.0\ref\Realan broj.dll

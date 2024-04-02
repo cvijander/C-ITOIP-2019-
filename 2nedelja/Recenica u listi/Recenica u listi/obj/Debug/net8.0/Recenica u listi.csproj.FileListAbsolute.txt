@@ -1,0 +1,15 @@
+K:\ITOIP Relja\2nedelja\Recenica u listi\Recenica u listi\bin\Debug\net8.0\Recenica u listi.exe
+K:\ITOIP Relja\2nedelja\Recenica u listi\Recenica u listi\bin\Debug\net8.0\Recenica u listi.deps.json
+K:\ITOIP Relja\2nedelja\Recenica u listi\Recenica u listi\bin\Debug\net8.0\Recenica u listi.runtimeconfig.json
+K:\ITOIP Relja\2nedelja\Recenica u listi\Recenica u listi\bin\Debug\net8.0\Recenica u listi.dll
+K:\ITOIP Relja\2nedelja\Recenica u listi\Recenica u listi\bin\Debug\net8.0\Recenica u listi.pdb
+K:\ITOIP Relja\2nedelja\Recenica u listi\Recenica u listi\obj\Debug\net8.0\Recenica u listi.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\2nedelja\Recenica u listi\Recenica u listi\obj\Debug\net8.0\Recenica u listi.AssemblyInfoInputs.cache
+K:\ITOIP Relja\2nedelja\Recenica u listi\Recenica u listi\obj\Debug\net8.0\Recenica u listi.AssemblyInfo.cs
+K:\ITOIP Relja\2nedelja\Recenica u listi\Recenica u listi\obj\Debug\net8.0\Recenica u listi.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\2nedelja\Recenica u listi\Recenica u listi\obj\Debug\net8.0\Recenica u listi.sourcelink.json
+K:\ITOIP Relja\2nedelja\Recenica u listi\Recenica u listi\obj\Debug\net8.0\Recenica u listi.dll
+K:\ITOIP Relja\2nedelja\Recenica u listi\Recenica u listi\obj\Debug\net8.0\refint\Recenica u listi.dll
+K:\ITOIP Relja\2nedelja\Recenica u listi\Recenica u listi\obj\Debug\net8.0\Recenica u listi.pdb
+K:\ITOIP Relja\2nedelja\Recenica u listi\Recenica u listi\obj\Debug\net8.0\Recenica u listi.genruntimeconfig.cache
+K:\ITOIP Relja\2nedelja\Recenica u listi\Recenica u listi\obj\Debug\net8.0\ref\Recenica u listi.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Optimalno za listu sa slovima/1.0.0": {
+        "runtime": {
+          "Optimalno za listu sa slovima.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Optimalno za listu sa slovima/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

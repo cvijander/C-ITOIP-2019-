@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\ITOIP Relja\\2nedelja\\Slucajan karakter iz recenice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2CE2CF-2D9D-4D05-8AE2-3E11EEE1AAAC}|Slucajan karakter iz recenice\\Slucajan karakter iz recenice.csproj|k:\\itoip relja\\2nedelja\\slucajan karakter iz recenice\\slucajan karakter iz recenice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C2CE2CF-2D9D-4D05-8AE2-3E11EEE1AAAC}|Slucajan karakter iz recenice\\Slucajan karakter iz recenice.csproj|solutionrelative:slucajan karakter iz recenice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "K:\\ITOIP Relja\\2nedelja\\Slucajan karakter iz recenice\\Slucajan karakter iz recenice\\Program.cs",
+              "RelativeDocumentMoniker": "Slucajan karakter iz recenice\\Program.cs",
+              "ToolTip": "K:\\ITOIP Relja\\2nedelja\\Slucajan karakter iz recenice\\Slucajan karakter iz recenice\\Program.cs",
+              "RelativeToolTip": "Slucajan karakter iz recenice\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T22:29:02.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

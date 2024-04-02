@@ -1,0 +1,15 @@
+K:\ITOIP Relja\1nedelja\planinar\planinar\bin\Debug\net8.0\planinar.exe
+K:\ITOIP Relja\1nedelja\planinar\planinar\bin\Debug\net8.0\planinar.deps.json
+K:\ITOIP Relja\1nedelja\planinar\planinar\bin\Debug\net8.0\planinar.runtimeconfig.json
+K:\ITOIP Relja\1nedelja\planinar\planinar\bin\Debug\net8.0\planinar.dll
+K:\ITOIP Relja\1nedelja\planinar\planinar\bin\Debug\net8.0\planinar.pdb
+K:\ITOIP Relja\1nedelja\planinar\planinar\obj\Debug\net8.0\planinar.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\1nedelja\planinar\planinar\obj\Debug\net8.0\planinar.AssemblyInfoInputs.cache
+K:\ITOIP Relja\1nedelja\planinar\planinar\obj\Debug\net8.0\planinar.AssemblyInfo.cs
+K:\ITOIP Relja\1nedelja\planinar\planinar\obj\Debug\net8.0\planinar.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\1nedelja\planinar\planinar\obj\Debug\net8.0\planinar.sourcelink.json
+K:\ITOIP Relja\1nedelja\planinar\planinar\obj\Debug\net8.0\planinar.dll
+K:\ITOIP Relja\1nedelja\planinar\planinar\obj\Debug\net8.0\refint\planinar.dll
+K:\ITOIP Relja\1nedelja\planinar\planinar\obj\Debug\net8.0\planinar.pdb
+K:\ITOIP Relja\1nedelja\planinar\planinar\obj\Debug\net8.0\planinar.genruntimeconfig.cache
+K:\ITOIP Relja\1nedelja\planinar\planinar\obj\Debug\net8.0\ref\planinar.dll

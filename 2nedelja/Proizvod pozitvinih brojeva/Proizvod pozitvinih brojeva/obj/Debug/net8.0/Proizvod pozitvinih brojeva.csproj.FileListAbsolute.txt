@@ -1,0 +1,15 @@
+K:\ITOIP Relja\2nedelja\Proizvod pozitvinih brojeva\Proizvod pozitvinih brojeva\bin\Debug\net8.0\Proizvod pozitvinih brojeva.exe
+K:\ITOIP Relja\2nedelja\Proizvod pozitvinih brojeva\Proizvod pozitvinih brojeva\bin\Debug\net8.0\Proizvod pozitvinih brojeva.deps.json
+K:\ITOIP Relja\2nedelja\Proizvod pozitvinih brojeva\Proizvod pozitvinih brojeva\bin\Debug\net8.0\Proizvod pozitvinih brojeva.runtimeconfig.json
+K:\ITOIP Relja\2nedelja\Proizvod pozitvinih brojeva\Proizvod pozitvinih brojeva\bin\Debug\net8.0\Proizvod pozitvinih brojeva.dll
+K:\ITOIP Relja\2nedelja\Proizvod pozitvinih brojeva\Proizvod pozitvinih brojeva\bin\Debug\net8.0\Proizvod pozitvinih brojeva.pdb
+K:\ITOIP Relja\2nedelja\Proizvod pozitvinih brojeva\Proizvod pozitvinih brojeva\obj\Debug\net8.0\Proizvod pozitvinih brojeva.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\2nedelja\Proizvod pozitvinih brojeva\Proizvod pozitvinih brojeva\obj\Debug\net8.0\Proizvod pozitvinih brojeva.AssemblyInfoInputs.cache
+K:\ITOIP Relja\2nedelja\Proizvod pozitvinih brojeva\Proizvod pozitvinih brojeva\obj\Debug\net8.0\Proizvod pozitvinih brojeva.AssemblyInfo.cs
+K:\ITOIP Relja\2nedelja\Proizvod pozitvinih brojeva\Proizvod pozitvinih brojeva\obj\Debug\net8.0\Proizvod pozitvinih brojeva.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\2nedelja\Proizvod pozitvinih brojeva\Proizvod pozitvinih brojeva\obj\Debug\net8.0\Proizvod pozitvinih brojeva.sourcelink.json
+K:\ITOIP Relja\2nedelja\Proizvod pozitvinih brojeva\Proizvod pozitvinih brojeva\obj\Debug\net8.0\Proizvod pozitvinih brojeva.dll
+K:\ITOIP Relja\2nedelja\Proizvod pozitvinih brojeva\Proizvod pozitvinih brojeva\obj\Debug\net8.0\refint\Proizvod pozitvinih brojeva.dll
+K:\ITOIP Relja\2nedelja\Proizvod pozitvinih brojeva\Proizvod pozitvinih brojeva\obj\Debug\net8.0\Proizvod pozitvinih brojeva.pdb
+K:\ITOIP Relja\2nedelja\Proizvod pozitvinih brojeva\Proizvod pozitvinih brojeva\obj\Debug\net8.0\Proizvod pozitvinih brojeva.genruntimeconfig.cache
+K:\ITOIP Relja\2nedelja\Proizvod pozitvinih brojeva\Proizvod pozitvinih brojeva\obj\Debug\net8.0\ref\Proizvod pozitvinih brojeva.dll

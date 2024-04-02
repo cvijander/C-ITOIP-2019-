@@ -1,0 +1,15 @@
+K:\ITOIP Relja\2nedelja\Recenica ne sadrzi\Recenica ne sadrzi\bin\Debug\net8.0\Recenica ne sadrzi.exe
+K:\ITOIP Relja\2nedelja\Recenica ne sadrzi\Recenica ne sadrzi\bin\Debug\net8.0\Recenica ne sadrzi.deps.json
+K:\ITOIP Relja\2nedelja\Recenica ne sadrzi\Recenica ne sadrzi\bin\Debug\net8.0\Recenica ne sadrzi.runtimeconfig.json
+K:\ITOIP Relja\2nedelja\Recenica ne sadrzi\Recenica ne sadrzi\bin\Debug\net8.0\Recenica ne sadrzi.dll
+K:\ITOIP Relja\2nedelja\Recenica ne sadrzi\Recenica ne sadrzi\bin\Debug\net8.0\Recenica ne sadrzi.pdb
+K:\ITOIP Relja\2nedelja\Recenica ne sadrzi\Recenica ne sadrzi\obj\Debug\net8.0\Recenica ne sadrzi.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\2nedelja\Recenica ne sadrzi\Recenica ne sadrzi\obj\Debug\net8.0\Recenica ne sadrzi.AssemblyInfoInputs.cache
+K:\ITOIP Relja\2nedelja\Recenica ne sadrzi\Recenica ne sadrzi\obj\Debug\net8.0\Recenica ne sadrzi.AssemblyInfo.cs
+K:\ITOIP Relja\2nedelja\Recenica ne sadrzi\Recenica ne sadrzi\obj\Debug\net8.0\Recenica ne sadrzi.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\2nedelja\Recenica ne sadrzi\Recenica ne sadrzi\obj\Debug\net8.0\Recenica ne sadrzi.sourcelink.json
+K:\ITOIP Relja\2nedelja\Recenica ne sadrzi\Recenica ne sadrzi\obj\Debug\net8.0\Recenica ne sadrzi.dll
+K:\ITOIP Relja\2nedelja\Recenica ne sadrzi\Recenica ne sadrzi\obj\Debug\net8.0\refint\Recenica ne sadrzi.dll
+K:\ITOIP Relja\2nedelja\Recenica ne sadrzi\Recenica ne sadrzi\obj\Debug\net8.0\Recenica ne sadrzi.pdb
+K:\ITOIP Relja\2nedelja\Recenica ne sadrzi\Recenica ne sadrzi\obj\Debug\net8.0\Recenica ne sadrzi.genruntimeconfig.cache
+K:\ITOIP Relja\2nedelja\Recenica ne sadrzi\Recenica ne sadrzi\obj\Debug\net8.0\ref\Recenica ne sadrzi.dll

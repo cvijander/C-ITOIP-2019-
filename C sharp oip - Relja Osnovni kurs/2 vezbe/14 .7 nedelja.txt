@@ -1,0 +1,594 @@
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-1
+//Napisati program koji za unetu recenicu ispisuje reci
+//jednu ispod druge
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Unesi recenicu: ");
+            string r = Console.ReadLine();
+            string t = "";
+            for (int i = 0; i < r.Length; i++)
+            {
+                if (r[i] == ' ')
+                    t += '\n';
+                else
+                    t += r[i];
+            }
+            Console.WriteLine(t);
+        }
+    }
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-2-A
+//Napisati program koji za unetu recenicu ispisuje reci
+//jednu ispod druge.
+//Nakon toga, program ispisuje koliko je reci bilo u recenici.
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Unesi recenicu: ");
+            string r = Console.ReadLine();
+            string t = "";
+            int nr = 0;//novi redovi
+            for (int i = 0; i < r.Length; i++)
+            {
+                if (r[i] == ' ')
+                {
+                    t += '\n';
+                    nr++;
+                }
+                else
+                    t += r[i];
+            }
+            Console.WriteLine(t);
+            Console.WriteLine("Ukupan broj reci: " + (nr + 1));
+        }
+    }
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-2-B
+//Napisati program koji za unetu recenicu ispisuje reci
+//jednu ispod druge.
+//Nakon toga, program ispisuje koliko je reci bilo u recenici.
+//Višestruki razmaci se IGNORIŠU.
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Unesi recenicu: ");
+            string r = Console.ReadLine();
+            string t = "";
+            int nr = 0;//novi redovi
+            for (int i = 0; i < r.Length; i++)
+            {
+                if (r[i] == ' ' && r[i-1] !=' ')
+                {
+                    t += '\n';
+                    nr++;
+                }
+                else if(r[i]!=' ')
+                    t += r[i];
+            }
+            Console.WriteLine(t);
+            Console.WriteLine("Ukupan broj reci: " + (nr + 1));
+        }
+    }
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-3
+//Napisati program koji za unetu recenicu ispisuje 
+//piramidu od unetih karaktera, npr. ako se unese Petak, dobija se
+//Petak
+//etak
+//tak
+//ak
+//k
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Unesi recenicu: ");
+            string r = Console.ReadLine();
+            
+            for (int i = 0; i < r.Length; i++)//ovde brojimo redove
+            {
+                for (int j = i; j < r.Length; j++)//ovde se ispisuju redovi
+                {
+                    Console.Write(r[j]);
+                }
+                Console.WriteLine();
+            }
+            
+        }
+    }
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-4
+//Napisati program koji za unetu recenicu ispisuje 
+//piramidu suprotnu od prethodnog zadatka, npr.
+//petak
+//peta
+//pet
+//pe
+//p
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Unesi recenicu: ");
+            string r = Console.ReadLine();
+            
+            for (int i = 0; i < r.Length; i++)//ovde brojimo redove
+            {
+                for (int j = 0; j < r.Length-i; j++)//ovde se ispisuju redovi
+                {
+                    Console.Write(r[j]);
+                }
+                Console.WriteLine();
+            }
+            
+        }
+    }
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-5
+//Napisati program koji ispisuje pravougaonik sastavljen od znaka #
+//velicine MxN, gde brojeve M,N bira korisnik
+//Npr, ako je M=2, N=3 :
+//***
+//***
+//A) Koristiti funkciju CrtajRed(3)
+//B) Bez korišcenja funkcije
+
+
+
+//A)
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("M= ");
+            int M = int.Parse(Console.ReadLine());
+            Console.Write("N= ");
+            int N = int.Parse(Console.ReadLine());
+            for (int i = 0; i < M; i++) //broje se redovi
+            {
+                CrtajRed(N);//iscrtavaju se redovi
+            }            
+        }
+
+        private static void CrtajRed(int n)
+        {
+            for (int i = 0; i < n; i++)
+            {
+                Console.Write("#");
+            }
+            Console.WriteLine();
+        }
+    }
+
+
+
+//B)
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("M= ");
+            int M = int.Parse(Console.ReadLine());
+            Console.Write("N= ");
+            int N = int.Parse(Console.ReadLine());
+            for (int i = 0; i < M; i++) //broje se redovi
+            {
+                for (int j = 0; j < N; j++) //iscrtavaju se redovi
+                {
+                    Console.Write("#");
+                }
+                Console.WriteLine();
+            }            
+        }
+
+    }
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-6
+//Na kraci nacin ispisati koliko ima reci u recenici.
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Unesi recenicu: ");
+            string r = Console.ReadLine();
+
+            string[] reci = r.Split(' ' , ',' , '.');
+            //"Danas  je nedelja"
+            //reci[0]="Danas"
+            //reci[1]=""
+            //reci[2]="je"
+            //reci[3]="nedelja"
+            int uk = reci.Length;
+            foreach (string rec in reci)
+            {
+                if (rec == "") uk--;
+            }
+            Console.WriteLine("Ukupno ima "+uk+ " reci.");
+        }
+
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-7
+//Procitati recenicu i sve reci ispisati u suprotnom redosledu
+//Npr.
+//DANAS JE NEDELJA.
+//NEDELJA. JE DANAS
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Unesi recenicu: ");
+            string r = Console.ReadLine();
+
+            string[] reci = r.Split(' ');
+
+            for (int i = reci.Length-1; i >=0; i--)
+            {
+                Console.Write(reci[i]+" ");
+            }
+            Console.WriteLine();
+        }
+
+    }
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-8
+//Procitati recenicu i sve reci ispisati u suprotnom redosledu,
+//pri tome voditi racuna da prvo slovo u recenici bude veliko,
+//a da na kraju stoji tacka.
+//Npr.
+//Danas je nedelja.
+//Nedelja je Danas.
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Unesi recenicu: ");
+            string r = Console.ReadLine();
+
+            if (r[r.Length - 1] == '.')//ako postoji tacka na kraju, brisemo je
+                r = r.Substring(0, r.Length - 1);
+
+            string[] reci = r.Split(' ');
+
+            //prvo slovo poslednje reci treba da bude veliko
+            Console.Write(Char.ToUpper(reci[reci.Length-1][0]));
+
+            //ostatak od poslednje reci
+            string ost = reci[reci.Length - 1].Substring(1);
+            Console.Write(ost);
+
+            for (int i = reci.Length-2; i >=0; i--)//sve osim reci koja ce biti prva
+            {
+                Console.Write(" "+reci[i]);
+            }
+            Console.WriteLine('.');
+        }
+
+    }
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//ZAdatak-9
+//Program prevodi redni broj dana u nedelji u tekstualni, i obrnuta
+//Npr. 4 <-> "Cetvrtak"
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Unesi smer (1-po rednom broju), (2-po tekstu): ");
+            string odg = Console.ReadLine();
+            string[] dan = {"Ponedeljak", "Utorak", "Sreda",
+                            "Cetvrtak", "Petak", "Subota", "Nedelja" };
+
+            if(odg=="1")
+            {
+                Console.Write("Unesi redni broj: ");
+                int n = int.Parse(Console.ReadLine()) - 1;
+                if (n < 0 || n > 6)
+                    Console.WriteLine("Greška.");
+                else
+                    Console.WriteLine("Dan: " + dan[n]);
+            }
+            else if(odg == "2")
+            {
+                Console.Write("Unesi dan: ");
+                string d = Console.ReadLine();
+                Console.WriteLine("Redni broj: " + RedniBroj(d));
+            }
+
+        }
+
+        private static string RedniBroj(string d)
+        {
+            string odg = "Greška.";
+            string[] dan = {"Ponedeljak", "Utorak", "Sreda",
+                            "Cetvrtak", "Petak", "Subota", "Nedelja" };
+            for(int i=0; i<7; i++)
+            {
+                if(d.ToUpper()==dan[i].ToUpper())
+                {
+                    odg = (i + 1) + ".";
+                }
+            }
+            return odg;
+        }
+    }
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//ZAdatak-10
+//Program proverava tekst izgovoren u telefonskom razgovoru i ispisuje
+//broj izgovorenih kljucnih reci ("zavera","tajna","bomba")
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Unesi tekst razgovora: ");
+            string razgovor = Console.ReadLine();
+
+            int br = BrojKljucnihReci(razgovor);
+
+            Console.WriteLine("Broj izgovorenih kljucnih reci: " + br);
+        }
+
+        private static int BrojKljucnihReci(string razgovor)
+        {
+            string [] kReci = { "zavera", "tajna", "bomba" };
+            string[] sveReci = razgovor.Split(' ' , ',' , '.');
+            int poklapanja = 0;
+            foreach (string k in kReci)
+            {
+                foreach (string r in sveReci)
+                {
+                    if (k == r) poklapanja++;
+                }
+            }
+            return poklapanja;
+        }
+    }
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-11
+//Program unosi recenicu i sastavlja trougao od reci
+//tako sto svaki put izostavi prvu rec.
+//Npr:
+//Danas radimo deljenje stringova
+//radimo deljenje stringova
+//deljenje stringova
+//stringova
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Unesi recenicu: ");
+            string r = Console.ReadLine();
+
+            string[] reci = r.Split(' ');
+
+            for (int i = 0; i < reci.Length; i++)
+            {
+                for (int j = i; j < reci.Length; j++)
+                {
+                    Console.Write(reci[j] + " ");
+                }
+                Console.WriteLine();
+            }
+            
+        }
+        
+    }
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-12
+//Program unosi recenicu i sastavlja trougao od reci
+//tako sto svaki put izostavi poslednju rec.
+//Npr:
+//Danas radimo deljenje stringova
+//Danas radimo deljenje
+//Danas radimo 
+//Danas
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Unesi recenicu: ");
+            string r = Console.ReadLine();
+
+            string[] reci = r.Split(' ');
+
+            for (int i = 0; i < reci.Length; i++)
+            {
+                for (int j = 0; j < reci.Length-i; j++)
+                {
+                    Console.Write(reci[j] + " ");
+                }
+                Console.WriteLine();
+            }
+            
+        }
+        
+    }
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-13
+//Program nudi korisniku da unese 5 kljucnih reci.
+//Program pamti, i nakon toga, ponavlja sve reci.
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            ArrayList x = new ArrayList();
+            for (int i = 0; i < 5; i++)
+            {
+                Console.Write("Unesi "+(i+1)+". kljucnu rec: ");
+                string r = Console.ReadLine();
+                x.Add(r);
+            }
+            for (int i = 0; i < 5; i++)
+            {
+                Console.WriteLine((i + 1) + ". kljucna rec: " + x[i]);
+            }
+        }
+        
+    }
+}
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-14
+//Korisnik unosi tekst u program.
+//Program ispisuje sve razlicite reci iz teksta 
+//zajedno sa brojem pojavljivanja.
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Unesi tekst: ");
+            string t = Console.ReadLine();
+            ArrayList reci = new ArrayList();
+            string[] niz = t.Split(' ', '.', ',');
+            int[] pojavljivanja = new int[niz.Length];
+            foreach(string r in niz)
+            {
+                if (reci.Contains(r))//ako rec vec postoji
+                {
+                    pojavljivanja[reci.IndexOf(r)]++;
+                }
+                else //ako smo naisli na novu rec
+                {
+                    reci.Add(r);
+                    pojavljivanja[reci.Count-1] = 1;
+                }
+            }
+            for (int i = 0; i < reci.Count; i++)
+            {
+                Console.WriteLine(reci[i] + " - " + pojavljivanja[i]);
+            }
+        }
+        
+    }
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-15
+//Korisnik unosi recenicu.
+//Program ispisuje celu recenicu, proširenu za broj slova kod svake reci.
+//NPR. za recenicu "DANAS JE NEDELJA.", program ispisuje
+//recenicu "DANAS(5) JE(2) NEDELJA(7)."
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Unesi recenicu: ");
+            string r = Console.ReadLine();
+            ArrayList reci = new ArrayList();
+            string[] niz = r.Split(' ', '.', ',');
+            foreach (string x in niz)//prebacujemo sve neprazne reci u listu
+            {
+                if(x.Length>0)
+                {
+                    reci.Add(x);
+                }
+            }
+            foreach (string x in reci)//prebacujemo sve neprazne reci u listu
+            {
+                Console.Write(x + "(" + x.Length + ") ");
+            }
+            Console.WriteLine(".");
+        }
+        
+    }
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-16
+//Korisnik prvo unosi recenicu, a nakon toga bira da li želi:
+//(1) da se recenica prikaže u nazad
+//(2) da se obrne velicina slova.
+//NPR, ako je recenica "Danas je nedelja"
+//(1) "ajleden ej sanaD"
+//(2) "dANAS JE NEDELJA"
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Unesi recenicu: ");
+            string r = Console.ReadLine();
+            Console.WriteLine("Odaberi opciju (1 ili 2): ");
+            string op = Console.ReadLine();
+            if(op=="1")
+            {
+                for (int i = r.Length-1; i >= 0; i--)
+                {
+                    Console.Write(r[i]);
+                }
+                Console.WriteLine();
+            }
+            else if(op=="2")
+            {
+                for (int i = 0; i < r.Length; i++)
+                {
+                    if(Char.IsUpper(r[i]))
+                        Console.Write(Char.ToLower(r[i]));
+                    else
+                        Console.Write(Char.ToUpper(r[i]));
+                }
+                Console.WriteLine();
+            }
+        }
+        
+    }
+

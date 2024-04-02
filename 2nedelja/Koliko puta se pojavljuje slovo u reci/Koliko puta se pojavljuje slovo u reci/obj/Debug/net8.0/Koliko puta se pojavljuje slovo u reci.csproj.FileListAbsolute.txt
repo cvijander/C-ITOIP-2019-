@@ -1,0 +1,15 @@
+K:\ITOIP Relja\2nedelja\Koliko puta se pojavljuje slovo u reci\Koliko puta se pojavljuje slovo u reci\bin\Debug\net8.0\Koliko puta se pojavljuje slovo u reci.exe
+K:\ITOIP Relja\2nedelja\Koliko puta se pojavljuje slovo u reci\Koliko puta se pojavljuje slovo u reci\bin\Debug\net8.0\Koliko puta se pojavljuje slovo u reci.deps.json
+K:\ITOIP Relja\2nedelja\Koliko puta se pojavljuje slovo u reci\Koliko puta se pojavljuje slovo u reci\bin\Debug\net8.0\Koliko puta se pojavljuje slovo u reci.runtimeconfig.json
+K:\ITOIP Relja\2nedelja\Koliko puta se pojavljuje slovo u reci\Koliko puta se pojavljuje slovo u reci\bin\Debug\net8.0\Koliko puta se pojavljuje slovo u reci.dll
+K:\ITOIP Relja\2nedelja\Koliko puta se pojavljuje slovo u reci\Koliko puta se pojavljuje slovo u reci\bin\Debug\net8.0\Koliko puta se pojavljuje slovo u reci.pdb
+K:\ITOIP Relja\2nedelja\Koliko puta se pojavljuje slovo u reci\Koliko puta se pojavljuje slovo u reci\obj\Debug\net8.0\Koliko puta se pojavljuje slovo u reci.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\2nedelja\Koliko puta se pojavljuje slovo u reci\Koliko puta se pojavljuje slovo u reci\obj\Debug\net8.0\Koliko puta se pojavljuje slovo u reci.AssemblyInfoInputs.cache
+K:\ITOIP Relja\2nedelja\Koliko puta se pojavljuje slovo u reci\Koliko puta se pojavljuje slovo u reci\obj\Debug\net8.0\Koliko puta se pojavljuje slovo u reci.AssemblyInfo.cs
+K:\ITOIP Relja\2nedelja\Koliko puta se pojavljuje slovo u reci\Koliko puta se pojavljuje slovo u reci\obj\Debug\net8.0\Koliko puta se pojavljuje slovo u reci.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\2nedelja\Koliko puta se pojavljuje slovo u reci\Koliko puta se pojavljuje slovo u reci\obj\Debug\net8.0\Koliko puta se pojavljuje slovo u reci.sourcelink.json
+K:\ITOIP Relja\2nedelja\Koliko puta se pojavljuje slovo u reci\Koliko puta se pojavljuje slovo u reci\obj\Debug\net8.0\Koliko puta se pojavljuje slovo u reci.dll
+K:\ITOIP Relja\2nedelja\Koliko puta se pojavljuje slovo u reci\Koliko puta se pojavljuje slovo u reci\obj\Debug\net8.0\refint\Koliko puta se pojavljuje slovo u reci.dll
+K:\ITOIP Relja\2nedelja\Koliko puta se pojavljuje slovo u reci\Koliko puta se pojavljuje slovo u reci\obj\Debug\net8.0\Koliko puta se pojavljuje slovo u reci.pdb
+K:\ITOIP Relja\2nedelja\Koliko puta se pojavljuje slovo u reci\Koliko puta se pojavljuje slovo u reci\obj\Debug\net8.0\Koliko puta se pojavljuje slovo u reci.genruntimeconfig.cache
+K:\ITOIP Relja\2nedelja\Koliko puta se pojavljuje slovo u reci\Koliko puta se pojavljuje slovo u reci\obj\Debug\net8.0\ref\Koliko puta se pojavljuje slovo u reci.dll

@@ -1,0 +1,15 @@
+K:\ITOIP Relja\2nedelja\Zajednicke liste tj karaktere\Zajednicke liste tj karaktere\bin\Debug\net8.0\Zajednicke liste tj karaktere.exe
+K:\ITOIP Relja\2nedelja\Zajednicke liste tj karaktere\Zajednicke liste tj karaktere\bin\Debug\net8.0\Zajednicke liste tj karaktere.deps.json
+K:\ITOIP Relja\2nedelja\Zajednicke liste tj karaktere\Zajednicke liste tj karaktere\bin\Debug\net8.0\Zajednicke liste tj karaktere.runtimeconfig.json
+K:\ITOIP Relja\2nedelja\Zajednicke liste tj karaktere\Zajednicke liste tj karaktere\bin\Debug\net8.0\Zajednicke liste tj karaktere.dll
+K:\ITOIP Relja\2nedelja\Zajednicke liste tj karaktere\Zajednicke liste tj karaktere\bin\Debug\net8.0\Zajednicke liste tj karaktere.pdb
+K:\ITOIP Relja\2nedelja\Zajednicke liste tj karaktere\Zajednicke liste tj karaktere\obj\Debug\net8.0\Zajednicke liste tj karaktere.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\2nedelja\Zajednicke liste tj karaktere\Zajednicke liste tj karaktere\obj\Debug\net8.0\Zajednicke liste tj karaktere.AssemblyInfoInputs.cache
+K:\ITOIP Relja\2nedelja\Zajednicke liste tj karaktere\Zajednicke liste tj karaktere\obj\Debug\net8.0\Zajednicke liste tj karaktere.AssemblyInfo.cs
+K:\ITOIP Relja\2nedelja\Zajednicke liste tj karaktere\Zajednicke liste tj karaktere\obj\Debug\net8.0\Zajednicke liste tj karaktere.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\2nedelja\Zajednicke liste tj karaktere\Zajednicke liste tj karaktere\obj\Debug\net8.0\Zajednicke liste tj karaktere.sourcelink.json
+K:\ITOIP Relja\2nedelja\Zajednicke liste tj karaktere\Zajednicke liste tj karaktere\obj\Debug\net8.0\Zajednicke liste tj karaktere.dll
+K:\ITOIP Relja\2nedelja\Zajednicke liste tj karaktere\Zajednicke liste tj karaktere\obj\Debug\net8.0\refint\Zajednicke liste tj karaktere.dll
+K:\ITOIP Relja\2nedelja\Zajednicke liste tj karaktere\Zajednicke liste tj karaktere\obj\Debug\net8.0\Zajednicke liste tj karaktere.pdb
+K:\ITOIP Relja\2nedelja\Zajednicke liste tj karaktere\Zajednicke liste tj karaktere\obj\Debug\net8.0\Zajednicke liste tj karaktere.genruntimeconfig.cache
+K:\ITOIP Relja\2nedelja\Zajednicke liste tj karaktere\Zajednicke liste tj karaktere\obj\Debug\net8.0\ref\Zajednicke liste tj karaktere.dll

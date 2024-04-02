@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Manji brojevi od prirodnog/1.0.0": {
+        "runtime": {
+          "Manji brojevi od prirodnog.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Manji brojevi od prirodnog/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

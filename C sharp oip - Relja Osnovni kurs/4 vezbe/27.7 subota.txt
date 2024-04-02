@@ -1,0 +1,637 @@
+//Zadatak-1
+//Napisati klasu Razlomak sa atributima ceoBroj, imenilac, brojilac. 
+//Klasi dodati još i get, set metode, kao i metodu PribliznaVrednost,
+//koja prikazuje približnu decimalnu vrednost datog razlomka.
+//Probati ispis razlomka, direktno preko WriteLine metode.
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Razlomak r = new Razlomak();// dva cela i tri sedmine
+            r.CeoBroj_Set(2);
+            r.Imenilac_Set(7);
+            r.Brojilac_Set(3);
+            Console.WriteLine("Približna vrednost: " + r.PribliznaVrednost());
+            Console.WriteLine(r);//Ovo mora prethodno da se isprogramira!!!
+        }
+    }
+
+    public class Razlomak
+    {
+        //atributi klase
+        private int ceoBroj, imenilac, brojilac;
+
+        //metode klase:
+        //1) Set metode:  (služe nam za upis podatka)
+        public void CeoBroj_Set(int v)
+        {
+            ceoBroj = v;
+        }
+        public void Imenilac_Set(int v)
+        {
+            imenilac = v;//Neoprezno!!!
+        }
+        public void Brojilac_Set(int v)
+        {
+            brojilac = v;
+        }
+        //2) Get metode:  (služe nam da procitamo - pogledamo podatak)
+        public int CeoBroj_Get()
+        {
+            return ceoBroj;
+        }
+        public int Imenilac_Get()
+        {
+            return imenilac;
+        }
+        public int Brojilac_Get()
+        {
+            return brojilac;
+        }
+        //ostale metode:
+        public float PribliznaVrednost()
+        {
+            float prib_vred;
+            prib_vred = ceoBroj + brojilac / (float)imenilac;
+            return prib_vred;
+        }
+    }
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-2
+//Omoguciti korisniku da sam odabere 2 razlomka, jednog preko konstruktora,
+//drugog preko Set metode, zatim omoguciti da se proveri unos 
+//(i u Set metodama i u konstruktoru).
+//Klasi Razlomak dodati metodu ToString() koja ce omoguciti prikaz razlomka.
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Razlomak r = new Razlomak();
+            Console.WriteLine("Prvi razlomak:");
+            r.CeoBroj_Set(int.Parse(Console.ReadLine()));
+            r.Brojilac_Set(int.Parse(Console.ReadLine()));
+            r.Imenilac_Set(int.Parse(Console.ReadLine()));
+            Console.WriteLine("Drugi razlomak:");
+            int ceo = int.Parse(Console.ReadLine());
+            int bro = int.Parse(Console.ReadLine());
+            int ime = int.Parse(Console.ReadLine());
+            Razlomak r2 = new Razlomak(ceo,bro,ime);
+            Console.WriteLine("Približna vrednost 1. razlomka: " + r.PribliznaVrednost());
+            Console.WriteLine("Približna vrednost 2. razlomka: " + r2.PribliznaVrednost());
+            Console.WriteLine(r);
+            Console.WriteLine(r2);
+        }
+    }
+
+    public class Razlomak
+    {
+        //atributi klase
+        private int ceoBroj, imenilac, brojilac;
+
+
+
+        //metode klase:
+        //1) Konstruktori klase
+        public Razlomak()
+        {
+        }
+        public Razlomak(int ceo, int bro, int ime)
+        {
+            if (ime != 0 && bro < ime)
+            {
+                ceoBroj = ceo;
+                imenilac = ime;
+                brojilac = bro;
+            }
+            else
+            {
+                Console.WriteLine("GREŠKA: Podaci o razlomku nisu dobro uneti.");
+            }
+        }
+        //2) Set metode:  (služe nam za upis podatka)
+        public void CeoBroj_Set(int v)
+        {
+            ceoBroj = v;
+        }
+        public void Imenilac_Set(int v)
+        {
+            if (v != 0 && v>brojilac)
+            {
+                imenilac = v;
+            }
+            else if(v==0)
+            {
+                Console.WriteLine("GREŠKA: Imenilac ne sme biti NULA.");
+            }
+            else
+            {
+                Console.WriteLine("GREŠKA: Brojilac mora biti manji od imenioca.");
+            }
+        }
+        public void Brojilac_Set(int v)
+        {
+            if (v <= imenilac || brojilac==0)
+            {
+                brojilac = v;
+            }
+            else
+            {
+                Console.WriteLine("GREŠKA: Brojilac mora biti manji od imenioca.");
+            }
+        }
+        //3) Get metode:  (služe nam da procitamo - pogledamo podatak)
+        public int CeoBroj_Get()
+        {
+            return ceoBroj;
+        }
+        public int Imenilac_Get()
+        {
+            return imenilac;
+        }
+        public int Brojilac_Get()
+        {
+            return brojilac;
+        }
+        //ostale metode:
+        public float PribliznaVrednost()
+        {
+            float prib_vred;
+            prib_vred = ceoBroj + brojilac / (float)imenilac;
+            return prib_vred;
+        }
+        public override string ToString()
+        {
+            if (ceoBroj != 0 && brojilac > 0)
+            {
+                string raz = ceoBroj + " " + brojilac + "/" + imenilac;
+                return raz;
+            }
+            else if(brojilac > 0)
+            {
+                string raz = brojilac + "/" + imenilac;
+                return raz;
+            }
+            else
+            {
+                string raz = ceoBroj.ToString();
+                return raz;
+            }
+        }
+    }
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-3
+//Kreirati klasu Kontakt, sa atributima ime, prezime, brtel, email.
+//Napraviti GET i SET metode, konstruktor i ToString metodu. 
+//Omoguciti korisniku da unese 3 kontakta, i da ih nakon toga prikaže.
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Unesi podatke za 1. osobu: (ime, prezime, telefon, mejl)");
+            string odg = Console.ReadLine();
+            string[] niz = odg.Split(' ');
+            Kontakt k1 = new Kontakt(niz[0], niz[1], niz[2], niz[3]);
+            Console.WriteLine("Unesi podatke za 2. osobu: (ime, prezime, telefon, mejl)");
+            odg = Console.ReadLine();
+            niz = odg.Split(' ');
+            Kontakt k2 = new Kontakt(niz[0], niz[1], niz[2], niz[3]);
+            Console.WriteLine("Unesi podatke za 3. osobu: (ime, prezime, telefon, mejl)");
+            odg = Console.ReadLine();
+            niz = odg.Split(' ');
+            Kontakt k3 = new Kontakt(niz[0], niz[1], niz[2], niz[3]);
+            Console.WriteLine(k1);
+            Console.WriteLine(k2);
+            Console.WriteLine(k3);
+        }
+    }
+
+    public class Kontakt
+    {
+        //atributi klase
+        private string ime, prezime, brtel, email;
+
+        //metode klase:
+        //konstruktor
+        public Kontakt(string v1, string v2, string v3, string v4)
+        {
+            ime = v1;
+            prezime = v2;
+            brtel = v3;
+            email = v4;
+        }
+        //GET metode:
+        public string Ime_Get()
+        {
+            return ime;
+        }
+        public string Prezime_Get()
+        {
+            return prezime;
+        }
+        public string BrojTelefona_Get()
+        {
+            return brtel;
+        }
+        public string Email_Get()
+        {
+            return email;
+        }
+        //SET metode:
+        public void Ime_Set(string v)
+        {
+            ime = v;
+        }
+        public void Prezime_Set(string v)
+        {
+            prezime = v;
+        }
+        public void BrojTelefona_Set(string v)
+        {
+            brtel = v;
+        }
+        public void Email_Set(string v)
+        {
+            email = v;
+        }
+        //ToString metoda
+        public override string ToString()
+        {
+            return ime + "\t" + prezime + "\t" + brtel + "\t" + email;
+        }
+    }
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-4
+//U klasi iz prethodnog zadatka dodati konstruktor koji sve podatke unosi u jednom redu.
+//Omoguciti korisniku da unese 5 kontakta u listu, i da ih nakon toga sve prikaže.
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            List<Kontakt> L = new List<Kontakt>();
+            
+            //unos kontakata
+            for (int i = 1; i < 6; i++)
+            {
+                Console.WriteLine("Unesi podatke za "+i+". osobu: (ime, prezime, telefon, mejl)");
+                string odg = Console.ReadLine();
+                Kontakt k = new Kontakt(odg);
+                L.Add(k);//dodavanje kontakta na listu
+            }
+
+            //izlistavanje svih kontakata
+            foreach (Kontakt k in L) Console.WriteLine(k);            
+        }
+    }
+
+    public class Kontakt
+    {
+        //atributi klase
+        private string ime, prezime, brtel, email;
+
+        //metode klase:
+        //konstruktori:
+        public Kontakt(string v1, string v2, string v3, string v4)
+        {
+            ime = v1;
+            prezime = v2;
+            brtel = v3;
+            email = v4;
+        }
+        public Kontakt(string odg)
+        {
+            string[] niz = odg.Split(' ');
+            ime = niz[0];
+            prezime = niz[1];
+            brtel = niz[2];
+            email = niz[3];
+        }
+        //GET metode:
+        public string Ime_Get()
+        {
+            return ime;
+        }
+        public string Prezime_Get()
+        {
+            return prezime;
+        }
+        public string BrojTelefona_Get()
+        {
+            return brtel;
+        }
+        public string Email_Get()
+        {
+            return email;
+        }
+        //SET metode:
+        public void Ime_Set(string v)
+        {
+            ime = v;
+        }
+        public void Prezime_Set(string v)
+        {
+            prezime = v;
+        }
+        public void BrojTelefona_Set(string v)
+        {
+            brtel = v;
+        }
+        public void Email_Set(string v)
+        {
+            email = v;
+        }
+        //ToString metoda
+        public override string ToString()
+        {
+            return ime + "\t" + prezime + "\t" + brtel + "\t" + email;
+        }
+    }
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-5
+//Napisati klasu KompleX koja cuva zapis kompleksnog broja 
+//atributi su x(realni deo) i y(imaginarni deo).
+//Dodati konstruktore, get metode pod nazivom Re() i Im() i metodu ToString().
+//Omoguciti korisniku da unese kompleksni broj, i da ga prikaže.
+//Npr. 
+//Unesi kompleksni broj:
+//x=2
+//y=3
+//z=2+3i
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Unesi kompleksni broj:");
+            Console.Write("x=");
+            float x = float.Parse(Console.ReadLine());
+            Console.Write("y=");
+            float y = float.Parse(Console.ReadLine());
+            KompleX z = new KompleX(x, y);
+            Console.WriteLine("z = " + z);
+        }
+    }
+
+    internal class KompleX
+    {
+        //atributi
+        private float x;
+        private float y;
+
+        //konstruktor
+        public KompleX(float x, float y)
+        {
+            this.x = x;
+            this.y = y;
+        }
+        //GET metode:
+        public float Re()
+        {
+            return x;
+        }
+        public float Im()
+        {
+            return y;
+        }
+        //ToString metoda
+        public override string ToString()
+        {
+            string odg;
+            if (y < 0)
+            {
+                odg = x + "" + y + "i";
+            }
+            else
+            {
+                odg = x + "+" + y + "i";
+            }
+            return odg;
+        }
+    }
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-6
+//Omoguciti korisniku da unese dva kompleksna broja, 
+//da napravi njihov zbir i nakon toga da prikaže taj novi kompleksni broj.
+//Ako je realan ili imaginaran deo tog broja nula, izostaviti nulu iz prikaza.
+//Npr. 
+//Unesi prvi kompleksni broj:
+//x=2
+//y=3
+//Unesi drugi kompleksni broj:
+//x=-2
+//y=8
+//Zbir: 11i
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Unesi prvi kompleksni broj:");
+            Console.Write("x=");
+            float x = float.Parse(Console.ReadLine());
+            Console.Write("y=");
+            float y = float.Parse(Console.ReadLine());
+            KompleX z1 = new KompleX(x, y);
+            Console.WriteLine("Unesi drugi kompleksni broj:");
+            Console.Write("x=");
+            x = float.Parse(Console.ReadLine());
+            Console.Write("y=");
+            y = float.Parse(Console.ReadLine());
+            KompleX z2 = new KompleX(x, y);
+            KompleX zb = new KompleX();
+            zb.SaberiBrojeve(z1, z2);
+            Console.WriteLine("Zbir: " + zb);
+        }
+    }
+
+    internal class KompleX
+    {
+        //atributi
+        private float x;
+        private float y;
+
+        //konstruktori
+        public KompleX()
+        {
+        }
+        public KompleX(float x, float y)
+        {
+            this.x = x;
+            this.y = y;
+        }
+        //GET metode:
+        public float Re()
+        {
+            return x;
+        }
+        public float Im()
+        {
+            return y;
+        }
+        //ToString metoda
+        public override string ToString()
+        {
+            string odg;
+            if(x==0)
+            {
+                odg = y + "i";
+            }
+            else if (y < 0)
+            {
+                odg = x + "" + y + "i";
+            }
+            else if(y==0)
+            {
+                odg = x + "";
+            }
+            else
+            {
+                odg = x + "+" + y + "i";
+            }
+            return odg;
+        }
+        public void SaberiBrojeve(KompleX z1, KompleX z2)
+        {
+            x = z1.Re() + z2.Re();
+            y = z1.Im() + z2.Im();
+        }
+    }
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-7
+//Napisati klasu trougao sa stranicama kao atributima, sa konstruktorom koji moze
+//da iz jednog teksta procita sve tri stranice, i sa metodama za obim i povrsinu.
+//Omoguciti korisniku da (u listu L) unese 10 trouglova.
+//Program ispisuje njihov ukupan obim, i njihovu ukupnu površinu.
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            List<Trougao> L = new List<Trougao>();
+            for (int i = 0; i < 10; i++)
+            {
+                Console.Write("Unesi stranice trougla: ");
+                string odg = Console.ReadLine();
+                Trougao T = new Trougao(odg);
+                L.Add(T);
+            }
+            float ukPovrsina = 0, ukObim = 0 ;
+            foreach(Trougao T in L)
+            {
+                ukPovrsina += T.Povrsina();
+                ukObim += T.Obim();
+            }
+            Console.WriteLine("Ukupna povrsina: " + ukPovrsina);
+            Console.WriteLine("Ukupan obim: " + ukObim);
+        }
+    }
+    class Trougao
+    {
+        private float a, b, c;
+
+        public Trougao(string odg)
+        {
+            string[] niz = odg.Split(' ');
+            a = float.Parse(niz[0]);
+            b = float.Parse(niz[1]);
+            c = float.Parse(niz[2]);
+        }
+
+        public float Obim()
+        {
+            return a+b+c;
+        }
+
+        public float Povrsina()
+        {
+            float s = Obim() / 2;
+            return (float)Math.Sqrt(s * (s - a) * (s - b) * (s - c));
+        }
+    }
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//Zadatak-8
+//Omoguciti korisniku da u programu iz prethodnog zadata pronade trougao
+//koji ima najmanju površinu i da prikaže stranice tog trougla.
+//(koristiti lisu L koja ima 5 trouglova)
+//Npr.
+//Trougao1: 3 3 4
+//Trougao2: 2 3 4
+//Trougao3: 7 3 4
+//Trougao4: 2 4 4
+//Trougao5: 3 3 4
+//Najmanju povrsinu ima 2. trougao,
+//stranice su mu: a=2, b=3, c=4
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            List<Trougao> L = new List<Trougao>();
+            int imin=0;
+            float pmin=0;
+            for (int i = 0; i < 5; i++)
+            {
+                Console.Write("Unesi stranice trougla: ");
+                string odg = Console.ReadLine();
+                Trougao T = new Trougao(odg);
+                L.Add(T);
+                if (i == 0) pmin = T.Povrsina();
+                else if (T.Povrsina() < pmin)
+                {
+                    imin = i;
+                    pmin = T.Povrsina();
+                }
+                //Console.WriteLine("P = " + T.Povrsina());
+            }
+            Console.WriteLine("Najmanju povrsinu ima "+(imin+1)+". trougao,");
+            Console.WriteLine("stranice su mu: a="+L[imin].A_Get()+ ", b=" + L[imin].B_Get() + ", c=" + L[imin].C_Get() + "");
+        }
+    }
+
+    class Trougao
+    {
+        private float a, b, c;
+
+        public Trougao(string odg)
+        {
+            string[] niz = odg.Split(' ');
+            a = float.Parse(niz[0]);
+            b = float.Parse(niz[1]);
+            c = float.Parse(niz[2]);
+        }
+
+        public float Obim()
+        {
+            return a+b+c;
+        }
+
+        public float Povrsina()
+        {
+            float s = Obim() / 2;
+            return (float)Math.Sqrt(s * (s - a) * (s - b) * (s - c));
+        }
+
+        public float A_Get()
+        { return a; }
+        public float B_Get()
+        { return b; }
+        public float C_Get()
+        { return c; }
+    }
+
+
+
+
+

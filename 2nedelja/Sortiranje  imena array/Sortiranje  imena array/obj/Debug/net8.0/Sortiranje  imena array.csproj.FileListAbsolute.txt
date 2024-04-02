@@ -1,0 +1,15 @@
+K:\ITOIP Relja\2nedelja\Sortiranje  imena array\Sortiranje  imena array\bin\Debug\net8.0\Sortiranje  imena array.exe
+K:\ITOIP Relja\2nedelja\Sortiranje  imena array\Sortiranje  imena array\bin\Debug\net8.0\Sortiranje  imena array.deps.json
+K:\ITOIP Relja\2nedelja\Sortiranje  imena array\Sortiranje  imena array\bin\Debug\net8.0\Sortiranje  imena array.runtimeconfig.json
+K:\ITOIP Relja\2nedelja\Sortiranje  imena array\Sortiranje  imena array\bin\Debug\net8.0\Sortiranje  imena array.dll
+K:\ITOIP Relja\2nedelja\Sortiranje  imena array\Sortiranje  imena array\bin\Debug\net8.0\Sortiranje  imena array.pdb
+K:\ITOIP Relja\2nedelja\Sortiranje  imena array\Sortiranje  imena array\obj\Debug\net8.0\Sortiranje  imena array.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\2nedelja\Sortiranje  imena array\Sortiranje  imena array\obj\Debug\net8.0\Sortiranje  imena array.AssemblyInfoInputs.cache
+K:\ITOIP Relja\2nedelja\Sortiranje  imena array\Sortiranje  imena array\obj\Debug\net8.0\Sortiranje  imena array.AssemblyInfo.cs
+K:\ITOIP Relja\2nedelja\Sortiranje  imena array\Sortiranje  imena array\obj\Debug\net8.0\Sortiranje  imena array.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\2nedelja\Sortiranje  imena array\Sortiranje  imena array\obj\Debug\net8.0\Sortiranje  imena array.sourcelink.json
+K:\ITOIP Relja\2nedelja\Sortiranje  imena array\Sortiranje  imena array\obj\Debug\net8.0\Sortiranje  imena array.dll
+K:\ITOIP Relja\2nedelja\Sortiranje  imena array\Sortiranje  imena array\obj\Debug\net8.0\refint\Sortiranje  imena array.dll
+K:\ITOIP Relja\2nedelja\Sortiranje  imena array\Sortiranje  imena array\obj\Debug\net8.0\Sortiranje  imena array.pdb
+K:\ITOIP Relja\2nedelja\Sortiranje  imena array\Sortiranje  imena array\obj\Debug\net8.0\Sortiranje  imena array.genruntimeconfig.cache
+K:\ITOIP Relja\2nedelja\Sortiranje  imena array\Sortiranje  imena array\obj\Debug\net8.0\ref\Sortiranje  imena array.dll

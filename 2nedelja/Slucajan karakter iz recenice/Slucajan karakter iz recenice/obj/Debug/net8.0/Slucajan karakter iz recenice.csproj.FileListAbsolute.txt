@@ -1,0 +1,15 @@
+K:\ITOIP Relja\2nedelja\Slucajan karakter iz recenice\Slucajan karakter iz recenice\bin\Debug\net8.0\Slucajan karakter iz recenice.exe
+K:\ITOIP Relja\2nedelja\Slucajan karakter iz recenice\Slucajan karakter iz recenice\bin\Debug\net8.0\Slucajan karakter iz recenice.deps.json
+K:\ITOIP Relja\2nedelja\Slucajan karakter iz recenice\Slucajan karakter iz recenice\bin\Debug\net8.0\Slucajan karakter iz recenice.runtimeconfig.json
+K:\ITOIP Relja\2nedelja\Slucajan karakter iz recenice\Slucajan karakter iz recenice\bin\Debug\net8.0\Slucajan karakter iz recenice.dll
+K:\ITOIP Relja\2nedelja\Slucajan karakter iz recenice\Slucajan karakter iz recenice\bin\Debug\net8.0\Slucajan karakter iz recenice.pdb
+K:\ITOIP Relja\2nedelja\Slucajan karakter iz recenice\Slucajan karakter iz recenice\obj\Debug\net8.0\Slucajan karakter iz recenice.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\2nedelja\Slucajan karakter iz recenice\Slucajan karakter iz recenice\obj\Debug\net8.0\Slucajan karakter iz recenice.AssemblyInfoInputs.cache
+K:\ITOIP Relja\2nedelja\Slucajan karakter iz recenice\Slucajan karakter iz recenice\obj\Debug\net8.0\Slucajan karakter iz recenice.AssemblyInfo.cs
+K:\ITOIP Relja\2nedelja\Slucajan karakter iz recenice\Slucajan karakter iz recenice\obj\Debug\net8.0\Slucajan karakter iz recenice.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\2nedelja\Slucajan karakter iz recenice\Slucajan karakter iz recenice\obj\Debug\net8.0\Slucajan karakter iz recenice.sourcelink.json
+K:\ITOIP Relja\2nedelja\Slucajan karakter iz recenice\Slucajan karakter iz recenice\obj\Debug\net8.0\Slucajan karakter iz recenice.dll
+K:\ITOIP Relja\2nedelja\Slucajan karakter iz recenice\Slucajan karakter iz recenice\obj\Debug\net8.0\refint\Slucajan karakter iz recenice.dll
+K:\ITOIP Relja\2nedelja\Slucajan karakter iz recenice\Slucajan karakter iz recenice\obj\Debug\net8.0\Slucajan karakter iz recenice.pdb
+K:\ITOIP Relja\2nedelja\Slucajan karakter iz recenice\Slucajan karakter iz recenice\obj\Debug\net8.0\Slucajan karakter iz recenice.genruntimeconfig.cache
+K:\ITOIP Relja\2nedelja\Slucajan karakter iz recenice\Slucajan karakter iz recenice\obj\Debug\net8.0\ref\Slucajan karakter iz recenice.dll

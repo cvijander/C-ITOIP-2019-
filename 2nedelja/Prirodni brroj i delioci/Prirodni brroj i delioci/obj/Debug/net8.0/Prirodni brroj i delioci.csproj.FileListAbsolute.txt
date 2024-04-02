@@ -1,0 +1,15 @@
+K:\ITOIP Relja\2nedelja\Prirodni brroj i delioci\Prirodni brroj i delioci\bin\Debug\net8.0\Prirodni brroj i delioci.exe
+K:\ITOIP Relja\2nedelja\Prirodni brroj i delioci\Prirodni brroj i delioci\bin\Debug\net8.0\Prirodni brroj i delioci.deps.json
+K:\ITOIP Relja\2nedelja\Prirodni brroj i delioci\Prirodni brroj i delioci\bin\Debug\net8.0\Prirodni brroj i delioci.runtimeconfig.json
+K:\ITOIP Relja\2nedelja\Prirodni brroj i delioci\Prirodni brroj i delioci\bin\Debug\net8.0\Prirodni brroj i delioci.dll
+K:\ITOIP Relja\2nedelja\Prirodni brroj i delioci\Prirodni brroj i delioci\bin\Debug\net8.0\Prirodni brroj i delioci.pdb
+K:\ITOIP Relja\2nedelja\Prirodni brroj i delioci\Prirodni brroj i delioci\obj\Debug\net8.0\Prirodni brroj i delioci.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\2nedelja\Prirodni brroj i delioci\Prirodni brroj i delioci\obj\Debug\net8.0\Prirodni brroj i delioci.AssemblyInfoInputs.cache
+K:\ITOIP Relja\2nedelja\Prirodni brroj i delioci\Prirodni brroj i delioci\obj\Debug\net8.0\Prirodni brroj i delioci.AssemblyInfo.cs
+K:\ITOIP Relja\2nedelja\Prirodni brroj i delioci\Prirodni brroj i delioci\obj\Debug\net8.0\Prirodni brroj i delioci.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\2nedelja\Prirodni brroj i delioci\Prirodni brroj i delioci\obj\Debug\net8.0\Prirodni brroj i delioci.sourcelink.json
+K:\ITOIP Relja\2nedelja\Prirodni brroj i delioci\Prirodni brroj i delioci\obj\Debug\net8.0\Prirodni brroj i delioci.dll
+K:\ITOIP Relja\2nedelja\Prirodni brroj i delioci\Prirodni brroj i delioci\obj\Debug\net8.0\refint\Prirodni brroj i delioci.dll
+K:\ITOIP Relja\2nedelja\Prirodni brroj i delioci\Prirodni brroj i delioci\obj\Debug\net8.0\Prirodni brroj i delioci.pdb
+K:\ITOIP Relja\2nedelja\Prirodni brroj i delioci\Prirodni brroj i delioci\obj\Debug\net8.0\Prirodni brroj i delioci.genruntimeconfig.cache
+K:\ITOIP Relja\2nedelja\Prirodni brroj i delioci\Prirodni brroj i delioci\obj\Debug\net8.0\ref\Prirodni brroj i delioci.dll

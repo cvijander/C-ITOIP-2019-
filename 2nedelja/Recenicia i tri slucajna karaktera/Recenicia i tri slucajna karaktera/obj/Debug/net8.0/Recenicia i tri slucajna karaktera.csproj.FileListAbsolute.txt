@@ -1,0 +1,15 @@
+K:\ITOIP Relja\2nedelja\Recenicia i tri slucajna karaktera\Recenicia i tri slucajna karaktera\bin\Debug\net8.0\Recenicia i tri slucajna karaktera.exe
+K:\ITOIP Relja\2nedelja\Recenicia i tri slucajna karaktera\Recenicia i tri slucajna karaktera\bin\Debug\net8.0\Recenicia i tri slucajna karaktera.deps.json
+K:\ITOIP Relja\2nedelja\Recenicia i tri slucajna karaktera\Recenicia i tri slucajna karaktera\bin\Debug\net8.0\Recenicia i tri slucajna karaktera.runtimeconfig.json
+K:\ITOIP Relja\2nedelja\Recenicia i tri slucajna karaktera\Recenicia i tri slucajna karaktera\bin\Debug\net8.0\Recenicia i tri slucajna karaktera.dll
+K:\ITOIP Relja\2nedelja\Recenicia i tri slucajna karaktera\Recenicia i tri slucajna karaktera\bin\Debug\net8.0\Recenicia i tri slucajna karaktera.pdb
+K:\ITOIP Relja\2nedelja\Recenicia i tri slucajna karaktera\Recenicia i tri slucajna karaktera\obj\Debug\net8.0\Recenicia i tri slucajna karaktera.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\2nedelja\Recenicia i tri slucajna karaktera\Recenicia i tri slucajna karaktera\obj\Debug\net8.0\Recenicia i tri slucajna karaktera.AssemblyInfoInputs.cache
+K:\ITOIP Relja\2nedelja\Recenicia i tri slucajna karaktera\Recenicia i tri slucajna karaktera\obj\Debug\net8.0\Recenicia i tri slucajna karaktera.AssemblyInfo.cs
+K:\ITOIP Relja\2nedelja\Recenicia i tri slucajna karaktera\Recenicia i tri slucajna karaktera\obj\Debug\net8.0\Recenicia i tri slucajna karaktera.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\2nedelja\Recenicia i tri slucajna karaktera\Recenicia i tri slucajna karaktera\obj\Debug\net8.0\Recenicia i tri slucajna karaktera.sourcelink.json
+K:\ITOIP Relja\2nedelja\Recenicia i tri slucajna karaktera\Recenicia i tri slucajna karaktera\obj\Debug\net8.0\Recenicia i tri slucajna karaktera.dll
+K:\ITOIP Relja\2nedelja\Recenicia i tri slucajna karaktera\Recenicia i tri slucajna karaktera\obj\Debug\net8.0\refint\Recenicia i tri slucajna karaktera.dll
+K:\ITOIP Relja\2nedelja\Recenicia i tri slucajna karaktera\Recenicia i tri slucajna karaktera\obj\Debug\net8.0\Recenicia i tri slucajna karaktera.pdb
+K:\ITOIP Relja\2nedelja\Recenicia i tri slucajna karaktera\Recenicia i tri slucajna karaktera\obj\Debug\net8.0\Recenicia i tri slucajna karaktera.genruntimeconfig.cache
+K:\ITOIP Relja\2nedelja\Recenicia i tri slucajna karaktera\Recenicia i tri slucajna karaktera\obj\Debug\net8.0\ref\Recenicia i tri slucajna karaktera.dll

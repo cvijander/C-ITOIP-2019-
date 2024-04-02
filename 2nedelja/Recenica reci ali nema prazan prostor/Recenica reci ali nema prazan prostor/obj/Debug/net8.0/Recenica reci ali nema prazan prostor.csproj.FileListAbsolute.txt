@@ -1,0 +1,15 @@
+K:\ITOIP Relja\2nedelja\Recenica reci ali nema prazan prostor\Recenica reci ali nema prazan prostor\bin\Debug\net8.0\Recenica reci ali nema prazan prostor.exe
+K:\ITOIP Relja\2nedelja\Recenica reci ali nema prazan prostor\Recenica reci ali nema prazan prostor\bin\Debug\net8.0\Recenica reci ali nema prazan prostor.deps.json
+K:\ITOIP Relja\2nedelja\Recenica reci ali nema prazan prostor\Recenica reci ali nema prazan prostor\bin\Debug\net8.0\Recenica reci ali nema prazan prostor.runtimeconfig.json
+K:\ITOIP Relja\2nedelja\Recenica reci ali nema prazan prostor\Recenica reci ali nema prazan prostor\bin\Debug\net8.0\Recenica reci ali nema prazan prostor.dll
+K:\ITOIP Relja\2nedelja\Recenica reci ali nema prazan prostor\Recenica reci ali nema prazan prostor\bin\Debug\net8.0\Recenica reci ali nema prazan prostor.pdb
+K:\ITOIP Relja\2nedelja\Recenica reci ali nema prazan prostor\Recenica reci ali nema prazan prostor\obj\Debug\net8.0\Recenica reci ali nema prazan prostor.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\2nedelja\Recenica reci ali nema prazan prostor\Recenica reci ali nema prazan prostor\obj\Debug\net8.0\Recenica reci ali nema prazan prostor.AssemblyInfoInputs.cache
+K:\ITOIP Relja\2nedelja\Recenica reci ali nema prazan prostor\Recenica reci ali nema prazan prostor\obj\Debug\net8.0\Recenica reci ali nema prazan prostor.AssemblyInfo.cs
+K:\ITOIP Relja\2nedelja\Recenica reci ali nema prazan prostor\Recenica reci ali nema prazan prostor\obj\Debug\net8.0\Recenica reci ali nema prazan prostor.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\2nedelja\Recenica reci ali nema prazan prostor\Recenica reci ali nema prazan prostor\obj\Debug\net8.0\Recenica reci ali nema prazan prostor.sourcelink.json
+K:\ITOIP Relja\2nedelja\Recenica reci ali nema prazan prostor\Recenica reci ali nema prazan prostor\obj\Debug\net8.0\Recenica reci ali nema prazan prostor.dll
+K:\ITOIP Relja\2nedelja\Recenica reci ali nema prazan prostor\Recenica reci ali nema prazan prostor\obj\Debug\net8.0\refint\Recenica reci ali nema prazan prostor.dll
+K:\ITOIP Relja\2nedelja\Recenica reci ali nema prazan prostor\Recenica reci ali nema prazan prostor\obj\Debug\net8.0\Recenica reci ali nema prazan prostor.pdb
+K:\ITOIP Relja\2nedelja\Recenica reci ali nema prazan prostor\Recenica reci ali nema prazan prostor\obj\Debug\net8.0\Recenica reci ali nema prazan prostor.genruntimeconfig.cache
+K:\ITOIP Relja\2nedelja\Recenica reci ali nema prazan prostor\Recenica reci ali nema prazan prostor\obj\Debug\net8.0\ref\Recenica reci ali nema prazan prostor.dll

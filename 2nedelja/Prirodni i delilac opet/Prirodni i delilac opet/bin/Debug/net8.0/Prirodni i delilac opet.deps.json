@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Prirodni i delilac opet/1.0.0": {
+        "runtime": {
+          "Prirodni i delilac opet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prirodni i delilac opet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

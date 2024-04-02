@@ -1,0 +1,15 @@
+K:\ITOIP Relja\2nedelja\Min max u listi\Min max u listi\bin\Debug\net8.0\Min max u listi.exe
+K:\ITOIP Relja\2nedelja\Min max u listi\Min max u listi\bin\Debug\net8.0\Min max u listi.deps.json
+K:\ITOIP Relja\2nedelja\Min max u listi\Min max u listi\bin\Debug\net8.0\Min max u listi.runtimeconfig.json
+K:\ITOIP Relja\2nedelja\Min max u listi\Min max u listi\bin\Debug\net8.0\Min max u listi.dll
+K:\ITOIP Relja\2nedelja\Min max u listi\Min max u listi\bin\Debug\net8.0\Min max u listi.pdb
+K:\ITOIP Relja\2nedelja\Min max u listi\Min max u listi\obj\Debug\net8.0\Min max u listi.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\2nedelja\Min max u listi\Min max u listi\obj\Debug\net8.0\Min max u listi.AssemblyInfoInputs.cache
+K:\ITOIP Relja\2nedelja\Min max u listi\Min max u listi\obj\Debug\net8.0\Min max u listi.AssemblyInfo.cs
+K:\ITOIP Relja\2nedelja\Min max u listi\Min max u listi\obj\Debug\net8.0\Min max u listi.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\2nedelja\Min max u listi\Min max u listi\obj\Debug\net8.0\Min max u listi.sourcelink.json
+K:\ITOIP Relja\2nedelja\Min max u listi\Min max u listi\obj\Debug\net8.0\Min max u listi.dll
+K:\ITOIP Relja\2nedelja\Min max u listi\Min max u listi\obj\Debug\net8.0\refint\Min max u listi.dll
+K:\ITOIP Relja\2nedelja\Min max u listi\Min max u listi\obj\Debug\net8.0\Min max u listi.pdb
+K:\ITOIP Relja\2nedelja\Min max u listi\Min max u listi\obj\Debug\net8.0\Min max u listi.genruntimeconfig.cache
+K:\ITOIP Relja\2nedelja\Min max u listi\Min max u listi\obj\Debug\net8.0\ref\Min max u listi.dll

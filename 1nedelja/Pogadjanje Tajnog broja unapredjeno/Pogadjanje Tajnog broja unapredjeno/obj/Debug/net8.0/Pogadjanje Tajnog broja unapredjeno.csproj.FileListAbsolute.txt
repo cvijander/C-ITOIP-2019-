@@ -1,0 +1,15 @@
+K:\ITOIP Relja\1nedelja\Pogadjanje Tajnog broja unapredjeno\Pogadjanje Tajnog broja unapredjeno\bin\Debug\net8.0\Pogadjanje Tajnog broja unapredjeno.exe
+K:\ITOIP Relja\1nedelja\Pogadjanje Tajnog broja unapredjeno\Pogadjanje Tajnog broja unapredjeno\bin\Debug\net8.0\Pogadjanje Tajnog broja unapredjeno.deps.json
+K:\ITOIP Relja\1nedelja\Pogadjanje Tajnog broja unapredjeno\Pogadjanje Tajnog broja unapredjeno\bin\Debug\net8.0\Pogadjanje Tajnog broja unapredjeno.runtimeconfig.json
+K:\ITOIP Relja\1nedelja\Pogadjanje Tajnog broja unapredjeno\Pogadjanje Tajnog broja unapredjeno\bin\Debug\net8.0\Pogadjanje Tajnog broja unapredjeno.dll
+K:\ITOIP Relja\1nedelja\Pogadjanje Tajnog broja unapredjeno\Pogadjanje Tajnog broja unapredjeno\bin\Debug\net8.0\Pogadjanje Tajnog broja unapredjeno.pdb
+K:\ITOIP Relja\1nedelja\Pogadjanje Tajnog broja unapredjeno\Pogadjanje Tajnog broja unapredjeno\obj\Debug\net8.0\Pogadjanje Tajnog broja unapredjeno.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\1nedelja\Pogadjanje Tajnog broja unapredjeno\Pogadjanje Tajnog broja unapredjeno\obj\Debug\net8.0\Pogadjanje Tajnog broja unapredjeno.AssemblyInfoInputs.cache
+K:\ITOIP Relja\1nedelja\Pogadjanje Tajnog broja unapredjeno\Pogadjanje Tajnog broja unapredjeno\obj\Debug\net8.0\Pogadjanje Tajnog broja unapredjeno.AssemblyInfo.cs
+K:\ITOIP Relja\1nedelja\Pogadjanje Tajnog broja unapredjeno\Pogadjanje Tajnog broja unapredjeno\obj\Debug\net8.0\Pogadjanje Tajnog broja unapredjeno.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\1nedelja\Pogadjanje Tajnog broja unapredjeno\Pogadjanje Tajnog broja unapredjeno\obj\Debug\net8.0\Pogadjanje Tajnog broja unapredjeno.sourcelink.json
+K:\ITOIP Relja\1nedelja\Pogadjanje Tajnog broja unapredjeno\Pogadjanje Tajnog broja unapredjeno\obj\Debug\net8.0\Pogadjanje Tajnog broja unapredjeno.dll
+K:\ITOIP Relja\1nedelja\Pogadjanje Tajnog broja unapredjeno\Pogadjanje Tajnog broja unapredjeno\obj\Debug\net8.0\refint\Pogadjanje Tajnog broja unapredjeno.dll
+K:\ITOIP Relja\1nedelja\Pogadjanje Tajnog broja unapredjeno\Pogadjanje Tajnog broja unapredjeno\obj\Debug\net8.0\Pogadjanje Tajnog broja unapredjeno.pdb
+K:\ITOIP Relja\1nedelja\Pogadjanje Tajnog broja unapredjeno\Pogadjanje Tajnog broja unapredjeno\obj\Debug\net8.0\Pogadjanje Tajnog broja unapredjeno.genruntimeconfig.cache
+K:\ITOIP Relja\1nedelja\Pogadjanje Tajnog broja unapredjeno\Pogadjanje Tajnog broja unapredjeno\obj\Debug\net8.0\ref\Pogadjanje Tajnog broja unapredjeno.dll

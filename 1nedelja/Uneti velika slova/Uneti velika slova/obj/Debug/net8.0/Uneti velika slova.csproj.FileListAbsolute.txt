@@ -1,0 +1,15 @@
+K:\ITOIP Relja\1nedelja\Uneti velika slova\Uneti velika slova\bin\Debug\net8.0\Uneti velika slova.exe
+K:\ITOIP Relja\1nedelja\Uneti velika slova\Uneti velika slova\bin\Debug\net8.0\Uneti velika slova.deps.json
+K:\ITOIP Relja\1nedelja\Uneti velika slova\Uneti velika slova\bin\Debug\net8.0\Uneti velika slova.runtimeconfig.json
+K:\ITOIP Relja\1nedelja\Uneti velika slova\Uneti velika slova\bin\Debug\net8.0\Uneti velika slova.dll
+K:\ITOIP Relja\1nedelja\Uneti velika slova\Uneti velika slova\bin\Debug\net8.0\Uneti velika slova.pdb
+K:\ITOIP Relja\1nedelja\Uneti velika slova\Uneti velika slova\obj\Debug\net8.0\Uneti velika slova.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\1nedelja\Uneti velika slova\Uneti velika slova\obj\Debug\net8.0\Uneti velika slova.AssemblyInfoInputs.cache
+K:\ITOIP Relja\1nedelja\Uneti velika slova\Uneti velika slova\obj\Debug\net8.0\Uneti velika slova.AssemblyInfo.cs
+K:\ITOIP Relja\1nedelja\Uneti velika slova\Uneti velika slova\obj\Debug\net8.0\Uneti velika slova.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\1nedelja\Uneti velika slova\Uneti velika slova\obj\Debug\net8.0\Uneti velika slova.sourcelink.json
+K:\ITOIP Relja\1nedelja\Uneti velika slova\Uneti velika slova\obj\Debug\net8.0\Uneti velika slova.dll
+K:\ITOIP Relja\1nedelja\Uneti velika slova\Uneti velika slova\obj\Debug\net8.0\refint\Uneti velika slova.dll
+K:\ITOIP Relja\1nedelja\Uneti velika slova\Uneti velika slova\obj\Debug\net8.0\Uneti velika slova.pdb
+K:\ITOIP Relja\1nedelja\Uneti velika slova\Uneti velika slova\obj\Debug\net8.0\Uneti velika slova.genruntimeconfig.cache
+K:\ITOIP Relja\1nedelja\Uneti velika slova\Uneti velika slova\obj\Debug\net8.0\ref\Uneti velika slova.dll

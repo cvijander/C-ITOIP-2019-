@@ -1,0 +1,15 @@
+K:\ITOIP Relja\2nedelja\Rucno sortiranje niza\Rucno sortiranje niza\bin\Debug\net8.0\Rucno sortiranje niza.exe
+K:\ITOIP Relja\2nedelja\Rucno sortiranje niza\Rucno sortiranje niza\bin\Debug\net8.0\Rucno sortiranje niza.deps.json
+K:\ITOIP Relja\2nedelja\Rucno sortiranje niza\Rucno sortiranje niza\bin\Debug\net8.0\Rucno sortiranje niza.runtimeconfig.json
+K:\ITOIP Relja\2nedelja\Rucno sortiranje niza\Rucno sortiranje niza\bin\Debug\net8.0\Rucno sortiranje niza.dll
+K:\ITOIP Relja\2nedelja\Rucno sortiranje niza\Rucno sortiranje niza\bin\Debug\net8.0\Rucno sortiranje niza.pdb
+K:\ITOIP Relja\2nedelja\Rucno sortiranje niza\Rucno sortiranje niza\obj\Debug\net8.0\Rucno sortiranje niza.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\2nedelja\Rucno sortiranje niza\Rucno sortiranje niza\obj\Debug\net8.0\Rucno sortiranje niza.AssemblyInfoInputs.cache
+K:\ITOIP Relja\2nedelja\Rucno sortiranje niza\Rucno sortiranje niza\obj\Debug\net8.0\Rucno sortiranje niza.AssemblyInfo.cs
+K:\ITOIP Relja\2nedelja\Rucno sortiranje niza\Rucno sortiranje niza\obj\Debug\net8.0\Rucno sortiranje niza.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\2nedelja\Rucno sortiranje niza\Rucno sortiranje niza\obj\Debug\net8.0\Rucno sortiranje niza.sourcelink.json
+K:\ITOIP Relja\2nedelja\Rucno sortiranje niza\Rucno sortiranje niza\obj\Debug\net8.0\Rucno sortiranje niza.dll
+K:\ITOIP Relja\2nedelja\Rucno sortiranje niza\Rucno sortiranje niza\obj\Debug\net8.0\refint\Rucno sortiranje niza.dll
+K:\ITOIP Relja\2nedelja\Rucno sortiranje niza\Rucno sortiranje niza\obj\Debug\net8.0\Rucno sortiranje niza.pdb
+K:\ITOIP Relja\2nedelja\Rucno sortiranje niza\Rucno sortiranje niza\obj\Debug\net8.0\Rucno sortiranje niza.genruntimeconfig.cache
+K:\ITOIP Relja\2nedelja\Rucno sortiranje niza\Rucno sortiranje niza\obj\Debug\net8.0\ref\Rucno sortiranje niza.dll

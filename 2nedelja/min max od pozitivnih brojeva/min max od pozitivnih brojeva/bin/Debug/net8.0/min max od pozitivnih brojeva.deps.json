@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "min max od pozitivnih brojeva/1.0.0": {
+        "runtime": {
+          "min max od pozitivnih brojeva.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "min max od pozitivnih brojeva/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

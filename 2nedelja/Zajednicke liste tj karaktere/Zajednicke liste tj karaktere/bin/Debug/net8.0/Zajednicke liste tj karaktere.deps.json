@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Zajednicke liste tj karaktere/1.0.0": {
+        "runtime": {
+          "Zajednicke liste tj karaktere.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zajednicke liste tj karaktere/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

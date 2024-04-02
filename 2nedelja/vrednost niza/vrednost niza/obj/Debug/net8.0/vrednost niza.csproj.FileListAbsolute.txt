@@ -1,0 +1,15 @@
+K:\ITOIP Relja\2nedelja\vrednost niza\vrednost niza\bin\Debug\net8.0\vrednost niza.exe
+K:\ITOIP Relja\2nedelja\vrednost niza\vrednost niza\bin\Debug\net8.0\vrednost niza.deps.json
+K:\ITOIP Relja\2nedelja\vrednost niza\vrednost niza\bin\Debug\net8.0\vrednost niza.runtimeconfig.json
+K:\ITOIP Relja\2nedelja\vrednost niza\vrednost niza\bin\Debug\net8.0\vrednost niza.dll
+K:\ITOIP Relja\2nedelja\vrednost niza\vrednost niza\bin\Debug\net8.0\vrednost niza.pdb
+K:\ITOIP Relja\2nedelja\vrednost niza\vrednost niza\obj\Debug\net8.0\vrednost niza.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\2nedelja\vrednost niza\vrednost niza\obj\Debug\net8.0\vrednost niza.AssemblyInfoInputs.cache
+K:\ITOIP Relja\2nedelja\vrednost niza\vrednost niza\obj\Debug\net8.0\vrednost niza.AssemblyInfo.cs
+K:\ITOIP Relja\2nedelja\vrednost niza\vrednost niza\obj\Debug\net8.0\vrednost niza.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\2nedelja\vrednost niza\vrednost niza\obj\Debug\net8.0\vrednost niza.sourcelink.json
+K:\ITOIP Relja\2nedelja\vrednost niza\vrednost niza\obj\Debug\net8.0\vrednost niza.dll
+K:\ITOIP Relja\2nedelja\vrednost niza\vrednost niza\obj\Debug\net8.0\refint\vrednost niza.dll
+K:\ITOIP Relja\2nedelja\vrednost niza\vrednost niza\obj\Debug\net8.0\vrednost niza.pdb
+K:\ITOIP Relja\2nedelja\vrednost niza\vrednost niza\obj\Debug\net8.0\vrednost niza.genruntimeconfig.cache
+K:\ITOIP Relja\2nedelja\vrednost niza\vrednost niza\obj\Debug\net8.0\ref\vrednost niza.dll

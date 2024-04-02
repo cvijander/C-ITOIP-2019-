@@ -1,0 +1,15 @@
+K:\ITOIP Relja\2nedelja\Ime przime niz\Ime przime niz\bin\Debug\net8.0\Ime przime niz.exe
+K:\ITOIP Relja\2nedelja\Ime przime niz\Ime przime niz\bin\Debug\net8.0\Ime przime niz.deps.json
+K:\ITOIP Relja\2nedelja\Ime przime niz\Ime przime niz\bin\Debug\net8.0\Ime przime niz.runtimeconfig.json
+K:\ITOIP Relja\2nedelja\Ime przime niz\Ime przime niz\bin\Debug\net8.0\Ime przime niz.dll
+K:\ITOIP Relja\2nedelja\Ime przime niz\Ime przime niz\bin\Debug\net8.0\Ime przime niz.pdb
+K:\ITOIP Relja\2nedelja\Ime przime niz\Ime przime niz\obj\Debug\net8.0\Ime przime niz.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\2nedelja\Ime przime niz\Ime przime niz\obj\Debug\net8.0\Ime przime niz.AssemblyInfoInputs.cache
+K:\ITOIP Relja\2nedelja\Ime przime niz\Ime przime niz\obj\Debug\net8.0\Ime przime niz.AssemblyInfo.cs
+K:\ITOIP Relja\2nedelja\Ime przime niz\Ime przime niz\obj\Debug\net8.0\Ime przime niz.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\2nedelja\Ime przime niz\Ime przime niz\obj\Debug\net8.0\Ime przime niz.sourcelink.json
+K:\ITOIP Relja\2nedelja\Ime przime niz\Ime przime niz\obj\Debug\net8.0\Ime przime niz.dll
+K:\ITOIP Relja\2nedelja\Ime przime niz\Ime przime niz\obj\Debug\net8.0\refint\Ime przime niz.dll
+K:\ITOIP Relja\2nedelja\Ime przime niz\Ime przime niz\obj\Debug\net8.0\Ime przime niz.pdb
+K:\ITOIP Relja\2nedelja\Ime przime niz\Ime przime niz\obj\Debug\net8.0\Ime przime niz.genruntimeconfig.cache
+K:\ITOIP Relja\2nedelja\Ime przime niz\Ime przime niz\obj\Debug\net8.0\ref\Ime przime niz.dll

@@ -1,0 +1,15 @@
+K:\ITOIP Relja\2nedelja\Idealna tezina\Idealna tezina\bin\Debug\net8.0\Idealna tezina.exe
+K:\ITOIP Relja\2nedelja\Idealna tezina\Idealna tezina\bin\Debug\net8.0\Idealna tezina.deps.json
+K:\ITOIP Relja\2nedelja\Idealna tezina\Idealna tezina\bin\Debug\net8.0\Idealna tezina.runtimeconfig.json
+K:\ITOIP Relja\2nedelja\Idealna tezina\Idealna tezina\bin\Debug\net8.0\Idealna tezina.dll
+K:\ITOIP Relja\2nedelja\Idealna tezina\Idealna tezina\bin\Debug\net8.0\Idealna tezina.pdb
+K:\ITOIP Relja\2nedelja\Idealna tezina\Idealna tezina\obj\Debug\net8.0\Idealna tezina.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\2nedelja\Idealna tezina\Idealna tezina\obj\Debug\net8.0\Idealna tezina.AssemblyInfoInputs.cache
+K:\ITOIP Relja\2nedelja\Idealna tezina\Idealna tezina\obj\Debug\net8.0\Idealna tezina.AssemblyInfo.cs
+K:\ITOIP Relja\2nedelja\Idealna tezina\Idealna tezina\obj\Debug\net8.0\Idealna tezina.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\2nedelja\Idealna tezina\Idealna tezina\obj\Debug\net8.0\Idealna tezina.sourcelink.json
+K:\ITOIP Relja\2nedelja\Idealna tezina\Idealna tezina\obj\Debug\net8.0\Idealna tezina.dll
+K:\ITOIP Relja\2nedelja\Idealna tezina\Idealna tezina\obj\Debug\net8.0\refint\Idealna tezina.dll
+K:\ITOIP Relja\2nedelja\Idealna tezina\Idealna tezina\obj\Debug\net8.0\Idealna tezina.pdb
+K:\ITOIP Relja\2nedelja\Idealna tezina\Idealna tezina\obj\Debug\net8.0\Idealna tezina.genruntimeconfig.cache
+K:\ITOIP Relja\2nedelja\Idealna tezina\Idealna tezina\obj\Debug\net8.0\ref\Idealna tezina.dll

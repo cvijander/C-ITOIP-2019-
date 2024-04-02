@@ -1,0 +1,15 @@
+K:\ITOIP Relja\2nedelja\Optimalno za listu sa slovima\Optimalno za listu sa slovima\bin\Debug\net8.0\Optimalno za listu sa slovima.exe
+K:\ITOIP Relja\2nedelja\Optimalno za listu sa slovima\Optimalno za listu sa slovima\bin\Debug\net8.0\Optimalno za listu sa slovima.deps.json
+K:\ITOIP Relja\2nedelja\Optimalno za listu sa slovima\Optimalno za listu sa slovima\bin\Debug\net8.0\Optimalno za listu sa slovima.runtimeconfig.json
+K:\ITOIP Relja\2nedelja\Optimalno za listu sa slovima\Optimalno za listu sa slovima\bin\Debug\net8.0\Optimalno za listu sa slovima.dll
+K:\ITOIP Relja\2nedelja\Optimalno za listu sa slovima\Optimalno za listu sa slovima\bin\Debug\net8.0\Optimalno za listu sa slovima.pdb
+K:\ITOIP Relja\2nedelja\Optimalno za listu sa slovima\Optimalno za listu sa slovima\obj\Debug\net8.0\Optimalno za listu sa slovima.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\2nedelja\Optimalno za listu sa slovima\Optimalno za listu sa slovima\obj\Debug\net8.0\Optimalno za listu sa slovima.AssemblyInfoInputs.cache
+K:\ITOIP Relja\2nedelja\Optimalno za listu sa slovima\Optimalno za listu sa slovima\obj\Debug\net8.0\Optimalno za listu sa slovima.AssemblyInfo.cs
+K:\ITOIP Relja\2nedelja\Optimalno za listu sa slovima\Optimalno za listu sa slovima\obj\Debug\net8.0\Optimalno za listu sa slovima.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\2nedelja\Optimalno za listu sa slovima\Optimalno za listu sa slovima\obj\Debug\net8.0\Optimalno za listu sa slovima.sourcelink.json
+K:\ITOIP Relja\2nedelja\Optimalno za listu sa slovima\Optimalno za listu sa slovima\obj\Debug\net8.0\Optimalno za listu sa slovima.dll
+K:\ITOIP Relja\2nedelja\Optimalno za listu sa slovima\Optimalno za listu sa slovima\obj\Debug\net8.0\refint\Optimalno za listu sa slovima.dll
+K:\ITOIP Relja\2nedelja\Optimalno za listu sa slovima\Optimalno za listu sa slovima\obj\Debug\net8.0\Optimalno za listu sa slovima.pdb
+K:\ITOIP Relja\2nedelja\Optimalno za listu sa slovima\Optimalno za listu sa slovima\obj\Debug\net8.0\Optimalno za listu sa slovima.genruntimeconfig.cache
+K:\ITOIP Relja\2nedelja\Optimalno za listu sa slovima\Optimalno za listu sa slovima\obj\Debug\net8.0\ref\Optimalno za listu sa slovima.dll

@@ -1,0 +1,15 @@
+K:\ITOIP Relja\2nedelja\niz osnove\niz osnove\bin\Debug\net8.0\niz osnove.exe
+K:\ITOIP Relja\2nedelja\niz osnove\niz osnove\bin\Debug\net8.0\niz osnove.deps.json
+K:\ITOIP Relja\2nedelja\niz osnove\niz osnove\bin\Debug\net8.0\niz osnove.runtimeconfig.json
+K:\ITOIP Relja\2nedelja\niz osnove\niz osnove\bin\Debug\net8.0\niz osnove.dll
+K:\ITOIP Relja\2nedelja\niz osnove\niz osnove\bin\Debug\net8.0\niz osnove.pdb
+K:\ITOIP Relja\2nedelja\niz osnove\niz osnove\obj\Debug\net8.0\niz osnove.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\2nedelja\niz osnove\niz osnove\obj\Debug\net8.0\niz osnove.AssemblyInfoInputs.cache
+K:\ITOIP Relja\2nedelja\niz osnove\niz osnove\obj\Debug\net8.0\niz osnove.AssemblyInfo.cs
+K:\ITOIP Relja\2nedelja\niz osnove\niz osnove\obj\Debug\net8.0\niz osnove.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\2nedelja\niz osnove\niz osnove\obj\Debug\net8.0\niz osnove.sourcelink.json
+K:\ITOIP Relja\2nedelja\niz osnove\niz osnove\obj\Debug\net8.0\niz osnove.dll
+K:\ITOIP Relja\2nedelja\niz osnove\niz osnove\obj\Debug\net8.0\refint\niz osnove.dll
+K:\ITOIP Relja\2nedelja\niz osnove\niz osnove\obj\Debug\net8.0\niz osnove.pdb
+K:\ITOIP Relja\2nedelja\niz osnove\niz osnove\obj\Debug\net8.0\niz osnove.genruntimeconfig.cache
+K:\ITOIP Relja\2nedelja\niz osnove\niz osnove\obj\Debug\net8.0\ref\niz osnove.dll
