@@ -1,0 +1,15 @@
+K:\ITOIP Relja\3 nedelja\Suprotan redosled\Suprotan redosled\bin\Debug\net8.0\Suprotan redosled.exe
+K:\ITOIP Relja\3 nedelja\Suprotan redosled\Suprotan redosled\bin\Debug\net8.0\Suprotan redosled.deps.json
+K:\ITOIP Relja\3 nedelja\Suprotan redosled\Suprotan redosled\bin\Debug\net8.0\Suprotan redosled.runtimeconfig.json
+K:\ITOIP Relja\3 nedelja\Suprotan redosled\Suprotan redosled\bin\Debug\net8.0\Suprotan redosled.dll
+K:\ITOIP Relja\3 nedelja\Suprotan redosled\Suprotan redosled\bin\Debug\net8.0\Suprotan redosled.pdb
+K:\ITOIP Relja\3 nedelja\Suprotan redosled\Suprotan redosled\obj\Debug\net8.0\Suprotan redosled.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\3 nedelja\Suprotan redosled\Suprotan redosled\obj\Debug\net8.0\Suprotan redosled.AssemblyInfoInputs.cache
+K:\ITOIP Relja\3 nedelja\Suprotan redosled\Suprotan redosled\obj\Debug\net8.0\Suprotan redosled.AssemblyInfo.cs
+K:\ITOIP Relja\3 nedelja\Suprotan redosled\Suprotan redosled\obj\Debug\net8.0\Suprotan redosled.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\3 nedelja\Suprotan redosled\Suprotan redosled\obj\Debug\net8.0\Suprotan redosled.sourcelink.json
+K:\ITOIP Relja\3 nedelja\Suprotan redosled\Suprotan redosled\obj\Debug\net8.0\Suprotan redosled.dll
+K:\ITOIP Relja\3 nedelja\Suprotan redosled\Suprotan redosled\obj\Debug\net8.0\refint\Suprotan redosled.dll
+K:\ITOIP Relja\3 nedelja\Suprotan redosled\Suprotan redosled\obj\Debug\net8.0\Suprotan redosled.pdb
+K:\ITOIP Relja\3 nedelja\Suprotan redosled\Suprotan redosled\obj\Debug\net8.0\Suprotan redosled.genruntimeconfig.cache
+K:\ITOIP Relja\3 nedelja\Suprotan redosled\Suprotan redosled\obj\Debug\net8.0\ref\Suprotan redosled.dll

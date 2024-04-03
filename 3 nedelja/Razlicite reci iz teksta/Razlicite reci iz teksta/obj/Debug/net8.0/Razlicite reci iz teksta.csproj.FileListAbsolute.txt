@@ -1,0 +1,15 @@
+K:\ITOIP Relja\3 nedelja\Razlicite reci iz teksta\Razlicite reci iz teksta\bin\Debug\net8.0\Razlicite reci iz teksta.exe
+K:\ITOIP Relja\3 nedelja\Razlicite reci iz teksta\Razlicite reci iz teksta\bin\Debug\net8.0\Razlicite reci iz teksta.deps.json
+K:\ITOIP Relja\3 nedelja\Razlicite reci iz teksta\Razlicite reci iz teksta\bin\Debug\net8.0\Razlicite reci iz teksta.runtimeconfig.json
+K:\ITOIP Relja\3 nedelja\Razlicite reci iz teksta\Razlicite reci iz teksta\bin\Debug\net8.0\Razlicite reci iz teksta.dll
+K:\ITOIP Relja\3 nedelja\Razlicite reci iz teksta\Razlicite reci iz teksta\bin\Debug\net8.0\Razlicite reci iz teksta.pdb
+K:\ITOIP Relja\3 nedelja\Razlicite reci iz teksta\Razlicite reci iz teksta\obj\Debug\net8.0\Razlicite reci iz teksta.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\3 nedelja\Razlicite reci iz teksta\Razlicite reci iz teksta\obj\Debug\net8.0\Razlicite reci iz teksta.AssemblyInfoInputs.cache
+K:\ITOIP Relja\3 nedelja\Razlicite reci iz teksta\Razlicite reci iz teksta\obj\Debug\net8.0\Razlicite reci iz teksta.AssemblyInfo.cs
+K:\ITOIP Relja\3 nedelja\Razlicite reci iz teksta\Razlicite reci iz teksta\obj\Debug\net8.0\Razlicite reci iz teksta.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\3 nedelja\Razlicite reci iz teksta\Razlicite reci iz teksta\obj\Debug\net8.0\Razlicite reci iz teksta.sourcelink.json
+K:\ITOIP Relja\3 nedelja\Razlicite reci iz teksta\Razlicite reci iz teksta\obj\Debug\net8.0\Razlicite reci iz teksta.dll
+K:\ITOIP Relja\3 nedelja\Razlicite reci iz teksta\Razlicite reci iz teksta\obj\Debug\net8.0\refint\Razlicite reci iz teksta.dll
+K:\ITOIP Relja\3 nedelja\Razlicite reci iz teksta\Razlicite reci iz teksta\obj\Debug\net8.0\Razlicite reci iz teksta.pdb
+K:\ITOIP Relja\3 nedelja\Razlicite reci iz teksta\Razlicite reci iz teksta\obj\Debug\net8.0\Razlicite reci iz teksta.genruntimeconfig.cache
+K:\ITOIP Relja\3 nedelja\Razlicite reci iz teksta\Razlicite reci iz teksta\obj\Debug\net8.0\ref\Razlicite reci iz teksta.dll

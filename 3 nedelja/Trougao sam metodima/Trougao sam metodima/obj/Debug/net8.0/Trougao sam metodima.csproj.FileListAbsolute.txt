@@ -1,0 +1,15 @@
+K:\ITOIP Relja\3 nedelja\Trougao sam metodima\Trougao sam metodima\bin\Debug\net8.0\Trougao sam metodima.exe
+K:\ITOIP Relja\3 nedelja\Trougao sam metodima\Trougao sam metodima\bin\Debug\net8.0\Trougao sam metodima.deps.json
+K:\ITOIP Relja\3 nedelja\Trougao sam metodima\Trougao sam metodima\bin\Debug\net8.0\Trougao sam metodima.runtimeconfig.json
+K:\ITOIP Relja\3 nedelja\Trougao sam metodima\Trougao sam metodima\bin\Debug\net8.0\Trougao sam metodima.dll
+K:\ITOIP Relja\3 nedelja\Trougao sam metodima\Trougao sam metodima\bin\Debug\net8.0\Trougao sam metodima.pdb
+K:\ITOIP Relja\3 nedelja\Trougao sam metodima\Trougao sam metodima\obj\Debug\net8.0\Trougao sam metodima.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\3 nedelja\Trougao sam metodima\Trougao sam metodima\obj\Debug\net8.0\Trougao sam metodima.AssemblyInfoInputs.cache
+K:\ITOIP Relja\3 nedelja\Trougao sam metodima\Trougao sam metodima\obj\Debug\net8.0\Trougao sam metodima.AssemblyInfo.cs
+K:\ITOIP Relja\3 nedelja\Trougao sam metodima\Trougao sam metodima\obj\Debug\net8.0\Trougao sam metodima.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\3 nedelja\Trougao sam metodima\Trougao sam metodima\obj\Debug\net8.0\Trougao sam metodima.sourcelink.json
+K:\ITOIP Relja\3 nedelja\Trougao sam metodima\Trougao sam metodima\obj\Debug\net8.0\Trougao sam metodima.dll
+K:\ITOIP Relja\3 nedelja\Trougao sam metodima\Trougao sam metodima\obj\Debug\net8.0\refint\Trougao sam metodima.dll
+K:\ITOIP Relja\3 nedelja\Trougao sam metodima\Trougao sam metodima\obj\Debug\net8.0\Trougao sam metodima.pdb
+K:\ITOIP Relja\3 nedelja\Trougao sam metodima\Trougao sam metodima\obj\Debug\net8.0\Trougao sam metodima.genruntimeconfig.cache
+K:\ITOIP Relja\3 nedelja\Trougao sam metodima\Trougao sam metodima\obj\Debug\net8.0\ref\Trougao sam metodima.dll

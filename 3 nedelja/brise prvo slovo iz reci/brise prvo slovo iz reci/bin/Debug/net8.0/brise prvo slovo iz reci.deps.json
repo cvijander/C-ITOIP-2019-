@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "brise prvo slovo iz reci/1.0.0": {
+        "runtime": {
+          "brise prvo slovo iz reci.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "brise prvo slovo iz reci/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

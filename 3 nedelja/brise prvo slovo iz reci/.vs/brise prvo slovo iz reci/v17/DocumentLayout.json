@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\ITOIP Relja\\3 nedelja\\brise prvo slovo iz reci\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4599C106-6E42-4E60-9418-968DD8DDBF68}|brise prvo slovo iz reci\\brise prvo slovo iz reci.csproj|k:\\itoip relja\\3 nedelja\\brise prvo slovo iz reci\\brise prvo slovo iz reci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4599C106-6E42-4E60-9418-968DD8DDBF68}|brise prvo slovo iz reci\\brise prvo slovo iz reci.csproj|solutionrelative:brise prvo slovo iz reci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "K:\\ITOIP Relja\\3 nedelja\\brise prvo slovo iz reci\\brise prvo slovo iz reci\\Program.cs",
+              "RelativeDocumentMoniker": "brise prvo slovo iz reci\\Program.cs",
+              "ToolTip": "K:\\ITOIP Relja\\3 nedelja\\brise prvo slovo iz reci\\brise prvo slovo iz reci\\Program.cs",
+              "RelativeToolTip": "brise prvo slovo iz reci\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T02:52:06.048Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+K:\ITOIP Relja\3 nedelja\Klasa sa metodama\Klasa sa metodama\bin\Debug\net8.0\Klasa sa metodama.exe
+K:\ITOIP Relja\3 nedelja\Klasa sa metodama\Klasa sa metodama\bin\Debug\net8.0\Klasa sa metodama.deps.json
+K:\ITOIP Relja\3 nedelja\Klasa sa metodama\Klasa sa metodama\bin\Debug\net8.0\Klasa sa metodama.runtimeconfig.json
+K:\ITOIP Relja\3 nedelja\Klasa sa metodama\Klasa sa metodama\bin\Debug\net8.0\Klasa sa metodama.dll
+K:\ITOIP Relja\3 nedelja\Klasa sa metodama\Klasa sa metodama\bin\Debug\net8.0\Klasa sa metodama.pdb
+K:\ITOIP Relja\3 nedelja\Klasa sa metodama\Klasa sa metodama\obj\Debug\net8.0\Klasa sa metodama.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\3 nedelja\Klasa sa metodama\Klasa sa metodama\obj\Debug\net8.0\Klasa sa metodama.AssemblyInfoInputs.cache
+K:\ITOIP Relja\3 nedelja\Klasa sa metodama\Klasa sa metodama\obj\Debug\net8.0\Klasa sa metodama.AssemblyInfo.cs
+K:\ITOIP Relja\3 nedelja\Klasa sa metodama\Klasa sa metodama\obj\Debug\net8.0\Klasa sa metodama.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\3 nedelja\Klasa sa metodama\Klasa sa metodama\obj\Debug\net8.0\Klasa sa metodama.sourcelink.json
+K:\ITOIP Relja\3 nedelja\Klasa sa metodama\Klasa sa metodama\obj\Debug\net8.0\Klasa sa metodama.dll
+K:\ITOIP Relja\3 nedelja\Klasa sa metodama\Klasa sa metodama\obj\Debug\net8.0\refint\Klasa sa metodama.dll
+K:\ITOIP Relja\3 nedelja\Klasa sa metodama\Klasa sa metodama\obj\Debug\net8.0\Klasa sa metodama.pdb
+K:\ITOIP Relja\3 nedelja\Klasa sa metodama\Klasa sa metodama\obj\Debug\net8.0\Klasa sa metodama.genruntimeconfig.cache
+K:\ITOIP Relja\3 nedelja\Klasa sa metodama\Klasa sa metodama\obj\Debug\net8.0\ref\Klasa sa metodama.dll

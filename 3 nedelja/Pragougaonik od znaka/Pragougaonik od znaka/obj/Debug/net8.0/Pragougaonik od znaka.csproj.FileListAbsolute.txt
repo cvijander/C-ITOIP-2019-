@@ -1,0 +1,15 @@
+K:\ITOIP Relja\3 nedelja\Pragougaonik od znaka\Pragougaonik od znaka\bin\Debug\net8.0\Pragougaonik od znaka.exe
+K:\ITOIP Relja\3 nedelja\Pragougaonik od znaka\Pragougaonik od znaka\bin\Debug\net8.0\Pragougaonik od znaka.deps.json
+K:\ITOIP Relja\3 nedelja\Pragougaonik od znaka\Pragougaonik od znaka\bin\Debug\net8.0\Pragougaonik od znaka.runtimeconfig.json
+K:\ITOIP Relja\3 nedelja\Pragougaonik od znaka\Pragougaonik od znaka\bin\Debug\net8.0\Pragougaonik od znaka.dll
+K:\ITOIP Relja\3 nedelja\Pragougaonik od znaka\Pragougaonik od znaka\bin\Debug\net8.0\Pragougaonik od znaka.pdb
+K:\ITOIP Relja\3 nedelja\Pragougaonik od znaka\Pragougaonik od znaka\obj\Debug\net8.0\Pragougaonik od znaka.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\3 nedelja\Pragougaonik od znaka\Pragougaonik od znaka\obj\Debug\net8.0\Pragougaonik od znaka.AssemblyInfoInputs.cache
+K:\ITOIP Relja\3 nedelja\Pragougaonik od znaka\Pragougaonik od znaka\obj\Debug\net8.0\Pragougaonik od znaka.AssemblyInfo.cs
+K:\ITOIP Relja\3 nedelja\Pragougaonik od znaka\Pragougaonik od znaka\obj\Debug\net8.0\Pragougaonik od znaka.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\3 nedelja\Pragougaonik od znaka\Pragougaonik od znaka\obj\Debug\net8.0\Pragougaonik od znaka.sourcelink.json
+K:\ITOIP Relja\3 nedelja\Pragougaonik od znaka\Pragougaonik od znaka\obj\Debug\net8.0\Pragougaonik od znaka.dll
+K:\ITOIP Relja\3 nedelja\Pragougaonik od znaka\Pragougaonik od znaka\obj\Debug\net8.0\refint\Pragougaonik od znaka.dll
+K:\ITOIP Relja\3 nedelja\Pragougaonik od znaka\Pragougaonik od znaka\obj\Debug\net8.0\Pragougaonik od znaka.pdb
+K:\ITOIP Relja\3 nedelja\Pragougaonik od znaka\Pragougaonik od znaka\obj\Debug\net8.0\Pragougaonik od znaka.genruntimeconfig.cache
+K:\ITOIP Relja\3 nedelja\Pragougaonik od znaka\Pragougaonik od znaka\obj\Debug\net8.0\ref\Pragougaonik od znaka.dll

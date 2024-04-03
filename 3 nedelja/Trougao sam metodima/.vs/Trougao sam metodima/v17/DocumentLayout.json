@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\ITOIP Relja\\3 nedelja\\Trougao sam metodima\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20114956-6C70-458B-B1EA-95F46D4A0B0D}|Trougao sam metodima\\Trougao sam metodima.csproj|k:\\itoip relja\\3 nedelja\\trougao sam metodima\\trougao sam metodima\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20114956-6C70-458B-B1EA-95F46D4A0B0D}|Trougao sam metodima\\Trougao sam metodima.csproj|solutionrelative:trougao sam metodima\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20114956-6C70-458B-B1EA-95F46D4A0B0D}|Trougao sam metodima\\Trougao sam metodima.csproj|k:\\itoip relja\\3 nedelja\\trougao sam metodima\\trougao sam metodima\\trougao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20114956-6C70-458B-B1EA-95F46D4A0B0D}|Trougao sam metodima\\Trougao sam metodima.csproj|solutionrelative:trougao sam metodima\\trougao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Trougao.cs",
+              "DocumentMoniker": "K:\\ITOIP Relja\\3 nedelja\\Trougao sam metodima\\Trougao sam metodima\\Trougao.cs",
+              "RelativeDocumentMoniker": "Trougao sam metodima\\Trougao.cs",
+              "ToolTip": "K:\\ITOIP Relja\\3 nedelja\\Trougao sam metodima\\Trougao sam metodima\\Trougao.cs",
+              "RelativeToolTip": "Trougao sam metodima\\Trougao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T00:42:49.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "K:\\ITOIP Relja\\3 nedelja\\Trougao sam metodima\\Trougao sam metodima\\Program.cs",
+              "RelativeDocumentMoniker": "Trougao sam metodima\\Program.cs",
+              "ToolTip": "K:\\ITOIP Relja\\3 nedelja\\Trougao sam metodima\\Trougao sam metodima\\Program.cs",
+              "RelativeToolTip": "Trougao sam metodima\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T00:31:04.062Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

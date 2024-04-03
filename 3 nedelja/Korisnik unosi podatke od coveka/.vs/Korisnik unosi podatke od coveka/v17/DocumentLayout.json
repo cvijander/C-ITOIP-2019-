@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\ITOIP Relja\\3 nedelja\\Korisnik unosi podatke od coveka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F188563F-2D35-4600-B400-8D63558EC21B}|Korisnik unosi podatke od coveka\\Korisnik unosi podatke od coveka.csproj|k:\\itoip relja\\3 nedelja\\korisnik unosi podatke od coveka\\korisnik unosi podatke od coveka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F188563F-2D35-4600-B400-8D63558EC21B}|Korisnik unosi podatke od coveka\\Korisnik unosi podatke od coveka.csproj|solutionrelative:korisnik unosi podatke od coveka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F188563F-2D35-4600-B400-8D63558EC21B}|Korisnik unosi podatke od coveka\\Korisnik unosi podatke od coveka.csproj|k:\\itoip relja\\3 nedelja\\korisnik unosi podatke od coveka\\korisnik unosi podatke od coveka\\covek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F188563F-2D35-4600-B400-8D63558EC21B}|Korisnik unosi podatke od coveka\\Korisnik unosi podatke od coveka.csproj|solutionrelative:korisnik unosi podatke od coveka\\covek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Covek.cs",
+              "DocumentMoniker": "K:\\ITOIP Relja\\3 nedelja\\Korisnik unosi podatke od coveka\\Korisnik unosi podatke od coveka\\Covek.cs",
+              "RelativeDocumentMoniker": "Korisnik unosi podatke od coveka\\Covek.cs",
+              "ToolTip": "K:\\ITOIP Relja\\3 nedelja\\Korisnik unosi podatke od coveka\\Korisnik unosi podatke od coveka\\Covek.cs",
+              "RelativeToolTip": "Korisnik unosi podatke od coveka\\Covek.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T23:11:05.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "K:\\ITOIP Relja\\3 nedelja\\Korisnik unosi podatke od coveka\\Korisnik unosi podatke od coveka\\Program.cs",
+              "RelativeDocumentMoniker": "Korisnik unosi podatke od coveka\\Program.cs",
+              "ToolTip": "K:\\ITOIP Relja\\3 nedelja\\Korisnik unosi podatke od coveka\\Korisnik unosi podatke od coveka\\Program.cs",
+              "RelativeToolTip": "Korisnik unosi podatke od coveka\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T23:09:15.429Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

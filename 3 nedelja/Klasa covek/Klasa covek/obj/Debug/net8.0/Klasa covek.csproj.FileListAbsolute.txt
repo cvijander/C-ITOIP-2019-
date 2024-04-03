@@ -1,0 +1,15 @@
+K:\ITOIP Relja\3 nedelja\Klasa covek\Klasa covek\bin\Debug\net8.0\Klasa covek.exe
+K:\ITOIP Relja\3 nedelja\Klasa covek\Klasa covek\bin\Debug\net8.0\Klasa covek.deps.json
+K:\ITOIP Relja\3 nedelja\Klasa covek\Klasa covek\bin\Debug\net8.0\Klasa covek.runtimeconfig.json
+K:\ITOIP Relja\3 nedelja\Klasa covek\Klasa covek\bin\Debug\net8.0\Klasa covek.dll
+K:\ITOIP Relja\3 nedelja\Klasa covek\Klasa covek\bin\Debug\net8.0\Klasa covek.pdb
+K:\ITOIP Relja\3 nedelja\Klasa covek\Klasa covek\obj\Debug\net8.0\Klasa covek.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\3 nedelja\Klasa covek\Klasa covek\obj\Debug\net8.0\Klasa covek.AssemblyInfoInputs.cache
+K:\ITOIP Relja\3 nedelja\Klasa covek\Klasa covek\obj\Debug\net8.0\Klasa covek.AssemblyInfo.cs
+K:\ITOIP Relja\3 nedelja\Klasa covek\Klasa covek\obj\Debug\net8.0\Klasa covek.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\3 nedelja\Klasa covek\Klasa covek\obj\Debug\net8.0\Klasa covek.sourcelink.json
+K:\ITOIP Relja\3 nedelja\Klasa covek\Klasa covek\obj\Debug\net8.0\Klasa covek.dll
+K:\ITOIP Relja\3 nedelja\Klasa covek\Klasa covek\obj\Debug\net8.0\refint\Klasa covek.dll
+K:\ITOIP Relja\3 nedelja\Klasa covek\Klasa covek\obj\Debug\net8.0\Klasa covek.pdb
+K:\ITOIP Relja\3 nedelja\Klasa covek\Klasa covek\obj\Debug\net8.0\Klasa covek.genruntimeconfig.cache
+K:\ITOIP Relja\3 nedelja\Klasa covek\Klasa covek\obj\Debug\net8.0\ref\Klasa covek.dll

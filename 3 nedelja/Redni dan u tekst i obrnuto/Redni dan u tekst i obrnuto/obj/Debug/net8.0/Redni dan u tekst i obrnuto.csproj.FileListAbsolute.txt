@@ -1,0 +1,15 @@
+K:\ITOIP Relja\3 nedelja\Redni dan u tekst i obrnuto\Redni dan u tekst i obrnuto\bin\Debug\net8.0\Redni dan u tekst i obrnuto.exe
+K:\ITOIP Relja\3 nedelja\Redni dan u tekst i obrnuto\Redni dan u tekst i obrnuto\bin\Debug\net8.0\Redni dan u tekst i obrnuto.deps.json
+K:\ITOIP Relja\3 nedelja\Redni dan u tekst i obrnuto\Redni dan u tekst i obrnuto\bin\Debug\net8.0\Redni dan u tekst i obrnuto.runtimeconfig.json
+K:\ITOIP Relja\3 nedelja\Redni dan u tekst i obrnuto\Redni dan u tekst i obrnuto\bin\Debug\net8.0\Redni dan u tekst i obrnuto.dll
+K:\ITOIP Relja\3 nedelja\Redni dan u tekst i obrnuto\Redni dan u tekst i obrnuto\bin\Debug\net8.0\Redni dan u tekst i obrnuto.pdb
+K:\ITOIP Relja\3 nedelja\Redni dan u tekst i obrnuto\Redni dan u tekst i obrnuto\obj\Debug\net8.0\Redni dan u tekst i obrnuto.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\3 nedelja\Redni dan u tekst i obrnuto\Redni dan u tekst i obrnuto\obj\Debug\net8.0\Redni dan u tekst i obrnuto.AssemblyInfoInputs.cache
+K:\ITOIP Relja\3 nedelja\Redni dan u tekst i obrnuto\Redni dan u tekst i obrnuto\obj\Debug\net8.0\Redni dan u tekst i obrnuto.AssemblyInfo.cs
+K:\ITOIP Relja\3 nedelja\Redni dan u tekst i obrnuto\Redni dan u tekst i obrnuto\obj\Debug\net8.0\Redni dan u tekst i obrnuto.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\3 nedelja\Redni dan u tekst i obrnuto\Redni dan u tekst i obrnuto\obj\Debug\net8.0\Redni dan u tekst i obrnuto.sourcelink.json
+K:\ITOIP Relja\3 nedelja\Redni dan u tekst i obrnuto\Redni dan u tekst i obrnuto\obj\Debug\net8.0\Redni dan u tekst i obrnuto.dll
+K:\ITOIP Relja\3 nedelja\Redni dan u tekst i obrnuto\Redni dan u tekst i obrnuto\obj\Debug\net8.0\refint\Redni dan u tekst i obrnuto.dll
+K:\ITOIP Relja\3 nedelja\Redni dan u tekst i obrnuto\Redni dan u tekst i obrnuto\obj\Debug\net8.0\Redni dan u tekst i obrnuto.pdb
+K:\ITOIP Relja\3 nedelja\Redni dan u tekst i obrnuto\Redni dan u tekst i obrnuto\obj\Debug\net8.0\Redni dan u tekst i obrnuto.genruntimeconfig.cache
+K:\ITOIP Relja\3 nedelja\Redni dan u tekst i obrnuto\Redni dan u tekst i obrnuto\obj\Debug\net8.0\ref\Redni dan u tekst i obrnuto.dll

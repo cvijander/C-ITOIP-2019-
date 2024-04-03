@@ -1,0 +1,15 @@
+K:\ITOIP Relja\3 nedelja\Trougao obim\Trougao obim\bin\Debug\net8.0\Trougao obim.exe
+K:\ITOIP Relja\3 nedelja\Trougao obim\Trougao obim\bin\Debug\net8.0\Trougao obim.deps.json
+K:\ITOIP Relja\3 nedelja\Trougao obim\Trougao obim\bin\Debug\net8.0\Trougao obim.runtimeconfig.json
+K:\ITOIP Relja\3 nedelja\Trougao obim\Trougao obim\bin\Debug\net8.0\Trougao obim.dll
+K:\ITOIP Relja\3 nedelja\Trougao obim\Trougao obim\bin\Debug\net8.0\Trougao obim.pdb
+K:\ITOIP Relja\3 nedelja\Trougao obim\Trougao obim\obj\Debug\net8.0\Trougao obim.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\3 nedelja\Trougao obim\Trougao obim\obj\Debug\net8.0\Trougao obim.AssemblyInfoInputs.cache
+K:\ITOIP Relja\3 nedelja\Trougao obim\Trougao obim\obj\Debug\net8.0\Trougao obim.AssemblyInfo.cs
+K:\ITOIP Relja\3 nedelja\Trougao obim\Trougao obim\obj\Debug\net8.0\Trougao obim.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\3 nedelja\Trougao obim\Trougao obim\obj\Debug\net8.0\Trougao obim.sourcelink.json
+K:\ITOIP Relja\3 nedelja\Trougao obim\Trougao obim\obj\Debug\net8.0\Trougao obim.dll
+K:\ITOIP Relja\3 nedelja\Trougao obim\Trougao obim\obj\Debug\net8.0\refint\Trougao obim.dll
+K:\ITOIP Relja\3 nedelja\Trougao obim\Trougao obim\obj\Debug\net8.0\Trougao obim.pdb
+K:\ITOIP Relja\3 nedelja\Trougao obim\Trougao obim\obj\Debug\net8.0\Trougao obim.genruntimeconfig.cache
+K:\ITOIP Relja\3 nedelja\Trougao obim\Trougao obim\obj\Debug\net8.0\ref\Trougao obim.dll

@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\ITOIP Relja\\3 nedelja\\trougao i metoda obim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{351A667B-21C4-478C-8919-2B61BBC924A6}|trougao i metoda obim\\trougao i metoda obim.csproj|k:\\itoip relja\\3 nedelja\\trougao i metoda obim\\trougao i metoda obim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351A667B-21C4-478C-8919-2B61BBC924A6}|trougao i metoda obim\\trougao i metoda obim.csproj|solutionrelative:trougao i metoda obim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351A667B-21C4-478C-8919-2B61BBC924A6}|trougao i metoda obim\\trougao i metoda obim.csproj|k:\\itoip relja\\3 nedelja\\trougao i metoda obim\\trougao i metoda obim\\trougao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351A667B-21C4-478C-8919-2B61BBC924A6}|trougao i metoda obim\\trougao i metoda obim.csproj|solutionrelative:trougao i metoda obim\\trougao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Trougao.cs",
+              "DocumentMoniker": "K:\\ITOIP Relja\\3 nedelja\\trougao i metoda obim\\trougao i metoda obim\\Trougao.cs",
+              "RelativeDocumentMoniker": "trougao i metoda obim\\Trougao.cs",
+              "ToolTip": "K:\\ITOIP Relja\\3 nedelja\\trougao i metoda obim\\trougao i metoda obim\\Trougao.cs",
+              "RelativeToolTip": "trougao i metoda obim\\Trougao.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowF8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T01:31:24.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "K:\\ITOIP Relja\\3 nedelja\\trougao i metoda obim\\trougao i metoda obim\\Program.cs",
+              "RelativeDocumentMoniker": "trougao i metoda obim\\Program.cs",
+              "ToolTip": "K:\\ITOIP Relja\\3 nedelja\\trougao i metoda obim\\trougao i metoda obim\\Program.cs",
+              "RelativeToolTip": "trougao i metoda obim\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T01:30:39.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

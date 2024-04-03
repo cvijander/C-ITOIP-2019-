@@ -1,0 +1,15 @@
+K:\ITOIP Relja\3 nedelja\Piramida reci sutro od proslog zadatka\Piramida reci sutro od proslog zadatka\bin\Debug\net8.0\Piramida reci sutro od proslog zadatka.exe
+K:\ITOIP Relja\3 nedelja\Piramida reci sutro od proslog zadatka\Piramida reci sutro od proslog zadatka\bin\Debug\net8.0\Piramida reci sutro od proslog zadatka.deps.json
+K:\ITOIP Relja\3 nedelja\Piramida reci sutro od proslog zadatka\Piramida reci sutro od proslog zadatka\bin\Debug\net8.0\Piramida reci sutro od proslog zadatka.runtimeconfig.json
+K:\ITOIP Relja\3 nedelja\Piramida reci sutro od proslog zadatka\Piramida reci sutro od proslog zadatka\bin\Debug\net8.0\Piramida reci sutro od proslog zadatka.dll
+K:\ITOIP Relja\3 nedelja\Piramida reci sutro od proslog zadatka\Piramida reci sutro od proslog zadatka\bin\Debug\net8.0\Piramida reci sutro od proslog zadatka.pdb
+K:\ITOIP Relja\3 nedelja\Piramida reci sutro od proslog zadatka\Piramida reci sutro od proslog zadatka\obj\Debug\net8.0\Piramida reci sutro od proslog zadatka.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\3 nedelja\Piramida reci sutro od proslog zadatka\Piramida reci sutro od proslog zadatka\obj\Debug\net8.0\Piramida reci sutro od proslog zadatka.AssemblyInfoInputs.cache
+K:\ITOIP Relja\3 nedelja\Piramida reci sutro od proslog zadatka\Piramida reci sutro od proslog zadatka\obj\Debug\net8.0\Piramida reci sutro od proslog zadatka.AssemblyInfo.cs
+K:\ITOIP Relja\3 nedelja\Piramida reci sutro od proslog zadatka\Piramida reci sutro od proslog zadatka\obj\Debug\net8.0\Piramida reci sutro od proslog zadatka.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\3 nedelja\Piramida reci sutro od proslog zadatka\Piramida reci sutro od proslog zadatka\obj\Debug\net8.0\Piramida reci sutro od proslog zadatka.sourcelink.json
+K:\ITOIP Relja\3 nedelja\Piramida reci sutro od proslog zadatka\Piramida reci sutro od proslog zadatka\obj\Debug\net8.0\Piramida reci sutro od proslog zadatka.dll
+K:\ITOIP Relja\3 nedelja\Piramida reci sutro od proslog zadatka\Piramida reci sutro od proslog zadatka\obj\Debug\net8.0\refint\Piramida reci sutro od proslog zadatka.dll
+K:\ITOIP Relja\3 nedelja\Piramida reci sutro od proslog zadatka\Piramida reci sutro od proslog zadatka\obj\Debug\net8.0\Piramida reci sutro od proslog zadatka.pdb
+K:\ITOIP Relja\3 nedelja\Piramida reci sutro od proslog zadatka\Piramida reci sutro od proslog zadatka\obj\Debug\net8.0\Piramida reci sutro od proslog zadatka.genruntimeconfig.cache
+K:\ITOIP Relja\3 nedelja\Piramida reci sutro od proslog zadatka\Piramida reci sutro od proslog zadatka\obj\Debug\net8.0\ref\Piramida reci sutro od proslog zadatka.dll

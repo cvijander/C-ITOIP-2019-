@@ -1,0 +1,15 @@
+K:\ITOIP Relja\3 nedelja\Kvadrat sa metodama\Kvadrat sa metodama\bin\Debug\net8.0\Kvadrat sa metodama.exe
+K:\ITOIP Relja\3 nedelja\Kvadrat sa metodama\Kvadrat sa metodama\bin\Debug\net8.0\Kvadrat sa metodama.deps.json
+K:\ITOIP Relja\3 nedelja\Kvadrat sa metodama\Kvadrat sa metodama\bin\Debug\net8.0\Kvadrat sa metodama.runtimeconfig.json
+K:\ITOIP Relja\3 nedelja\Kvadrat sa metodama\Kvadrat sa metodama\bin\Debug\net8.0\Kvadrat sa metodama.dll
+K:\ITOIP Relja\3 nedelja\Kvadrat sa metodama\Kvadrat sa metodama\bin\Debug\net8.0\Kvadrat sa metodama.pdb
+K:\ITOIP Relja\3 nedelja\Kvadrat sa metodama\Kvadrat sa metodama\obj\Debug\net8.0\Kvadrat sa metodama.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\3 nedelja\Kvadrat sa metodama\Kvadrat sa metodama\obj\Debug\net8.0\Kvadrat sa metodama.AssemblyInfoInputs.cache
+K:\ITOIP Relja\3 nedelja\Kvadrat sa metodama\Kvadrat sa metodama\obj\Debug\net8.0\Kvadrat sa metodama.AssemblyInfo.cs
+K:\ITOIP Relja\3 nedelja\Kvadrat sa metodama\Kvadrat sa metodama\obj\Debug\net8.0\Kvadrat sa metodama.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\3 nedelja\Kvadrat sa metodama\Kvadrat sa metodama\obj\Debug\net8.0\Kvadrat sa metodama.sourcelink.json
+K:\ITOIP Relja\3 nedelja\Kvadrat sa metodama\Kvadrat sa metodama\obj\Debug\net8.0\Kvadrat sa metodama.dll
+K:\ITOIP Relja\3 nedelja\Kvadrat sa metodama\Kvadrat sa metodama\obj\Debug\net8.0\refint\Kvadrat sa metodama.dll
+K:\ITOIP Relja\3 nedelja\Kvadrat sa metodama\Kvadrat sa metodama\obj\Debug\net8.0\Kvadrat sa metodama.pdb
+K:\ITOIP Relja\3 nedelja\Kvadrat sa metodama\Kvadrat sa metodama\obj\Debug\net8.0\Kvadrat sa metodama.genruntimeconfig.cache
+K:\ITOIP Relja\3 nedelja\Kvadrat sa metodama\Kvadrat sa metodama\obj\Debug\net8.0\ref\Kvadrat sa metodama.dll

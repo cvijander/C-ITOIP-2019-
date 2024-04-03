@@ -1,0 +1,15 @@
+K:\ITOIP Relja\3 nedelja\Od recenice pravi reci\Od recenice pravi reci\bin\Debug\net8.0\Od recenice pravi reci.exe
+K:\ITOIP Relja\3 nedelja\Od recenice pravi reci\Od recenice pravi reci\bin\Debug\net8.0\Od recenice pravi reci.deps.json
+K:\ITOIP Relja\3 nedelja\Od recenice pravi reci\Od recenice pravi reci\bin\Debug\net8.0\Od recenice pravi reci.runtimeconfig.json
+K:\ITOIP Relja\3 nedelja\Od recenice pravi reci\Od recenice pravi reci\bin\Debug\net8.0\Od recenice pravi reci.dll
+K:\ITOIP Relja\3 nedelja\Od recenice pravi reci\Od recenice pravi reci\bin\Debug\net8.0\Od recenice pravi reci.pdb
+K:\ITOIP Relja\3 nedelja\Od recenice pravi reci\Od recenice pravi reci\obj\Debug\net8.0\Od recenice pravi reci.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\3 nedelja\Od recenice pravi reci\Od recenice pravi reci\obj\Debug\net8.0\Od recenice pravi reci.AssemblyInfoInputs.cache
+K:\ITOIP Relja\3 nedelja\Od recenice pravi reci\Od recenice pravi reci\obj\Debug\net8.0\Od recenice pravi reci.AssemblyInfo.cs
+K:\ITOIP Relja\3 nedelja\Od recenice pravi reci\Od recenice pravi reci\obj\Debug\net8.0\Od recenice pravi reci.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\3 nedelja\Od recenice pravi reci\Od recenice pravi reci\obj\Debug\net8.0\Od recenice pravi reci.sourcelink.json
+K:\ITOIP Relja\3 nedelja\Od recenice pravi reci\Od recenice pravi reci\obj\Debug\net8.0\Od recenice pravi reci.dll
+K:\ITOIP Relja\3 nedelja\Od recenice pravi reci\Od recenice pravi reci\obj\Debug\net8.0\refint\Od recenice pravi reci.dll
+K:\ITOIP Relja\3 nedelja\Od recenice pravi reci\Od recenice pravi reci\obj\Debug\net8.0\Od recenice pravi reci.pdb
+K:\ITOIP Relja\3 nedelja\Od recenice pravi reci\Od recenice pravi reci\obj\Debug\net8.0\Od recenice pravi reci.genruntimeconfig.cache
+K:\ITOIP Relja\3 nedelja\Od recenice pravi reci\Od recenice pravi reci\obj\Debug\net8.0\ref\Od recenice pravi reci.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Piramida reci sutro od proslog zadatka/1.0.0": {
+        "runtime": {
+          "Piramida reci sutro od proslog zadatka.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Piramida reci sutro od proslog zadatka/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

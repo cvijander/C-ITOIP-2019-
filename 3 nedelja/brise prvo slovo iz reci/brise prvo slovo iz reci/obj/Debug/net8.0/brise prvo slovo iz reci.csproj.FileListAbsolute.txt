@@ -1,0 +1,15 @@
+K:\ITOIP Relja\3 nedelja\brise prvo slovo iz reci\brise prvo slovo iz reci\bin\Debug\net8.0\brise prvo slovo iz reci.exe
+K:\ITOIP Relja\3 nedelja\brise prvo slovo iz reci\brise prvo slovo iz reci\bin\Debug\net8.0\brise prvo slovo iz reci.deps.json
+K:\ITOIP Relja\3 nedelja\brise prvo slovo iz reci\brise prvo slovo iz reci\bin\Debug\net8.0\brise prvo slovo iz reci.runtimeconfig.json
+K:\ITOIP Relja\3 nedelja\brise prvo slovo iz reci\brise prvo slovo iz reci\bin\Debug\net8.0\brise prvo slovo iz reci.dll
+K:\ITOIP Relja\3 nedelja\brise prvo slovo iz reci\brise prvo slovo iz reci\bin\Debug\net8.0\brise prvo slovo iz reci.pdb
+K:\ITOIP Relja\3 nedelja\brise prvo slovo iz reci\brise prvo slovo iz reci\obj\Debug\net8.0\brise prvo slovo iz reci.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\3 nedelja\brise prvo slovo iz reci\brise prvo slovo iz reci\obj\Debug\net8.0\brise prvo slovo iz reci.AssemblyInfoInputs.cache
+K:\ITOIP Relja\3 nedelja\brise prvo slovo iz reci\brise prvo slovo iz reci\obj\Debug\net8.0\brise prvo slovo iz reci.AssemblyInfo.cs
+K:\ITOIP Relja\3 nedelja\brise prvo slovo iz reci\brise prvo slovo iz reci\obj\Debug\net8.0\brise prvo slovo iz reci.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\3 nedelja\brise prvo slovo iz reci\brise prvo slovo iz reci\obj\Debug\net8.0\brise prvo slovo iz reci.sourcelink.json
+K:\ITOIP Relja\3 nedelja\brise prvo slovo iz reci\brise prvo slovo iz reci\obj\Debug\net8.0\brise prvo slovo iz reci.dll
+K:\ITOIP Relja\3 nedelja\brise prvo slovo iz reci\brise prvo slovo iz reci\obj\Debug\net8.0\refint\brise prvo slovo iz reci.dll
+K:\ITOIP Relja\3 nedelja\brise prvo slovo iz reci\brise prvo slovo iz reci\obj\Debug\net8.0\brise prvo slovo iz reci.pdb
+K:\ITOIP Relja\3 nedelja\brise prvo slovo iz reci\brise prvo slovo iz reci\obj\Debug\net8.0\brise prvo slovo iz reci.genruntimeconfig.cache
+K:\ITOIP Relja\3 nedelja\brise prvo slovo iz reci\brise prvo slovo iz reci\obj\Debug\net8.0\ref\brise prvo slovo iz reci.dll

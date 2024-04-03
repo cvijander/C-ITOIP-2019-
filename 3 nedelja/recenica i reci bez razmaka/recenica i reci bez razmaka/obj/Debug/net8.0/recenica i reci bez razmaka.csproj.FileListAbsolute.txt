@@ -1,0 +1,15 @@
+K:\ITOIP Relja\3 nedelja\recenica i reci bez razmaka\recenica i reci bez razmaka\bin\Debug\net8.0\recenica i reci bez razmaka.exe
+K:\ITOIP Relja\3 nedelja\recenica i reci bez razmaka\recenica i reci bez razmaka\bin\Debug\net8.0\recenica i reci bez razmaka.deps.json
+K:\ITOIP Relja\3 nedelja\recenica i reci bez razmaka\recenica i reci bez razmaka\bin\Debug\net8.0\recenica i reci bez razmaka.runtimeconfig.json
+K:\ITOIP Relja\3 nedelja\recenica i reci bez razmaka\recenica i reci bez razmaka\bin\Debug\net8.0\recenica i reci bez razmaka.dll
+K:\ITOIP Relja\3 nedelja\recenica i reci bez razmaka\recenica i reci bez razmaka\bin\Debug\net8.0\recenica i reci bez razmaka.pdb
+K:\ITOIP Relja\3 nedelja\recenica i reci bez razmaka\recenica i reci bez razmaka\obj\Debug\net8.0\recenica i reci bez razmaka.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\3 nedelja\recenica i reci bez razmaka\recenica i reci bez razmaka\obj\Debug\net8.0\recenica i reci bez razmaka.AssemblyInfoInputs.cache
+K:\ITOIP Relja\3 nedelja\recenica i reci bez razmaka\recenica i reci bez razmaka\obj\Debug\net8.0\recenica i reci bez razmaka.AssemblyInfo.cs
+K:\ITOIP Relja\3 nedelja\recenica i reci bez razmaka\recenica i reci bez razmaka\obj\Debug\net8.0\recenica i reci bez razmaka.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\3 nedelja\recenica i reci bez razmaka\recenica i reci bez razmaka\obj\Debug\net8.0\recenica i reci bez razmaka.sourcelink.json
+K:\ITOIP Relja\3 nedelja\recenica i reci bez razmaka\recenica i reci bez razmaka\obj\Debug\net8.0\recenica i reci bez razmaka.dll
+K:\ITOIP Relja\3 nedelja\recenica i reci bez razmaka\recenica i reci bez razmaka\obj\Debug\net8.0\refint\recenica i reci bez razmaka.dll
+K:\ITOIP Relja\3 nedelja\recenica i reci bez razmaka\recenica i reci bez razmaka\obj\Debug\net8.0\recenica i reci bez razmaka.pdb
+K:\ITOIP Relja\3 nedelja\recenica i reci bez razmaka\recenica i reci bez razmaka\obj\Debug\net8.0\recenica i reci bez razmaka.genruntimeconfig.cache
+K:\ITOIP Relja\3 nedelja\recenica i reci bez razmaka\recenica i reci bez razmaka\obj\Debug\net8.0\ref\recenica i reci bez razmaka.dll

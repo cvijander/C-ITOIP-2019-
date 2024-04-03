@@ -1,0 +1,15 @@
+K:\ITOIP Relja\3 nedelja\trougao i metoda obim\trougao i metoda obim\bin\Debug\net8.0\trougao i metoda obim.exe
+K:\ITOIP Relja\3 nedelja\trougao i metoda obim\trougao i metoda obim\bin\Debug\net8.0\trougao i metoda obim.deps.json
+K:\ITOIP Relja\3 nedelja\trougao i metoda obim\trougao i metoda obim\bin\Debug\net8.0\trougao i metoda obim.runtimeconfig.json
+K:\ITOIP Relja\3 nedelja\trougao i metoda obim\trougao i metoda obim\bin\Debug\net8.0\trougao i metoda obim.dll
+K:\ITOIP Relja\3 nedelja\trougao i metoda obim\trougao i metoda obim\bin\Debug\net8.0\trougao i metoda obim.pdb
+K:\ITOIP Relja\3 nedelja\trougao i metoda obim\trougao i metoda obim\obj\Debug\net8.0\trougao i metoda obim.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\3 nedelja\trougao i metoda obim\trougao i metoda obim\obj\Debug\net8.0\trougao i metoda obim.AssemblyInfoInputs.cache
+K:\ITOIP Relja\3 nedelja\trougao i metoda obim\trougao i metoda obim\obj\Debug\net8.0\trougao i metoda obim.AssemblyInfo.cs
+K:\ITOIP Relja\3 nedelja\trougao i metoda obim\trougao i metoda obim\obj\Debug\net8.0\trougao i metoda obim.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\3 nedelja\trougao i metoda obim\trougao i metoda obim\obj\Debug\net8.0\trougao i metoda obim.sourcelink.json
+K:\ITOIP Relja\3 nedelja\trougao i metoda obim\trougao i metoda obim\obj\Debug\net8.0\trougao i metoda obim.dll
+K:\ITOIP Relja\3 nedelja\trougao i metoda obim\trougao i metoda obim\obj\Debug\net8.0\refint\trougao i metoda obim.dll
+K:\ITOIP Relja\3 nedelja\trougao i metoda obim\trougao i metoda obim\obj\Debug\net8.0\trougao i metoda obim.pdb
+K:\ITOIP Relja\3 nedelja\trougao i metoda obim\trougao i metoda obim\obj\Debug\net8.0\trougao i metoda obim.genruntimeconfig.cache
+K:\ITOIP Relja\3 nedelja\trougao i metoda obim\trougao i metoda obim\obj\Debug\net8.0\ref\trougao i metoda obim.dll

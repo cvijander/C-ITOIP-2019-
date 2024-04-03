@@ -1,0 +1,15 @@
+K:\ITOIP Relja\3 nedelja\Trougao od reci\Trougao od reci\bin\Debug\net8.0\Trougao od reci.exe
+K:\ITOIP Relja\3 nedelja\Trougao od reci\Trougao od reci\bin\Debug\net8.0\Trougao od reci.deps.json
+K:\ITOIP Relja\3 nedelja\Trougao od reci\Trougao od reci\bin\Debug\net8.0\Trougao od reci.runtimeconfig.json
+K:\ITOIP Relja\3 nedelja\Trougao od reci\Trougao od reci\bin\Debug\net8.0\Trougao od reci.dll
+K:\ITOIP Relja\3 nedelja\Trougao od reci\Trougao od reci\bin\Debug\net8.0\Trougao od reci.pdb
+K:\ITOIP Relja\3 nedelja\Trougao od reci\Trougao od reci\obj\Debug\net8.0\Trougao od reci.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\3 nedelja\Trougao od reci\Trougao od reci\obj\Debug\net8.0\Trougao od reci.AssemblyInfoInputs.cache
+K:\ITOIP Relja\3 nedelja\Trougao od reci\Trougao od reci\obj\Debug\net8.0\Trougao od reci.AssemblyInfo.cs
+K:\ITOIP Relja\3 nedelja\Trougao od reci\Trougao od reci\obj\Debug\net8.0\Trougao od reci.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\3 nedelja\Trougao od reci\Trougao od reci\obj\Debug\net8.0\Trougao od reci.sourcelink.json
+K:\ITOIP Relja\3 nedelja\Trougao od reci\Trougao od reci\obj\Debug\net8.0\Trougao od reci.dll
+K:\ITOIP Relja\3 nedelja\Trougao od reci\Trougao od reci\obj\Debug\net8.0\refint\Trougao od reci.dll
+K:\ITOIP Relja\3 nedelja\Trougao od reci\Trougao od reci\obj\Debug\net8.0\Trougao od reci.pdb
+K:\ITOIP Relja\3 nedelja\Trougao od reci\Trougao od reci\obj\Debug\net8.0\Trougao od reci.genruntimeconfig.cache
+K:\ITOIP Relja\3 nedelja\Trougao od reci\Trougao od reci\obj\Debug\net8.0\ref\Trougao od reci.dll

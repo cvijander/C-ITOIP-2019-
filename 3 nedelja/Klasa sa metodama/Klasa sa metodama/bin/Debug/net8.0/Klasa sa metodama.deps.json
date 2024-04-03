@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Klasa sa metodama/1.0.0": {
+        "runtime": {
+          "Klasa sa metodama.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Klasa sa metodama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

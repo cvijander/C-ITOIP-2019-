@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Redni dan u tekst i obrnuto/1.0.0": {
+        "runtime": {
+          "Redni dan u tekst i obrnuto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Redni dan u tekst i obrnuto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

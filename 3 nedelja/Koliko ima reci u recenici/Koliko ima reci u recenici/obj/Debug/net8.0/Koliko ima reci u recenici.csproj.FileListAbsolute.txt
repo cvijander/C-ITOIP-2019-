@@ -1,0 +1,15 @@
+K:\ITOIP Relja\3 nedelja\Koliko ima reci u recenici\Koliko ima reci u recenici\bin\Debug\net8.0\Koliko ima reci u recenici.exe
+K:\ITOIP Relja\3 nedelja\Koliko ima reci u recenici\Koliko ima reci u recenici\bin\Debug\net8.0\Koliko ima reci u recenici.deps.json
+K:\ITOIP Relja\3 nedelja\Koliko ima reci u recenici\Koliko ima reci u recenici\bin\Debug\net8.0\Koliko ima reci u recenici.runtimeconfig.json
+K:\ITOIP Relja\3 nedelja\Koliko ima reci u recenici\Koliko ima reci u recenici\bin\Debug\net8.0\Koliko ima reci u recenici.dll
+K:\ITOIP Relja\3 nedelja\Koliko ima reci u recenici\Koliko ima reci u recenici\bin\Debug\net8.0\Koliko ima reci u recenici.pdb
+K:\ITOIP Relja\3 nedelja\Koliko ima reci u recenici\Koliko ima reci u recenici\obj\Debug\net8.0\Koliko ima reci u recenici.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\3 nedelja\Koliko ima reci u recenici\Koliko ima reci u recenici\obj\Debug\net8.0\Koliko ima reci u recenici.AssemblyInfoInputs.cache
+K:\ITOIP Relja\3 nedelja\Koliko ima reci u recenici\Koliko ima reci u recenici\obj\Debug\net8.0\Koliko ima reci u recenici.AssemblyInfo.cs
+K:\ITOIP Relja\3 nedelja\Koliko ima reci u recenici\Koliko ima reci u recenici\obj\Debug\net8.0\Koliko ima reci u recenici.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\3 nedelja\Koliko ima reci u recenici\Koliko ima reci u recenici\obj\Debug\net8.0\Koliko ima reci u recenici.sourcelink.json
+K:\ITOIP Relja\3 nedelja\Koliko ima reci u recenici\Koliko ima reci u recenici\obj\Debug\net8.0\Koliko ima reci u recenici.dll
+K:\ITOIP Relja\3 nedelja\Koliko ima reci u recenici\Koliko ima reci u recenici\obj\Debug\net8.0\refint\Koliko ima reci u recenici.dll
+K:\ITOIP Relja\3 nedelja\Koliko ima reci u recenici\Koliko ima reci u recenici\obj\Debug\net8.0\Koliko ima reci u recenici.pdb
+K:\ITOIP Relja\3 nedelja\Koliko ima reci u recenici\Koliko ima reci u recenici\obj\Debug\net8.0\Koliko ima reci u recenici.genruntimeconfig.cache
+K:\ITOIP Relja\3 nedelja\Koliko ima reci u recenici\Koliko ima reci u recenici\obj\Debug\net8.0\ref\Koliko ima reci u recenici.dll

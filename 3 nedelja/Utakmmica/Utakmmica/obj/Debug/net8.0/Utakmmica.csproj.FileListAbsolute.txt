@@ -1,0 +1,15 @@
+K:\ITOIP Relja\3 nedelja\Utakmmica\Utakmmica\bin\Debug\net8.0\Utakmmica.exe
+K:\ITOIP Relja\3 nedelja\Utakmmica\Utakmmica\bin\Debug\net8.0\Utakmmica.deps.json
+K:\ITOIP Relja\3 nedelja\Utakmmica\Utakmmica\bin\Debug\net8.0\Utakmmica.runtimeconfig.json
+K:\ITOIP Relja\3 nedelja\Utakmmica\Utakmmica\bin\Debug\net8.0\Utakmmica.dll
+K:\ITOIP Relja\3 nedelja\Utakmmica\Utakmmica\bin\Debug\net8.0\Utakmmica.pdb
+K:\ITOIP Relja\3 nedelja\Utakmmica\Utakmmica\obj\Debug\net8.0\Utakmmica.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\3 nedelja\Utakmmica\Utakmmica\obj\Debug\net8.0\Utakmmica.AssemblyInfoInputs.cache
+K:\ITOIP Relja\3 nedelja\Utakmmica\Utakmmica\obj\Debug\net8.0\Utakmmica.AssemblyInfo.cs
+K:\ITOIP Relja\3 nedelja\Utakmmica\Utakmmica\obj\Debug\net8.0\Utakmmica.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\3 nedelja\Utakmmica\Utakmmica\obj\Debug\net8.0\Utakmmica.sourcelink.json
+K:\ITOIP Relja\3 nedelja\Utakmmica\Utakmmica\obj\Debug\net8.0\Utakmmica.dll
+K:\ITOIP Relja\3 nedelja\Utakmmica\Utakmmica\obj\Debug\net8.0\refint\Utakmmica.dll
+K:\ITOIP Relja\3 nedelja\Utakmmica\Utakmmica\obj\Debug\net8.0\Utakmmica.pdb
+K:\ITOIP Relja\3 nedelja\Utakmmica\Utakmmica\obj\Debug\net8.0\Utakmmica.genruntimeconfig.cache
+K:\ITOIP Relja\3 nedelja\Utakmmica\Utakmmica\obj\Debug\net8.0\ref\Utakmmica.dll

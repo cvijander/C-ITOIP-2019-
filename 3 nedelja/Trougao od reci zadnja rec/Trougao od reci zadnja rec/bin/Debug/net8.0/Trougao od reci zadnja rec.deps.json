@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Trougao od reci zadnja rec/1.0.0": {
+        "runtime": {
+          "Trougao od reci zadnja rec.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Trougao od reci zadnja rec/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

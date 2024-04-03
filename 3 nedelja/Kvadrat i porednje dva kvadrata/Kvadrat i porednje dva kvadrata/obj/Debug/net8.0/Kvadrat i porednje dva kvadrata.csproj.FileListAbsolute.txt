@@ -1,0 +1,15 @@
+K:\ITOIP Relja\3 nedelja\Kvadrat i porednje dva kvadrata\Kvadrat i porednje dva kvadrata\bin\Debug\net8.0\Kvadrat i porednje dva kvadrata.exe
+K:\ITOIP Relja\3 nedelja\Kvadrat i porednje dva kvadrata\Kvadrat i porednje dva kvadrata\bin\Debug\net8.0\Kvadrat i porednje dva kvadrata.deps.json
+K:\ITOIP Relja\3 nedelja\Kvadrat i porednje dva kvadrata\Kvadrat i porednje dva kvadrata\bin\Debug\net8.0\Kvadrat i porednje dva kvadrata.runtimeconfig.json
+K:\ITOIP Relja\3 nedelja\Kvadrat i porednje dva kvadrata\Kvadrat i porednje dva kvadrata\bin\Debug\net8.0\Kvadrat i porednje dva kvadrata.dll
+K:\ITOIP Relja\3 nedelja\Kvadrat i porednje dva kvadrata\Kvadrat i porednje dva kvadrata\bin\Debug\net8.0\Kvadrat i porednje dva kvadrata.pdb
+K:\ITOIP Relja\3 nedelja\Kvadrat i porednje dva kvadrata\Kvadrat i porednje dva kvadrata\obj\Debug\net8.0\Kvadrat i porednje dva kvadrata.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\3 nedelja\Kvadrat i porednje dva kvadrata\Kvadrat i porednje dva kvadrata\obj\Debug\net8.0\Kvadrat i porednje dva kvadrata.AssemblyInfoInputs.cache
+K:\ITOIP Relja\3 nedelja\Kvadrat i porednje dva kvadrata\Kvadrat i porednje dva kvadrata\obj\Debug\net8.0\Kvadrat i porednje dva kvadrata.AssemblyInfo.cs
+K:\ITOIP Relja\3 nedelja\Kvadrat i porednje dva kvadrata\Kvadrat i porednje dva kvadrata\obj\Debug\net8.0\Kvadrat i porednje dva kvadrata.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\3 nedelja\Kvadrat i porednje dva kvadrata\Kvadrat i porednje dva kvadrata\obj\Debug\net8.0\Kvadrat i porednje dva kvadrata.sourcelink.json
+K:\ITOIP Relja\3 nedelja\Kvadrat i porednje dva kvadrata\Kvadrat i porednje dva kvadrata\obj\Debug\net8.0\Kvadrat i porednje dva kvadrata.dll
+K:\ITOIP Relja\3 nedelja\Kvadrat i porednje dva kvadrata\Kvadrat i porednje dva kvadrata\obj\Debug\net8.0\refint\Kvadrat i porednje dva kvadrata.dll
+K:\ITOIP Relja\3 nedelja\Kvadrat i porednje dva kvadrata\Kvadrat i porednje dva kvadrata\obj\Debug\net8.0\Kvadrat i porednje dva kvadrata.pdb
+K:\ITOIP Relja\3 nedelja\Kvadrat i porednje dva kvadrata\Kvadrat i porednje dva kvadrata\obj\Debug\net8.0\Kvadrat i porednje dva kvadrata.genruntimeconfig.cache
+K:\ITOIP Relja\3 nedelja\Kvadrat i porednje dva kvadrata\Kvadrat i porednje dva kvadrata\obj\Debug\net8.0\ref\Kvadrat i porednje dva kvadrata.dll

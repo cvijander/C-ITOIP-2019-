@@ -1,0 +1,15 @@
+K:\ITOIP Relja\3 nedelja\5 trouglova\5 trouglova\bin\Debug\net8.0\5 trouglova.exe
+K:\ITOIP Relja\3 nedelja\5 trouglova\5 trouglova\bin\Debug\net8.0\5 trouglova.deps.json
+K:\ITOIP Relja\3 nedelja\5 trouglova\5 trouglova\bin\Debug\net8.0\5 trouglova.runtimeconfig.json
+K:\ITOIP Relja\3 nedelja\5 trouglova\5 trouglova\bin\Debug\net8.0\5 trouglova.dll
+K:\ITOIP Relja\3 nedelja\5 trouglova\5 trouglova\bin\Debug\net8.0\5 trouglova.pdb
+K:\ITOIP Relja\3 nedelja\5 trouglova\5 trouglova\obj\Debug\net8.0\5 trouglova.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\3 nedelja\5 trouglova\5 trouglova\obj\Debug\net8.0\5 trouglova.AssemblyInfoInputs.cache
+K:\ITOIP Relja\3 nedelja\5 trouglova\5 trouglova\obj\Debug\net8.0\5 trouglova.AssemblyInfo.cs
+K:\ITOIP Relja\3 nedelja\5 trouglova\5 trouglova\obj\Debug\net8.0\5 trouglova.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\3 nedelja\5 trouglova\5 trouglova\obj\Debug\net8.0\5 trouglova.sourcelink.json
+K:\ITOIP Relja\3 nedelja\5 trouglova\5 trouglova\obj\Debug\net8.0\5 trouglova.dll
+K:\ITOIP Relja\3 nedelja\5 trouglova\5 trouglova\obj\Debug\net8.0\refint\5 trouglova.dll
+K:\ITOIP Relja\3 nedelja\5 trouglova\5 trouglova\obj\Debug\net8.0\5 trouglova.pdb
+K:\ITOIP Relja\3 nedelja\5 trouglova\5 trouglova\obj\Debug\net8.0\5 trouglova.genruntimeconfig.cache
+K:\ITOIP Relja\3 nedelja\5 trouglova\5 trouglova\obj\Debug\net8.0\ref\5 trouglova.dll

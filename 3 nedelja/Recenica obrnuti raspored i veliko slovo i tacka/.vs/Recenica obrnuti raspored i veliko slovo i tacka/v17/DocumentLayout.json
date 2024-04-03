@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\ITOIP Relja\\3 nedelja\\Recenica obrnuti raspored i veliko slovo i tacka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF0D902-C795-45D1-A004-DDEC9C45C98E}|Recenica obrnuti raspored i veliko slovo i tacka\\Recenica obrnuti raspored i veliko slovo i tacka.csproj|k:\\itoip relja\\3 nedelja\\recenica obrnuti raspored i veliko slovo i tacka\\recenica obrnuti raspored i veliko slovo i tacka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAF0D902-C795-45D1-A004-DDEC9C45C98E}|Recenica obrnuti raspored i veliko slovo i tacka\\Recenica obrnuti raspored i veliko slovo i tacka.csproj|solutionrelative:recenica obrnuti raspored i veliko slovo i tacka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "K:\\ITOIP Relja\\3 nedelja\\Recenica obrnuti raspored i veliko slovo i tacka\\Recenica obrnuti raspored i veliko slovo i tacka\\Program.cs",
+              "RelativeDocumentMoniker": "Recenica obrnuti raspored i veliko slovo i tacka\\Program.cs",
+              "ToolTip": "K:\\ITOIP Relja\\3 nedelja\\Recenica obrnuti raspored i veliko slovo i tacka\\Recenica obrnuti raspored i veliko slovo i tacka\\Program.cs",
+              "RelativeToolTip": "Recenica obrnuti raspored i veliko slovo i tacka\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T18:31:41.754Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

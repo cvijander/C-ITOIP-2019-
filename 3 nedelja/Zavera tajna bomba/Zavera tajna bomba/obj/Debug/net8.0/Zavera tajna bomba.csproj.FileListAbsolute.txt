@@ -1,0 +1,15 @@
+K:\ITOIP Relja\3 nedelja\Zavera tajna bomba\Zavera tajna bomba\bin\Debug\net8.0\Zavera tajna bomba.exe
+K:\ITOIP Relja\3 nedelja\Zavera tajna bomba\Zavera tajna bomba\bin\Debug\net8.0\Zavera tajna bomba.deps.json
+K:\ITOIP Relja\3 nedelja\Zavera tajna bomba\Zavera tajna bomba\bin\Debug\net8.0\Zavera tajna bomba.runtimeconfig.json
+K:\ITOIP Relja\3 nedelja\Zavera tajna bomba\Zavera tajna bomba\bin\Debug\net8.0\Zavera tajna bomba.dll
+K:\ITOIP Relja\3 nedelja\Zavera tajna bomba\Zavera tajna bomba\bin\Debug\net8.0\Zavera tajna bomba.pdb
+K:\ITOIP Relja\3 nedelja\Zavera tajna bomba\Zavera tajna bomba\obj\Debug\net8.0\Zavera tajna bomba.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\3 nedelja\Zavera tajna bomba\Zavera tajna bomba\obj\Debug\net8.0\Zavera tajna bomba.AssemblyInfoInputs.cache
+K:\ITOIP Relja\3 nedelja\Zavera tajna bomba\Zavera tajna bomba\obj\Debug\net8.0\Zavera tajna bomba.AssemblyInfo.cs
+K:\ITOIP Relja\3 nedelja\Zavera tajna bomba\Zavera tajna bomba\obj\Debug\net8.0\Zavera tajna bomba.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\3 nedelja\Zavera tajna bomba\Zavera tajna bomba\obj\Debug\net8.0\Zavera tajna bomba.sourcelink.json
+K:\ITOIP Relja\3 nedelja\Zavera tajna bomba\Zavera tajna bomba\obj\Debug\net8.0\Zavera tajna bomba.dll
+K:\ITOIP Relja\3 nedelja\Zavera tajna bomba\Zavera tajna bomba\obj\Debug\net8.0\refint\Zavera tajna bomba.dll
+K:\ITOIP Relja\3 nedelja\Zavera tajna bomba\Zavera tajna bomba\obj\Debug\net8.0\Zavera tajna bomba.pdb
+K:\ITOIP Relja\3 nedelja\Zavera tajna bomba\Zavera tajna bomba\obj\Debug\net8.0\Zavera tajna bomba.genruntimeconfig.cache
+K:\ITOIP Relja\3 nedelja\Zavera tajna bomba\Zavera tajna bomba\obj\Debug\net8.0\ref\Zavera tajna bomba.dll

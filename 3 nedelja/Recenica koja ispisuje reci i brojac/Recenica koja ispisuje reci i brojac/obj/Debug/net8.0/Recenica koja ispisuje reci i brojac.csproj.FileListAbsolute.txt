@@ -1,0 +1,15 @@
+K:\ITOIP Relja\3 nedelja\Recenica koja ispisuje reci i brojac\Recenica koja ispisuje reci i brojac\bin\Debug\net8.0\Recenica koja ispisuje reci i brojac.exe
+K:\ITOIP Relja\3 nedelja\Recenica koja ispisuje reci i brojac\Recenica koja ispisuje reci i brojac\bin\Debug\net8.0\Recenica koja ispisuje reci i brojac.deps.json
+K:\ITOIP Relja\3 nedelja\Recenica koja ispisuje reci i brojac\Recenica koja ispisuje reci i brojac\bin\Debug\net8.0\Recenica koja ispisuje reci i brojac.runtimeconfig.json
+K:\ITOIP Relja\3 nedelja\Recenica koja ispisuje reci i brojac\Recenica koja ispisuje reci i brojac\bin\Debug\net8.0\Recenica koja ispisuje reci i brojac.dll
+K:\ITOIP Relja\3 nedelja\Recenica koja ispisuje reci i brojac\Recenica koja ispisuje reci i brojac\bin\Debug\net8.0\Recenica koja ispisuje reci i brojac.pdb
+K:\ITOIP Relja\3 nedelja\Recenica koja ispisuje reci i brojac\Recenica koja ispisuje reci i brojac\obj\Debug\net8.0\Recenica koja ispisuje reci i brojac.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\3 nedelja\Recenica koja ispisuje reci i brojac\Recenica koja ispisuje reci i brojac\obj\Debug\net8.0\Recenica koja ispisuje reci i brojac.AssemblyInfoInputs.cache
+K:\ITOIP Relja\3 nedelja\Recenica koja ispisuje reci i brojac\Recenica koja ispisuje reci i brojac\obj\Debug\net8.0\Recenica koja ispisuje reci i brojac.AssemblyInfo.cs
+K:\ITOIP Relja\3 nedelja\Recenica koja ispisuje reci i brojac\Recenica koja ispisuje reci i brojac\obj\Debug\net8.0\Recenica koja ispisuje reci i brojac.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\3 nedelja\Recenica koja ispisuje reci i brojac\Recenica koja ispisuje reci i brojac\obj\Debug\net8.0\Recenica koja ispisuje reci i brojac.sourcelink.json
+K:\ITOIP Relja\3 nedelja\Recenica koja ispisuje reci i brojac\Recenica koja ispisuje reci i brojac\obj\Debug\net8.0\Recenica koja ispisuje reci i brojac.dll
+K:\ITOIP Relja\3 nedelja\Recenica koja ispisuje reci i brojac\Recenica koja ispisuje reci i brojac\obj\Debug\net8.0\refint\Recenica koja ispisuje reci i brojac.dll
+K:\ITOIP Relja\3 nedelja\Recenica koja ispisuje reci i brojac\Recenica koja ispisuje reci i brojac\obj\Debug\net8.0\Recenica koja ispisuje reci i brojac.pdb
+K:\ITOIP Relja\3 nedelja\Recenica koja ispisuje reci i brojac\Recenica koja ispisuje reci i brojac\obj\Debug\net8.0\Recenica koja ispisuje reci i brojac.genruntimeconfig.cache
+K:\ITOIP Relja\3 nedelja\Recenica koja ispisuje reci i brojac\Recenica koja ispisuje reci i brojac\obj\Debug\net8.0\ref\Recenica koja ispisuje reci i brojac.dll

@@ -1,0 +1,15 @@
+K:\ITOIP Relja\3 nedelja\pet kljucnih reci\pet kljucnih reci\bin\Debug\net8.0\pet kljucnih reci.exe
+K:\ITOIP Relja\3 nedelja\pet kljucnih reci\pet kljucnih reci\bin\Debug\net8.0\pet kljucnih reci.deps.json
+K:\ITOIP Relja\3 nedelja\pet kljucnih reci\pet kljucnih reci\bin\Debug\net8.0\pet kljucnih reci.runtimeconfig.json
+K:\ITOIP Relja\3 nedelja\pet kljucnih reci\pet kljucnih reci\bin\Debug\net8.0\pet kljucnih reci.dll
+K:\ITOIP Relja\3 nedelja\pet kljucnih reci\pet kljucnih reci\bin\Debug\net8.0\pet kljucnih reci.pdb
+K:\ITOIP Relja\3 nedelja\pet kljucnih reci\pet kljucnih reci\obj\Debug\net8.0\pet kljucnih reci.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\3 nedelja\pet kljucnih reci\pet kljucnih reci\obj\Debug\net8.0\pet kljucnih reci.AssemblyInfoInputs.cache
+K:\ITOIP Relja\3 nedelja\pet kljucnih reci\pet kljucnih reci\obj\Debug\net8.0\pet kljucnih reci.AssemblyInfo.cs
+K:\ITOIP Relja\3 nedelja\pet kljucnih reci\pet kljucnih reci\obj\Debug\net8.0\pet kljucnih reci.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\3 nedelja\pet kljucnih reci\pet kljucnih reci\obj\Debug\net8.0\pet kljucnih reci.sourcelink.json
+K:\ITOIP Relja\3 nedelja\pet kljucnih reci\pet kljucnih reci\obj\Debug\net8.0\pet kljucnih reci.dll
+K:\ITOIP Relja\3 nedelja\pet kljucnih reci\pet kljucnih reci\obj\Debug\net8.0\refint\pet kljucnih reci.dll
+K:\ITOIP Relja\3 nedelja\pet kljucnih reci\pet kljucnih reci\obj\Debug\net8.0\pet kljucnih reci.pdb
+K:\ITOIP Relja\3 nedelja\pet kljucnih reci\pet kljucnih reci\obj\Debug\net8.0\pet kljucnih reci.genruntimeconfig.cache
+K:\ITOIP Relja\3 nedelja\pet kljucnih reci\pet kljucnih reci\obj\Debug\net8.0\ref\pet kljucnih reci.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trougao ispravnost", "Trougao ispravnost\Trougao ispravnost.csproj", "{0DC96EF6-966C-4250-A0C8-E331FD4CAE83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DC96EF6-966C-4250-A0C8-E331FD4CAE83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DC96EF6-966C-4250-A0C8-E331FD4CAE83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DC96EF6-966C-4250-A0C8-E331FD4CAE83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DC96EF6-966C-4250-A0C8-E331FD4CAE83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {008CBBAC-B033-4817-B07B-A6F5C6E9DF0D}
+	EndGlobalSection
+EndGlobal

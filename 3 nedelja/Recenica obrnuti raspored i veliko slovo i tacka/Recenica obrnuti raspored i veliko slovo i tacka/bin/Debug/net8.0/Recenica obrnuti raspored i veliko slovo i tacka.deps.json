@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Recenica obrnuti raspored i veliko slovo i tacka/1.0.0": {
+        "runtime": {
+          "Recenica obrnuti raspored i veliko slovo i tacka.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Recenica obrnuti raspored i veliko slovo i tacka/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

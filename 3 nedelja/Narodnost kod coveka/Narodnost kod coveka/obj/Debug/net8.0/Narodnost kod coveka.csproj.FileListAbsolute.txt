@@ -1,0 +1,15 @@
+K:\ITOIP Relja\3 nedelja\Narodnost kod coveka\Narodnost kod coveka\bin\Debug\net8.0\Narodnost kod coveka.exe
+K:\ITOIP Relja\3 nedelja\Narodnost kod coveka\Narodnost kod coveka\bin\Debug\net8.0\Narodnost kod coveka.deps.json
+K:\ITOIP Relja\3 nedelja\Narodnost kod coveka\Narodnost kod coveka\bin\Debug\net8.0\Narodnost kod coveka.runtimeconfig.json
+K:\ITOIP Relja\3 nedelja\Narodnost kod coveka\Narodnost kod coveka\bin\Debug\net8.0\Narodnost kod coveka.dll
+K:\ITOIP Relja\3 nedelja\Narodnost kod coveka\Narodnost kod coveka\bin\Debug\net8.0\Narodnost kod coveka.pdb
+K:\ITOIP Relja\3 nedelja\Narodnost kod coveka\Narodnost kod coveka\obj\Debug\net8.0\Narodnost kod coveka.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\3 nedelja\Narodnost kod coveka\Narodnost kod coveka\obj\Debug\net8.0\Narodnost kod coveka.AssemblyInfoInputs.cache
+K:\ITOIP Relja\3 nedelja\Narodnost kod coveka\Narodnost kod coveka\obj\Debug\net8.0\Narodnost kod coveka.AssemblyInfo.cs
+K:\ITOIP Relja\3 nedelja\Narodnost kod coveka\Narodnost kod coveka\obj\Debug\net8.0\Narodnost kod coveka.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\3 nedelja\Narodnost kod coveka\Narodnost kod coveka\obj\Debug\net8.0\Narodnost kod coveka.sourcelink.json
+K:\ITOIP Relja\3 nedelja\Narodnost kod coveka\Narodnost kod coveka\obj\Debug\net8.0\Narodnost kod coveka.dll
+K:\ITOIP Relja\3 nedelja\Narodnost kod coveka\Narodnost kod coveka\obj\Debug\net8.0\refint\Narodnost kod coveka.dll
+K:\ITOIP Relja\3 nedelja\Narodnost kod coveka\Narodnost kod coveka\obj\Debug\net8.0\Narodnost kod coveka.pdb
+K:\ITOIP Relja\3 nedelja\Narodnost kod coveka\Narodnost kod coveka\obj\Debug\net8.0\Narodnost kod coveka.genruntimeconfig.cache
+K:\ITOIP Relja\3 nedelja\Narodnost kod coveka\Narodnost kod coveka\obj\Debug\net8.0\ref\Narodnost kod coveka.dll

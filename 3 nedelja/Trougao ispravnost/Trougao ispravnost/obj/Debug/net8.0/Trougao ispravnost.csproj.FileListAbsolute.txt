@@ -1,0 +1,15 @@
+K:\ITOIP Relja\3 nedelja\Trougao ispravnost\Trougao ispravnost\bin\Debug\net8.0\Trougao ispravnost.exe
+K:\ITOIP Relja\3 nedelja\Trougao ispravnost\Trougao ispravnost\bin\Debug\net8.0\Trougao ispravnost.deps.json
+K:\ITOIP Relja\3 nedelja\Trougao ispravnost\Trougao ispravnost\bin\Debug\net8.0\Trougao ispravnost.runtimeconfig.json
+K:\ITOIP Relja\3 nedelja\Trougao ispravnost\Trougao ispravnost\bin\Debug\net8.0\Trougao ispravnost.dll
+K:\ITOIP Relja\3 nedelja\Trougao ispravnost\Trougao ispravnost\bin\Debug\net8.0\Trougao ispravnost.pdb
+K:\ITOIP Relja\3 nedelja\Trougao ispravnost\Trougao ispravnost\obj\Debug\net8.0\Trougao ispravnost.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\3 nedelja\Trougao ispravnost\Trougao ispravnost\obj\Debug\net8.0\Trougao ispravnost.AssemblyInfoInputs.cache
+K:\ITOIP Relja\3 nedelja\Trougao ispravnost\Trougao ispravnost\obj\Debug\net8.0\Trougao ispravnost.AssemblyInfo.cs
+K:\ITOIP Relja\3 nedelja\Trougao ispravnost\Trougao ispravnost\obj\Debug\net8.0\Trougao ispravnost.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\3 nedelja\Trougao ispravnost\Trougao ispravnost\obj\Debug\net8.0\Trougao ispravnost.sourcelink.json
+K:\ITOIP Relja\3 nedelja\Trougao ispravnost\Trougao ispravnost\obj\Debug\net8.0\Trougao ispravnost.dll
+K:\ITOIP Relja\3 nedelja\Trougao ispravnost\Trougao ispravnost\obj\Debug\net8.0\refint\Trougao ispravnost.dll
+K:\ITOIP Relja\3 nedelja\Trougao ispravnost\Trougao ispravnost\obj\Debug\net8.0\Trougao ispravnost.pdb
+K:\ITOIP Relja\3 nedelja\Trougao ispravnost\Trougao ispravnost\obj\Debug\net8.0\Trougao ispravnost.genruntimeconfig.cache
+K:\ITOIP Relja\3 nedelja\Trougao ispravnost\Trougao ispravnost\obj\Debug\net8.0\ref\Trougao ispravnost.dll

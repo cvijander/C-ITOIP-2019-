@@ -1,0 +1,15 @@
+K:\ITOIP Relja\3 nedelja\Korisnik unosi podatke od coveka\Korisnik unosi podatke od coveka\bin\Debug\net8.0\Korisnik unosi podatke od coveka.exe
+K:\ITOIP Relja\3 nedelja\Korisnik unosi podatke od coveka\Korisnik unosi podatke od coveka\bin\Debug\net8.0\Korisnik unosi podatke od coveka.deps.json
+K:\ITOIP Relja\3 nedelja\Korisnik unosi podatke od coveka\Korisnik unosi podatke od coveka\bin\Debug\net8.0\Korisnik unosi podatke od coveka.runtimeconfig.json
+K:\ITOIP Relja\3 nedelja\Korisnik unosi podatke od coveka\Korisnik unosi podatke od coveka\bin\Debug\net8.0\Korisnik unosi podatke od coveka.dll
+K:\ITOIP Relja\3 nedelja\Korisnik unosi podatke od coveka\Korisnik unosi podatke od coveka\bin\Debug\net8.0\Korisnik unosi podatke od coveka.pdb
+K:\ITOIP Relja\3 nedelja\Korisnik unosi podatke od coveka\Korisnik unosi podatke od coveka\obj\Debug\net8.0\Korisnik unosi podatke od coveka.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\3 nedelja\Korisnik unosi podatke od coveka\Korisnik unosi podatke od coveka\obj\Debug\net8.0\Korisnik unosi podatke od coveka.AssemblyInfoInputs.cache
+K:\ITOIP Relja\3 nedelja\Korisnik unosi podatke od coveka\Korisnik unosi podatke od coveka\obj\Debug\net8.0\Korisnik unosi podatke od coveka.AssemblyInfo.cs
+K:\ITOIP Relja\3 nedelja\Korisnik unosi podatke od coveka\Korisnik unosi podatke od coveka\obj\Debug\net8.0\Korisnik unosi podatke od coveka.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\3 nedelja\Korisnik unosi podatke od coveka\Korisnik unosi podatke od coveka\obj\Debug\net8.0\Korisnik unosi podatke od coveka.sourcelink.json
+K:\ITOIP Relja\3 nedelja\Korisnik unosi podatke od coveka\Korisnik unosi podatke od coveka\obj\Debug\net8.0\Korisnik unosi podatke od coveka.dll
+K:\ITOIP Relja\3 nedelja\Korisnik unosi podatke od coveka\Korisnik unosi podatke od coveka\obj\Debug\net8.0\refint\Korisnik unosi podatke od coveka.dll
+K:\ITOIP Relja\3 nedelja\Korisnik unosi podatke od coveka\Korisnik unosi podatke od coveka\obj\Debug\net8.0\Korisnik unosi podatke od coveka.pdb
+K:\ITOIP Relja\3 nedelja\Korisnik unosi podatke od coveka\Korisnik unosi podatke od coveka\obj\Debug\net8.0\Korisnik unosi podatke od coveka.genruntimeconfig.cache
+K:\ITOIP Relja\3 nedelja\Korisnik unosi podatke od coveka\Korisnik unosi podatke od coveka\obj\Debug\net8.0\ref\Korisnik unosi podatke od coveka.dll

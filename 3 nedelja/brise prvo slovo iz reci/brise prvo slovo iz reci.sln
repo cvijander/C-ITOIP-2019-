@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "brise prvo slovo iz reci", "brise prvo slovo iz reci\brise prvo slovo iz reci.csproj", "{4599C106-6E42-4E60-9418-968DD8DDBF68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4599C106-6E42-4E60-9418-968DD8DDBF68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4599C106-6E42-4E60-9418-968DD8DDBF68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4599C106-6E42-4E60-9418-968DD8DDBF68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4599C106-6E42-4E60-9418-968DD8DDBF68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EB67EBB-2E49-470E-A972-6E7559F3956A}
+	EndGlobalSection
+EndGlobal

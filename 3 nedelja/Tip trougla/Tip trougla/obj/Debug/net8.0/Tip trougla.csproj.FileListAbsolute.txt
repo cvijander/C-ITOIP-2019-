@@ -1,0 +1,15 @@
+K:\ITOIP Relja\3 nedelja\Tip trougla\Tip trougla\bin\Debug\net8.0\Tip trougla.exe
+K:\ITOIP Relja\3 nedelja\Tip trougla\Tip trougla\bin\Debug\net8.0\Tip trougla.deps.json
+K:\ITOIP Relja\3 nedelja\Tip trougla\Tip trougla\bin\Debug\net8.0\Tip trougla.runtimeconfig.json
+K:\ITOIP Relja\3 nedelja\Tip trougla\Tip trougla\bin\Debug\net8.0\Tip trougla.dll
+K:\ITOIP Relja\3 nedelja\Tip trougla\Tip trougla\bin\Debug\net8.0\Tip trougla.pdb
+K:\ITOIP Relja\3 nedelja\Tip trougla\Tip trougla\obj\Debug\net8.0\Tip trougla.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\3 nedelja\Tip trougla\Tip trougla\obj\Debug\net8.0\Tip trougla.AssemblyInfoInputs.cache
+K:\ITOIP Relja\3 nedelja\Tip trougla\Tip trougla\obj\Debug\net8.0\Tip trougla.AssemblyInfo.cs
+K:\ITOIP Relja\3 nedelja\Tip trougla\Tip trougla\obj\Debug\net8.0\Tip trougla.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\3 nedelja\Tip trougla\Tip trougla\obj\Debug\net8.0\Tip trougla.sourcelink.json
+K:\ITOIP Relja\3 nedelja\Tip trougla\Tip trougla\obj\Debug\net8.0\Tip trougla.dll
+K:\ITOIP Relja\3 nedelja\Tip trougla\Tip trougla\obj\Debug\net8.0\refint\Tip trougla.dll
+K:\ITOIP Relja\3 nedelja\Tip trougla\Tip trougla\obj\Debug\net8.0\Tip trougla.pdb
+K:\ITOIP Relja\3 nedelja\Tip trougla\Tip trougla\obj\Debug\net8.0\Tip trougla.genruntimeconfig.cache
+K:\ITOIP Relja\3 nedelja\Tip trougla\Tip trougla\obj\Debug\net8.0\ref\Tip trougla.dll
