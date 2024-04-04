@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Gradjanin dani starosti i minuti starosti/1.0.0": {
+        "runtime": {
+          "Gradjanin dani starosti i minuti starosti.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gradjanin dani starosti i minuti starosti/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

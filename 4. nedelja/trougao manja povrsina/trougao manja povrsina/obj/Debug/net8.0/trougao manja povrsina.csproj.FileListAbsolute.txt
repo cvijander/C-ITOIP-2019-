@@ -1,0 +1,15 @@
+K:\ITOIP Relja\4. nedelja\trougao manja povrsina\trougao manja povrsina\obj\Debug\net8.0\trougao manja povrsina.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\4. nedelja\trougao manja povrsina\trougao manja povrsina\obj\Debug\net8.0\trougao manja povrsina.AssemblyInfoInputs.cache
+K:\ITOIP Relja\4. nedelja\trougao manja povrsina\trougao manja povrsina\obj\Debug\net8.0\trougao manja povrsina.AssemblyInfo.cs
+K:\ITOIP Relja\4. nedelja\trougao manja povrsina\trougao manja povrsina\obj\Debug\net8.0\trougao manja povrsina.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\4. nedelja\trougao manja povrsina\trougao manja povrsina\obj\Debug\net8.0\trougao manja povrsina.sourcelink.json
+K:\ITOIP Relja\4. nedelja\trougao manja povrsina\trougao manja povrsina\bin\Debug\net8.0\trougao manja povrsina.exe
+K:\ITOIP Relja\4. nedelja\trougao manja povrsina\trougao manja povrsina\bin\Debug\net8.0\trougao manja povrsina.deps.json
+K:\ITOIP Relja\4. nedelja\trougao manja povrsina\trougao manja povrsina\bin\Debug\net8.0\trougao manja povrsina.runtimeconfig.json
+K:\ITOIP Relja\4. nedelja\trougao manja povrsina\trougao manja povrsina\bin\Debug\net8.0\trougao manja povrsina.dll
+K:\ITOIP Relja\4. nedelja\trougao manja povrsina\trougao manja povrsina\bin\Debug\net8.0\trougao manja povrsina.pdb
+K:\ITOIP Relja\4. nedelja\trougao manja povrsina\trougao manja povrsina\obj\Debug\net8.0\trougao manja povrsina.dll
+K:\ITOIP Relja\4. nedelja\trougao manja povrsina\trougao manja povrsina\obj\Debug\net8.0\refint\trougao manja povrsina.dll
+K:\ITOIP Relja\4. nedelja\trougao manja povrsina\trougao manja povrsina\obj\Debug\net8.0\trougao manja povrsina.pdb
+K:\ITOIP Relja\4. nedelja\trougao manja povrsina\trougao manja povrsina\obj\Debug\net8.0\trougao manja povrsina.genruntimeconfig.cache
+K:\ITOIP Relja\4. nedelja\trougao manja povrsina\trougao manja povrsina\obj\Debug\net8.0\ref\trougao manja povrsina.dll

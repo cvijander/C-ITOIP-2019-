@@ -1,0 +1,15 @@
+K:\ITOIP Relja\4. nedelja\komplex broj\komplex broj\bin\Debug\net8.0\komplex broj.exe
+K:\ITOIP Relja\4. nedelja\komplex broj\komplex broj\bin\Debug\net8.0\komplex broj.deps.json
+K:\ITOIP Relja\4. nedelja\komplex broj\komplex broj\bin\Debug\net8.0\komplex broj.runtimeconfig.json
+K:\ITOIP Relja\4. nedelja\komplex broj\komplex broj\bin\Debug\net8.0\komplex broj.dll
+K:\ITOIP Relja\4. nedelja\komplex broj\komplex broj\bin\Debug\net8.0\komplex broj.pdb
+K:\ITOIP Relja\4. nedelja\komplex broj\komplex broj\obj\Debug\net8.0\komplex broj.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\4. nedelja\komplex broj\komplex broj\obj\Debug\net8.0\komplex broj.AssemblyInfoInputs.cache
+K:\ITOIP Relja\4. nedelja\komplex broj\komplex broj\obj\Debug\net8.0\komplex broj.AssemblyInfo.cs
+K:\ITOIP Relja\4. nedelja\komplex broj\komplex broj\obj\Debug\net8.0\komplex broj.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\4. nedelja\komplex broj\komplex broj\obj\Debug\net8.0\komplex broj.sourcelink.json
+K:\ITOIP Relja\4. nedelja\komplex broj\komplex broj\obj\Debug\net8.0\komplex broj.dll
+K:\ITOIP Relja\4. nedelja\komplex broj\komplex broj\obj\Debug\net8.0\refint\komplex broj.dll
+K:\ITOIP Relja\4. nedelja\komplex broj\komplex broj\obj\Debug\net8.0\komplex broj.pdb
+K:\ITOIP Relja\4. nedelja\komplex broj\komplex broj\obj\Debug\net8.0\komplex broj.genruntimeconfig.cache
+K:\ITOIP Relja\4. nedelja\komplex broj\komplex broj\obj\Debug\net8.0\ref\komplex broj.dll

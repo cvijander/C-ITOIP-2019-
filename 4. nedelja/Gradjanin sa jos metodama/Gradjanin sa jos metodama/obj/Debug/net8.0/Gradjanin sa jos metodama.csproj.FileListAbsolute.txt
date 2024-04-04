@@ -1,0 +1,15 @@
+K:\ITOIP Relja\4. nedelja\Gradjanin sa jos metodama\Gradjanin sa jos metodama\bin\Debug\net8.0\Gradjanin sa jos metodama.exe
+K:\ITOIP Relja\4. nedelja\Gradjanin sa jos metodama\Gradjanin sa jos metodama\bin\Debug\net8.0\Gradjanin sa jos metodama.deps.json
+K:\ITOIP Relja\4. nedelja\Gradjanin sa jos metodama\Gradjanin sa jos metodama\bin\Debug\net8.0\Gradjanin sa jos metodama.runtimeconfig.json
+K:\ITOIP Relja\4. nedelja\Gradjanin sa jos metodama\Gradjanin sa jos metodama\bin\Debug\net8.0\Gradjanin sa jos metodama.dll
+K:\ITOIP Relja\4. nedelja\Gradjanin sa jos metodama\Gradjanin sa jos metodama\bin\Debug\net8.0\Gradjanin sa jos metodama.pdb
+K:\ITOIP Relja\4. nedelja\Gradjanin sa jos metodama\Gradjanin sa jos metodama\obj\Debug\net8.0\Gradjanin sa jos metodama.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\4. nedelja\Gradjanin sa jos metodama\Gradjanin sa jos metodama\obj\Debug\net8.0\Gradjanin sa jos metodama.AssemblyInfoInputs.cache
+K:\ITOIP Relja\4. nedelja\Gradjanin sa jos metodama\Gradjanin sa jos metodama\obj\Debug\net8.0\Gradjanin sa jos metodama.AssemblyInfo.cs
+K:\ITOIP Relja\4. nedelja\Gradjanin sa jos metodama\Gradjanin sa jos metodama\obj\Debug\net8.0\Gradjanin sa jos metodama.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\4. nedelja\Gradjanin sa jos metodama\Gradjanin sa jos metodama\obj\Debug\net8.0\Gradjanin sa jos metodama.sourcelink.json
+K:\ITOIP Relja\4. nedelja\Gradjanin sa jos metodama\Gradjanin sa jos metodama\obj\Debug\net8.0\Gradjanin sa jos metodama.dll
+K:\ITOIP Relja\4. nedelja\Gradjanin sa jos metodama\Gradjanin sa jos metodama\obj\Debug\net8.0\refint\Gradjanin sa jos metodama.dll
+K:\ITOIP Relja\4. nedelja\Gradjanin sa jos metodama\Gradjanin sa jos metodama\obj\Debug\net8.0\Gradjanin sa jos metodama.pdb
+K:\ITOIP Relja\4. nedelja\Gradjanin sa jos metodama\Gradjanin sa jos metodama\obj\Debug\net8.0\Gradjanin sa jos metodama.genruntimeconfig.cache
+K:\ITOIP Relja\4. nedelja\Gradjanin sa jos metodama\Gradjanin sa jos metodama\obj\Debug\net8.0\ref\Gradjanin sa jos metodama.dll

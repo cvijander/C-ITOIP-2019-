@@ -1,0 +1,15 @@
+K:\ITOIP Relja\4. nedelja\dva kompleksna broja\dva kompleksna broja\bin\Debug\net8.0\dva kompleksna broja.exe
+K:\ITOIP Relja\4. nedelja\dva kompleksna broja\dva kompleksna broja\bin\Debug\net8.0\dva kompleksna broja.deps.json
+K:\ITOIP Relja\4. nedelja\dva kompleksna broja\dva kompleksna broja\bin\Debug\net8.0\dva kompleksna broja.runtimeconfig.json
+K:\ITOIP Relja\4. nedelja\dva kompleksna broja\dva kompleksna broja\bin\Debug\net8.0\dva kompleksna broja.dll
+K:\ITOIP Relja\4. nedelja\dva kompleksna broja\dva kompleksna broja\bin\Debug\net8.0\dva kompleksna broja.pdb
+K:\ITOIP Relja\4. nedelja\dva kompleksna broja\dva kompleksna broja\obj\Debug\net8.0\dva kompleksna broja.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\4. nedelja\dva kompleksna broja\dva kompleksna broja\obj\Debug\net8.0\dva kompleksna broja.AssemblyInfoInputs.cache
+K:\ITOIP Relja\4. nedelja\dva kompleksna broja\dva kompleksna broja\obj\Debug\net8.0\dva kompleksna broja.AssemblyInfo.cs
+K:\ITOIP Relja\4. nedelja\dva kompleksna broja\dva kompleksna broja\obj\Debug\net8.0\dva kompleksna broja.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\4. nedelja\dva kompleksna broja\dva kompleksna broja\obj\Debug\net8.0\dva kompleksna broja.sourcelink.json
+K:\ITOIP Relja\4. nedelja\dva kompleksna broja\dva kompleksna broja\obj\Debug\net8.0\dva kompleksna broja.dll
+K:\ITOIP Relja\4. nedelja\dva kompleksna broja\dva kompleksna broja\obj\Debug\net8.0\refint\dva kompleksna broja.dll
+K:\ITOIP Relja\4. nedelja\dva kompleksna broja\dva kompleksna broja\obj\Debug\net8.0\dva kompleksna broja.pdb
+K:\ITOIP Relja\4. nedelja\dva kompleksna broja\dva kompleksna broja\obj\Debug\net8.0\dva kompleksna broja.genruntimeconfig.cache
+K:\ITOIP Relja\4. nedelja\dva kompleksna broja\dva kompleksna broja\obj\Debug\net8.0\ref\dva kompleksna broja.dll

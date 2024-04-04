@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\ITOIP Relja\\4. nedelja\\Razlomak\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75F5A024-84F3-42B0-8A39-7B9FC99C1F58}|Razlomak\\Razlomak.csproj|k:\\itoip relja\\4. nedelja\\razlomak\\razlomak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F5A024-84F3-42B0-8A39-7B9FC99C1F58}|Razlomak\\Razlomak.csproj|solutionrelative:razlomak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F5A024-84F3-42B0-8A39-7B9FC99C1F58}|Razlomak\\Razlomak.csproj|k:\\itoip relja\\4. nedelja\\razlomak\\razlomak\\razlomakr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F5A024-84F3-42B0-8A39-7B9FC99C1F58}|Razlomak\\Razlomak.csproj|solutionrelative:razlomak\\razlomakr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RazlomakR.cs",
+              "DocumentMoniker": "K:\\ITOIP Relja\\4. nedelja\\Razlomak\\Razlomak\\RazlomakR.cs",
+              "RelativeDocumentMoniker": "Razlomak\\RazlomakR.cs",
+              "ToolTip": "K:\\ITOIP Relja\\4. nedelja\\Razlomak\\Razlomak\\RazlomakR.cs",
+              "RelativeToolTip": "Razlomak\\RazlomakR.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T14:40:42.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "K:\\ITOIP Relja\\4. nedelja\\Razlomak\\Razlomak\\Program.cs",
+              "RelativeDocumentMoniker": "Razlomak\\Program.cs",
+              "ToolTip": "K:\\ITOIP Relja\\4. nedelja\\Razlomak\\Razlomak\\Program.cs",
+              "RelativeToolTip": "Razlomak\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T14:40:28.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

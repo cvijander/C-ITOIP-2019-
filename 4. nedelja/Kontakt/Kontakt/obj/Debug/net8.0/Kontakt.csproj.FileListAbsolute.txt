@@ -1,0 +1,15 @@
+K:\ITOIP Relja\4. nedelja\Kontakt\Kontakt\bin\Debug\net8.0\Kontakt.exe
+K:\ITOIP Relja\4. nedelja\Kontakt\Kontakt\bin\Debug\net8.0\Kontakt.deps.json
+K:\ITOIP Relja\4. nedelja\Kontakt\Kontakt\bin\Debug\net8.0\Kontakt.runtimeconfig.json
+K:\ITOIP Relja\4. nedelja\Kontakt\Kontakt\bin\Debug\net8.0\Kontakt.dll
+K:\ITOIP Relja\4. nedelja\Kontakt\Kontakt\bin\Debug\net8.0\Kontakt.pdb
+K:\ITOIP Relja\4. nedelja\Kontakt\Kontakt\obj\Debug\net8.0\Kontakt.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\4. nedelja\Kontakt\Kontakt\obj\Debug\net8.0\Kontakt.AssemblyInfoInputs.cache
+K:\ITOIP Relja\4. nedelja\Kontakt\Kontakt\obj\Debug\net8.0\Kontakt.AssemblyInfo.cs
+K:\ITOIP Relja\4. nedelja\Kontakt\Kontakt\obj\Debug\net8.0\Kontakt.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\4. nedelja\Kontakt\Kontakt\obj\Debug\net8.0\Kontakt.sourcelink.json
+K:\ITOIP Relja\4. nedelja\Kontakt\Kontakt\obj\Debug\net8.0\Kontakt.dll
+K:\ITOIP Relja\4. nedelja\Kontakt\Kontakt\obj\Debug\net8.0\refint\Kontakt.dll
+K:\ITOIP Relja\4. nedelja\Kontakt\Kontakt\obj\Debug\net8.0\Kontakt.pdb
+K:\ITOIP Relja\4. nedelja\Kontakt\Kontakt\obj\Debug\net8.0\Kontakt.genruntimeconfig.cache
+K:\ITOIP Relja\4. nedelja\Kontakt\Kontakt\obj\Debug\net8.0\ref\Kontakt.dll

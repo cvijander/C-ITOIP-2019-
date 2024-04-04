@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "trougao sa atributima/1.0.0": {
+        "runtime": {
+          "trougao sa atributima.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "trougao sa atributima/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

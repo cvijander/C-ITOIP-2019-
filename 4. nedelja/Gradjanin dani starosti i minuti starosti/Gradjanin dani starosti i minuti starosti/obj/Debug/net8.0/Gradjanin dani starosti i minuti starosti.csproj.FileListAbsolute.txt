@@ -1,0 +1,15 @@
+K:\ITOIP Relja\4. nedelja\Gradjanin dani starosti i minuti starosti\Gradjanin dani starosti i minuti starosti\bin\Debug\net8.0\Gradjanin dani starosti i minuti starosti.exe
+K:\ITOIP Relja\4. nedelja\Gradjanin dani starosti i minuti starosti\Gradjanin dani starosti i minuti starosti\bin\Debug\net8.0\Gradjanin dani starosti i minuti starosti.deps.json
+K:\ITOIP Relja\4. nedelja\Gradjanin dani starosti i minuti starosti\Gradjanin dani starosti i minuti starosti\bin\Debug\net8.0\Gradjanin dani starosti i minuti starosti.runtimeconfig.json
+K:\ITOIP Relja\4. nedelja\Gradjanin dani starosti i minuti starosti\Gradjanin dani starosti i minuti starosti\bin\Debug\net8.0\Gradjanin dani starosti i minuti starosti.dll
+K:\ITOIP Relja\4. nedelja\Gradjanin dani starosti i minuti starosti\Gradjanin dani starosti i minuti starosti\bin\Debug\net8.0\Gradjanin dani starosti i minuti starosti.pdb
+K:\ITOIP Relja\4. nedelja\Gradjanin dani starosti i minuti starosti\Gradjanin dani starosti i minuti starosti\obj\Debug\net8.0\Gradjanin dani starosti i minuti starosti.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\4. nedelja\Gradjanin dani starosti i minuti starosti\Gradjanin dani starosti i minuti starosti\obj\Debug\net8.0\Gradjanin dani starosti i minuti starosti.AssemblyInfoInputs.cache
+K:\ITOIP Relja\4. nedelja\Gradjanin dani starosti i minuti starosti\Gradjanin dani starosti i minuti starosti\obj\Debug\net8.0\Gradjanin dani starosti i minuti starosti.AssemblyInfo.cs
+K:\ITOIP Relja\4. nedelja\Gradjanin dani starosti i minuti starosti\Gradjanin dani starosti i minuti starosti\obj\Debug\net8.0\Gradjanin dani starosti i minuti starosti.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\4. nedelja\Gradjanin dani starosti i minuti starosti\Gradjanin dani starosti i minuti starosti\obj\Debug\net8.0\Gradjanin dani starosti i minuti starosti.sourcelink.json
+K:\ITOIP Relja\4. nedelja\Gradjanin dani starosti i minuti starosti\Gradjanin dani starosti i minuti starosti\obj\Debug\net8.0\Gradjanin dani starosti i minuti starosti.dll
+K:\ITOIP Relja\4. nedelja\Gradjanin dani starosti i minuti starosti\Gradjanin dani starosti i minuti starosti\obj\Debug\net8.0\refint\Gradjanin dani starosti i minuti starosti.dll
+K:\ITOIP Relja\4. nedelja\Gradjanin dani starosti i minuti starosti\Gradjanin dani starosti i minuti starosti\obj\Debug\net8.0\Gradjanin dani starosti i minuti starosti.pdb
+K:\ITOIP Relja\4. nedelja\Gradjanin dani starosti i minuti starosti\Gradjanin dani starosti i minuti starosti\obj\Debug\net8.0\Gradjanin dani starosti i minuti starosti.genruntimeconfig.cache
+K:\ITOIP Relja\4. nedelja\Gradjanin dani starosti i minuti starosti\Gradjanin dani starosti i minuti starosti\obj\Debug\net8.0\ref\Gradjanin dani starosti i minuti starosti.dll

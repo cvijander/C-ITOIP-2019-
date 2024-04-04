@@ -1,0 +1,15 @@
+K:\ITOIP Relja\4. nedelja\Gradjanin\Gradjanin\bin\Debug\net8.0\Gradjanin.exe
+K:\ITOIP Relja\4. nedelja\Gradjanin\Gradjanin\bin\Debug\net8.0\Gradjanin.deps.json
+K:\ITOIP Relja\4. nedelja\Gradjanin\Gradjanin\bin\Debug\net8.0\Gradjanin.runtimeconfig.json
+K:\ITOIP Relja\4. nedelja\Gradjanin\Gradjanin\bin\Debug\net8.0\Gradjanin.dll
+K:\ITOIP Relja\4. nedelja\Gradjanin\Gradjanin\bin\Debug\net8.0\Gradjanin.pdb
+K:\ITOIP Relja\4. nedelja\Gradjanin\Gradjanin\obj\Debug\net8.0\Gradjanin.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\4. nedelja\Gradjanin\Gradjanin\obj\Debug\net8.0\Gradjanin.AssemblyInfoInputs.cache
+K:\ITOIP Relja\4. nedelja\Gradjanin\Gradjanin\obj\Debug\net8.0\Gradjanin.AssemblyInfo.cs
+K:\ITOIP Relja\4. nedelja\Gradjanin\Gradjanin\obj\Debug\net8.0\Gradjanin.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\4. nedelja\Gradjanin\Gradjanin\obj\Debug\net8.0\Gradjanin.sourcelink.json
+K:\ITOIP Relja\4. nedelja\Gradjanin\Gradjanin\obj\Debug\net8.0\Gradjanin.dll
+K:\ITOIP Relja\4. nedelja\Gradjanin\Gradjanin\obj\Debug\net8.0\refint\Gradjanin.dll
+K:\ITOIP Relja\4. nedelja\Gradjanin\Gradjanin\obj\Debug\net8.0\Gradjanin.pdb
+K:\ITOIP Relja\4. nedelja\Gradjanin\Gradjanin\obj\Debug\net8.0\Gradjanin.genruntimeconfig.cache
+K:\ITOIP Relja\4. nedelja\Gradjanin\Gradjanin\obj\Debug\net8.0\ref\Gradjanin.dll

@@ -1,0 +1,15 @@
+K:\ITOIP Relja\4. nedelja\Razlomak preko konstruktora i preko metode\Razlomak preko konstruktora i preko metode\bin\Debug\net8.0\Razlomak preko konstruktora i preko metode.exe
+K:\ITOIP Relja\4. nedelja\Razlomak preko konstruktora i preko metode\Razlomak preko konstruktora i preko metode\bin\Debug\net8.0\Razlomak preko konstruktora i preko metode.deps.json
+K:\ITOIP Relja\4. nedelja\Razlomak preko konstruktora i preko metode\Razlomak preko konstruktora i preko metode\bin\Debug\net8.0\Razlomak preko konstruktora i preko metode.runtimeconfig.json
+K:\ITOIP Relja\4. nedelja\Razlomak preko konstruktora i preko metode\Razlomak preko konstruktora i preko metode\bin\Debug\net8.0\Razlomak preko konstruktora i preko metode.dll
+K:\ITOIP Relja\4. nedelja\Razlomak preko konstruktora i preko metode\Razlomak preko konstruktora i preko metode\bin\Debug\net8.0\Razlomak preko konstruktora i preko metode.pdb
+K:\ITOIP Relja\4. nedelja\Razlomak preko konstruktora i preko metode\Razlomak preko konstruktora i preko metode\obj\Debug\net8.0\Razlomak preko konstruktora i preko metode.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\4. nedelja\Razlomak preko konstruktora i preko metode\Razlomak preko konstruktora i preko metode\obj\Debug\net8.0\Razlomak preko konstruktora i preko metode.AssemblyInfoInputs.cache
+K:\ITOIP Relja\4. nedelja\Razlomak preko konstruktora i preko metode\Razlomak preko konstruktora i preko metode\obj\Debug\net8.0\Razlomak preko konstruktora i preko metode.AssemblyInfo.cs
+K:\ITOIP Relja\4. nedelja\Razlomak preko konstruktora i preko metode\Razlomak preko konstruktora i preko metode\obj\Debug\net8.0\Razlomak preko konstruktora i preko metode.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\4. nedelja\Razlomak preko konstruktora i preko metode\Razlomak preko konstruktora i preko metode\obj\Debug\net8.0\Razlomak preko konstruktora i preko metode.sourcelink.json
+K:\ITOIP Relja\4. nedelja\Razlomak preko konstruktora i preko metode\Razlomak preko konstruktora i preko metode\obj\Debug\net8.0\Razlomak preko konstruktora i preko metode.dll
+K:\ITOIP Relja\4. nedelja\Razlomak preko konstruktora i preko metode\Razlomak preko konstruktora i preko metode\obj\Debug\net8.0\refint\Razlomak preko konstruktora i preko metode.dll
+K:\ITOIP Relja\4. nedelja\Razlomak preko konstruktora i preko metode\Razlomak preko konstruktora i preko metode\obj\Debug\net8.0\Razlomak preko konstruktora i preko metode.pdb
+K:\ITOIP Relja\4. nedelja\Razlomak preko konstruktora i preko metode\Razlomak preko konstruktora i preko metode\obj\Debug\net8.0\Razlomak preko konstruktora i preko metode.genruntimeconfig.cache
+K:\ITOIP Relja\4. nedelja\Razlomak preko konstruktora i preko metode\Razlomak preko konstruktora i preko metode\obj\Debug\net8.0\ref\Razlomak preko konstruktora i preko metode.dll

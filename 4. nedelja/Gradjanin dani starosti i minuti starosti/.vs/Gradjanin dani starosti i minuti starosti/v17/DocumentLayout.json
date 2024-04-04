@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\ITOIP Relja\\4. nedelja\\Gradjanin dani starosti i minuti starosti\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C06407D-BC34-446A-ABCC-F3E6FB9AAD06}|Gradjanin dani starosti i minuti starosti\\Gradjanin dani starosti i minuti starosti.csproj|k:\\itoip relja\\4. nedelja\\gradjanin dani starosti i minuti starosti\\gradjanin dani starosti i minuti starosti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C06407D-BC34-446A-ABCC-F3E6FB9AAD06}|Gradjanin dani starosti i minuti starosti\\Gradjanin dani starosti i minuti starosti.csproj|solutionrelative:gradjanin dani starosti i minuti starosti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C06407D-BC34-446A-ABCC-F3E6FB9AAD06}|Gradjanin dani starosti i minuti starosti\\Gradjanin dani starosti i minuti starosti.csproj|k:\\itoip relja\\4. nedelja\\gradjanin dani starosti i minuti starosti\\gradjanin dani starosti i minuti starosti\\gradjanin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C06407D-BC34-446A-ABCC-F3E6FB9AAD06}|Gradjanin dani starosti i minuti starosti\\Gradjanin dani starosti i minuti starosti.csproj|solutionrelative:gradjanin dani starosti i minuti starosti\\gradjanin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gradjanin.cs",
+              "DocumentMoniker": "K:\\ITOIP Relja\\4. nedelja\\Gradjanin dani starosti i minuti starosti\\Gradjanin dani starosti i minuti starosti\\Gradjanin.cs",
+              "RelativeDocumentMoniker": "Gradjanin dani starosti i minuti starosti\\Gradjanin.cs",
+              "ToolTip": "K:\\ITOIP Relja\\4. nedelja\\Gradjanin dani starosti i minuti starosti\\Gradjanin dani starosti i minuti starosti\\Gradjanin.cs",
+              "RelativeToolTip": "Gradjanin dani starosti i minuti starosti\\Gradjanin.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAcwFcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T14:09:15.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "K:\\ITOIP Relja\\4. nedelja\\Gradjanin dani starosti i minuti starosti\\Gradjanin dani starosti i minuti starosti\\Program.cs",
+              "RelativeDocumentMoniker": "Gradjanin dani starosti i minuti starosti\\Program.cs",
+              "ToolTip": "K:\\ITOIP Relja\\4. nedelja\\Gradjanin dani starosti i minuti starosti\\Gradjanin dani starosti i minuti starosti\\Program.cs",
+              "RelativeToolTip": "Gradjanin dani starosti i minuti starosti\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T14:08:51.823Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

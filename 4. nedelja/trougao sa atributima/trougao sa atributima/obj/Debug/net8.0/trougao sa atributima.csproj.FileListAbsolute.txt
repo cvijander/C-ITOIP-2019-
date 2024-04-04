@@ -1,0 +1,15 @@
+K:\ITOIP Relja\4. nedelja\trougao sa atributima\trougao sa atributima\bin\Debug\net8.0\trougao sa atributima.exe
+K:\ITOIP Relja\4. nedelja\trougao sa atributima\trougao sa atributima\bin\Debug\net8.0\trougao sa atributima.deps.json
+K:\ITOIP Relja\4. nedelja\trougao sa atributima\trougao sa atributima\bin\Debug\net8.0\trougao sa atributima.runtimeconfig.json
+K:\ITOIP Relja\4. nedelja\trougao sa atributima\trougao sa atributima\bin\Debug\net8.0\trougao sa atributima.dll
+K:\ITOIP Relja\4. nedelja\trougao sa atributima\trougao sa atributima\bin\Debug\net8.0\trougao sa atributima.pdb
+K:\ITOIP Relja\4. nedelja\trougao sa atributima\trougao sa atributima\obj\Debug\net8.0\trougao sa atributima.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\4. nedelja\trougao sa atributima\trougao sa atributima\obj\Debug\net8.0\trougao sa atributima.AssemblyInfoInputs.cache
+K:\ITOIP Relja\4. nedelja\trougao sa atributima\trougao sa atributima\obj\Debug\net8.0\trougao sa atributima.AssemblyInfo.cs
+K:\ITOIP Relja\4. nedelja\trougao sa atributima\trougao sa atributima\obj\Debug\net8.0\trougao sa atributima.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\4. nedelja\trougao sa atributima\trougao sa atributima\obj\Debug\net8.0\trougao sa atributima.sourcelink.json
+K:\ITOIP Relja\4. nedelja\trougao sa atributima\trougao sa atributima\obj\Debug\net8.0\trougao sa atributima.dll
+K:\ITOIP Relja\4. nedelja\trougao sa atributima\trougao sa atributima\obj\Debug\net8.0\refint\trougao sa atributima.dll
+K:\ITOIP Relja\4. nedelja\trougao sa atributima\trougao sa atributima\obj\Debug\net8.0\trougao sa atributima.pdb
+K:\ITOIP Relja\4. nedelja\trougao sa atributima\trougao sa atributima\obj\Debug\net8.0\trougao sa atributima.genruntimeconfig.cache
+K:\ITOIP Relja\4. nedelja\trougao sa atributima\trougao sa atributima\obj\Debug\net8.0\ref\trougao sa atributima.dll

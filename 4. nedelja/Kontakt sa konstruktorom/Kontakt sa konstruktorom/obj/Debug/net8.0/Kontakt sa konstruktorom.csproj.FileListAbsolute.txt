@@ -1,0 +1,15 @@
+K:\ITOIP Relja\4. nedelja\Kontakt sa konstruktorom\Kontakt sa konstruktorom\bin\Debug\net8.0\Kontakt sa konstruktorom.exe
+K:\ITOIP Relja\4. nedelja\Kontakt sa konstruktorom\Kontakt sa konstruktorom\bin\Debug\net8.0\Kontakt sa konstruktorom.deps.json
+K:\ITOIP Relja\4. nedelja\Kontakt sa konstruktorom\Kontakt sa konstruktorom\bin\Debug\net8.0\Kontakt sa konstruktorom.runtimeconfig.json
+K:\ITOIP Relja\4. nedelja\Kontakt sa konstruktorom\Kontakt sa konstruktorom\bin\Debug\net8.0\Kontakt sa konstruktorom.dll
+K:\ITOIP Relja\4. nedelja\Kontakt sa konstruktorom\Kontakt sa konstruktorom\bin\Debug\net8.0\Kontakt sa konstruktorom.pdb
+K:\ITOIP Relja\4. nedelja\Kontakt sa konstruktorom\Kontakt sa konstruktorom\obj\Debug\net8.0\Kontakt sa konstruktorom.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\4. nedelja\Kontakt sa konstruktorom\Kontakt sa konstruktorom\obj\Debug\net8.0\Kontakt sa konstruktorom.AssemblyInfoInputs.cache
+K:\ITOIP Relja\4. nedelja\Kontakt sa konstruktorom\Kontakt sa konstruktorom\obj\Debug\net8.0\Kontakt sa konstruktorom.AssemblyInfo.cs
+K:\ITOIP Relja\4. nedelja\Kontakt sa konstruktorom\Kontakt sa konstruktorom\obj\Debug\net8.0\Kontakt sa konstruktorom.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\4. nedelja\Kontakt sa konstruktorom\Kontakt sa konstruktorom\obj\Debug\net8.0\Kontakt sa konstruktorom.sourcelink.json
+K:\ITOIP Relja\4. nedelja\Kontakt sa konstruktorom\Kontakt sa konstruktorom\obj\Debug\net8.0\Kontakt sa konstruktorom.dll
+K:\ITOIP Relja\4. nedelja\Kontakt sa konstruktorom\Kontakt sa konstruktorom\obj\Debug\net8.0\refint\Kontakt sa konstruktorom.dll
+K:\ITOIP Relja\4. nedelja\Kontakt sa konstruktorom\Kontakt sa konstruktorom\obj\Debug\net8.0\Kontakt sa konstruktorom.pdb
+K:\ITOIP Relja\4. nedelja\Kontakt sa konstruktorom\Kontakt sa konstruktorom\obj\Debug\net8.0\Kontakt sa konstruktorom.genruntimeconfig.cache
+K:\ITOIP Relja\4. nedelja\Kontakt sa konstruktorom\Kontakt sa konstruktorom\obj\Debug\net8.0\ref\Kontakt sa konstruktorom.dll

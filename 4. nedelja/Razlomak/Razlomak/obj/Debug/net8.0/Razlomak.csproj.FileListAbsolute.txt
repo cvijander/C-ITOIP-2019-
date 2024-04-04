@@ -1,0 +1,15 @@
+K:\ITOIP Relja\4. nedelja\Razlomak\Razlomak\bin\Debug\net8.0\Razlomak.exe
+K:\ITOIP Relja\4. nedelja\Razlomak\Razlomak\bin\Debug\net8.0\Razlomak.deps.json
+K:\ITOIP Relja\4. nedelja\Razlomak\Razlomak\bin\Debug\net8.0\Razlomak.runtimeconfig.json
+K:\ITOIP Relja\4. nedelja\Razlomak\Razlomak\bin\Debug\net8.0\Razlomak.dll
+K:\ITOIP Relja\4. nedelja\Razlomak\Razlomak\bin\Debug\net8.0\Razlomak.pdb
+K:\ITOIP Relja\4. nedelja\Razlomak\Razlomak\obj\Debug\net8.0\Razlomak.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\4. nedelja\Razlomak\Razlomak\obj\Debug\net8.0\Razlomak.AssemblyInfoInputs.cache
+K:\ITOIP Relja\4. nedelja\Razlomak\Razlomak\obj\Debug\net8.0\Razlomak.AssemblyInfo.cs
+K:\ITOIP Relja\4. nedelja\Razlomak\Razlomak\obj\Debug\net8.0\Razlomak.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\4. nedelja\Razlomak\Razlomak\obj\Debug\net8.0\Razlomak.sourcelink.json
+K:\ITOIP Relja\4. nedelja\Razlomak\Razlomak\obj\Debug\net8.0\Razlomak.dll
+K:\ITOIP Relja\4. nedelja\Razlomak\Razlomak\obj\Debug\net8.0\refint\Razlomak.dll
+K:\ITOIP Relja\4. nedelja\Razlomak\Razlomak\obj\Debug\net8.0\Razlomak.pdb
+K:\ITOIP Relja\4. nedelja\Razlomak\Razlomak\obj\Debug\net8.0\Razlomak.genruntimeconfig.cache
+K:\ITOIP Relja\4. nedelja\Razlomak\Razlomak\obj\Debug\net8.0\ref\Razlomak.dll

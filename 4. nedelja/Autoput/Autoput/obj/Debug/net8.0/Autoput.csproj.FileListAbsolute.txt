@@ -1,0 +1,15 @@
+K:\ITOIP Relja\4. nedelja\Autoput\Autoput\bin\Debug\net8.0\Autoput.exe
+K:\ITOIP Relja\4. nedelja\Autoput\Autoput\bin\Debug\net8.0\Autoput.deps.json
+K:\ITOIP Relja\4. nedelja\Autoput\Autoput\bin\Debug\net8.0\Autoput.runtimeconfig.json
+K:\ITOIP Relja\4. nedelja\Autoput\Autoput\bin\Debug\net8.0\Autoput.dll
+K:\ITOIP Relja\4. nedelja\Autoput\Autoput\bin\Debug\net8.0\Autoput.pdb
+K:\ITOIP Relja\4. nedelja\Autoput\Autoput\obj\Debug\net8.0\Autoput.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\4. nedelja\Autoput\Autoput\obj\Debug\net8.0\Autoput.AssemblyInfoInputs.cache
+K:\ITOIP Relja\4. nedelja\Autoput\Autoput\obj\Debug\net8.0\Autoput.AssemblyInfo.cs
+K:\ITOIP Relja\4. nedelja\Autoput\Autoput\obj\Debug\net8.0\Autoput.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\4. nedelja\Autoput\Autoput\obj\Debug\net8.0\Autoput.sourcelink.json
+K:\ITOIP Relja\4. nedelja\Autoput\Autoput\obj\Debug\net8.0\Autoput.dll
+K:\ITOIP Relja\4. nedelja\Autoput\Autoput\obj\Debug\net8.0\refint\Autoput.dll
+K:\ITOIP Relja\4. nedelja\Autoput\Autoput\obj\Debug\net8.0\Autoput.pdb
+K:\ITOIP Relja\4. nedelja\Autoput\Autoput\obj\Debug\net8.0\Autoput.genruntimeconfig.cache
+K:\ITOIP Relja\4. nedelja\Autoput\Autoput\obj\Debug\net8.0\ref\Autoput.dll

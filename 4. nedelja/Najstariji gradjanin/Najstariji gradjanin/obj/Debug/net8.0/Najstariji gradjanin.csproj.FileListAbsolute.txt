@@ -1,0 +1,15 @@
+K:\ITOIP Relja\4. nedelja\Najstariji gradjanin\Najstariji gradjanin\bin\Debug\net8.0\Najstariji gradjanin.exe
+K:\ITOIP Relja\4. nedelja\Najstariji gradjanin\Najstariji gradjanin\bin\Debug\net8.0\Najstariji gradjanin.deps.json
+K:\ITOIP Relja\4. nedelja\Najstariji gradjanin\Najstariji gradjanin\bin\Debug\net8.0\Najstariji gradjanin.runtimeconfig.json
+K:\ITOIP Relja\4. nedelja\Najstariji gradjanin\Najstariji gradjanin\bin\Debug\net8.0\Najstariji gradjanin.dll
+K:\ITOIP Relja\4. nedelja\Najstariji gradjanin\Najstariji gradjanin\bin\Debug\net8.0\Najstariji gradjanin.pdb
+K:\ITOIP Relja\4. nedelja\Najstariji gradjanin\Najstariji gradjanin\obj\Debug\net8.0\Najstariji gradjanin.GeneratedMSBuildEditorConfig.editorconfig
+K:\ITOIP Relja\4. nedelja\Najstariji gradjanin\Najstariji gradjanin\obj\Debug\net8.0\Najstariji gradjanin.AssemblyInfoInputs.cache
+K:\ITOIP Relja\4. nedelja\Najstariji gradjanin\Najstariji gradjanin\obj\Debug\net8.0\Najstariji gradjanin.AssemblyInfo.cs
+K:\ITOIP Relja\4. nedelja\Najstariji gradjanin\Najstariji gradjanin\obj\Debug\net8.0\Najstariji gradjanin.csproj.CoreCompileInputs.cache
+K:\ITOIP Relja\4. nedelja\Najstariji gradjanin\Najstariji gradjanin\obj\Debug\net8.0\Najstariji gradjanin.sourcelink.json
+K:\ITOIP Relja\4. nedelja\Najstariji gradjanin\Najstariji gradjanin\obj\Debug\net8.0\Najstariji gradjanin.dll
+K:\ITOIP Relja\4. nedelja\Najstariji gradjanin\Najstariji gradjanin\obj\Debug\net8.0\refint\Najstariji gradjanin.dll
+K:\ITOIP Relja\4. nedelja\Najstariji gradjanin\Najstariji gradjanin\obj\Debug\net8.0\Najstariji gradjanin.pdb
+K:\ITOIP Relja\4. nedelja\Najstariji gradjanin\Najstariji gradjanin\obj\Debug\net8.0\Najstariji gradjanin.genruntimeconfig.cache
+K:\ITOIP Relja\4. nedelja\Najstariji gradjanin\Najstariji gradjanin\obj\Debug\net8.0\ref\Najstariji gradjanin.dll
